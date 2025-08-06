@@ -41,6 +41,18 @@ To install the latest version directly from GitHub:
 pip install git+https://github.com/YOUR_USERNAME/Mantis.git
 ```
 
+## 💾 Model Weights
+
+Model weights are available on the [Releases page](https://github.com/YOUR_USERNAME/Mantis/releases).  
+Each `.pt` file corresponds to a specific configuration (4-week / 8-week, with / without covariates).  
+
+After installation, download your desired model like this:
+
+```bash
+mkdir -p models
+wget -O models/mantis_4w_cov.pt https://github.com/YOUR_USERNAME/Mantis/releases/download/mantis-v1.0/mantis_4w_cov.pt
+```
+
 ## 🧪 Quick Example
 
 ```
@@ -66,7 +78,7 @@ mantis/ # Core library
 ├── model.py # Model architecture
 ├── inference.py # High-level Mantis class
 ├── utils.py # Preprocessing & normalization
-├── init.py
+├── __init__.py
 
 mantis_forecasting_demo.ipynb # ✅ Main Colab demo
 data/ # Example input data (CSV)
