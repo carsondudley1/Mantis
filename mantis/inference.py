@@ -1,7 +1,8 @@
 import os
 import torch
+import numpy as np
 from .model import MultiTimeSeriesForecaster
-from .utils import preprocess_input
+from .utils import preprocess_input, DEFAULT_MEAN, DEFAULT_STD
 
 class Mantis:
     def __init__(self, forecast_horizon: int = 4, use_covariate: bool = True, model_dir: str = "models"):
@@ -41,7 +42,7 @@ class Mantis:
         self.model.load_state_dict(state_dict)
         self.model.eval()
 
-    def predict(self, time_series, covariate=None, population=None, target_type=2):
+    def predict(self, time_series, covariate=None, population=None, target_type=2, covariate_type=None):
         """
         Run Mantis on a single time series.
 
@@ -50,9 +51,10 @@ class Mantis:
             covariate: 1D array-like of daily covariate values (raw), or None
             population: Optional float population (log1p-transformed internally)
             target_type: 0=cases, 1=hosp, 2=deaths
+            covariate_type: 0=cases, 1=hosp, 2=deaths (optional; defaults to target_type)
 
         Returns:
-            np.ndarray of shape [H, 9] with predicted quantiles
+            np.ndarray of shape [H, 9] with predicted quantiles (denormalized)
         """
         if self.use_covariate and covariate is None:
             raise ValueError("This model expects a covariate input, but none was provided.")
@@ -61,7 +63,8 @@ class Mantis:
             time_series,
             covariate if self.use_covariate else None,
             population,
-            target_type=target_type
+            target_type=target_type,
+            covariate_type=covariate_type if self.use_covariate else None
         )
 
         with torch.no_grad():
@@ -69,9 +72,14 @@ class Mantis:
 
         pred = pred.squeeze(0).cpu().numpy()  # [H, 9]
 
-        # Widen all quantiles away from the median
+        # Widen all quantiles away from the median (except the median itself)
         median = pred[:, 4:5]
         widened = median + 1.15 * (pred - median)
-        widened[:, 4] = median[:, 0]  # Don't shift the median
+        widened[:, 4] = median[:, 0]  # Preserve exact median
 
-        return widened
+        # Denormalize: reverse z-score and expm1
+        mean = DEFAULT_MEAN[target_type]
+        std = DEFAULT_STD[target_type]
+        denorm = np.expm1(widened * std + mean)
+
+        return denorm
