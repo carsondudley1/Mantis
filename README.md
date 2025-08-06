@@ -61,6 +61,7 @@ forecast = model.predict(
 
 ## 📁 Project Structure
 
+``` text
 mantis/ # Core library
 ├── model.py # Model architecture
 ├── inference.py # High-level Mantis class
@@ -73,3 +74,4 @@ models/ # Model weights (optional; downloaded from Releases)
 setup.py
 LICENSE
 NOTICE.txt
+```
