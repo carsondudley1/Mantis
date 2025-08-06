@@ -4,14 +4,14 @@ import torch
 # Hardcoded normalization stats (match training values exactly)
 # If you want to load these dynamically later, we can adjust
 DEFAULT_MEAN = {
-    0: 1.0,  # placeholder: cases
-    1: 1.0,  # hospitalizations
-    2: 1.0   # deaths
+    0: 5.55,  # cases
+    1: 3.84,  # hospitalizations
+    2: 2.57   # deaths
 }
 DEFAULT_STD = {
-    0: 1.0,
-    1: 1.0,
-    2: 1.0
+    0: 3.63,
+    1: 3.15,
+    2: 2.59
 }
 
 def preprocess_input(
