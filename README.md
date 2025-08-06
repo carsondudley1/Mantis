@@ -82,7 +82,7 @@ If you use Mantis or the SGNN framework in academic work, please cite the Mantis
 
 ## 📄 Citation
 
-If you use Mantis or the SGNN framework in your work, please cite the SGNN paper:
+If you use Mantis or the SGNN framework in your work, please cite the papers:
 
 ```bibtex
 @misc{sgnns2025,
