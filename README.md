@@ -48,7 +48,7 @@ After installation, download your desired model like this:
 
 ```bash
 mkdir -p models
-wget -O models/mantis_4w_cov.pt https://github.com/YOUR_USERNAME/Mantis/releases/download/mantis-v1.0/mantis_4w_cov.pt
+wget -O models/mantis_4w_cov.pt https://github.com/carsondudley1/Mantis/releases/download/mantis-v1.0/mantis_4w_cov.pt
 ```
 
 ## 🧪 Quick Example
