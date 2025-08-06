@@ -41,7 +41,7 @@ pip install git+https://github.com/YOUR_USERNAME/Mantis.git
 
 ## 💾 Model Weights
 
-Model weights are available on the [Releases page](https://github.com/YOUR_USERNAME/Mantis/releases).  
+Model weights are available on the [Releases page](https://github.com/carsondudley1/Mantis/releases).  
 Each `.pt` file corresponds to a specific configuration (4-week / 8-week, with / without covariates).  
 
 After installation, download your desired model like this:
