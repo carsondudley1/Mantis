@@ -8,6 +8,8 @@ Carson Dudley — University of Michigan
 **Mantis** is a foundation model trained entirely on mechanistic outbreak simulations.  
 It forecasts infectious disease trajectories **without needing any real-world training data**, and generalizes across diseases, regions, and outbreak settings.
 
+> A simulation-trained, zero-shot infectious disease forecasting model with mechanistic interpretability.
+
 ---
 
 ## 🚀 Try It Instantly
