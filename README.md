@@ -36,7 +36,7 @@ _No installation or coding required._
 To install the latest version directly from GitHub:
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/Mantis.git
+pip install git+https://github.com/carsondudley1E/Mantis.git
 ```
 
 ## 💾 Model Weights
