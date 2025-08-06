@@ -20,7 +20,7 @@ _No installation or coding required._
 ## 📚 Papers
 
 - **Mantis Paper:** _Coming soon — link will be here_
-- **SGNN Framework Paper:** _Coming soon — link will be here_
+- **SGNN Framework Paper:** 
 
 ---
 
@@ -39,4 +39,21 @@ To install the latest version directly from GitHub:
 
 ```bash
 pip install git+https://github.com/YOUR_USERNAME/Mantis.git
+```
+
+## 🧪 Quick Example
+
+```
+from mantis import Mantis
+
+# Load a 4-week horizon model with covariates
+model = Mantis(forecast_horizon=4, use_covariate=True)
+
+# Predict on example data
+forecast = model.predict(
+    time_series=hosp_ts,         # e.g. past hospitalizations
+    covariate=deaths_ts,         # e.g. past deaths
+    population=1_000_000,
+    target_type=1                # 0 = cases, 1 = hosp, 2 = deaths
+)
 ```
