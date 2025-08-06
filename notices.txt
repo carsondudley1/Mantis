@@ -1,4 +1,4 @@
-Simulation-Grounded Neural Networks (SGNNs)
+Mantis
 Copyright © 2025 The Regents of the University of Michigan
 
 This product includes software developed at the University of Michigan.
