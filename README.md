@@ -80,10 +80,6 @@ NOTICE.txt
 
 If you use Mantis or the SGNN framework in academic work, please cite the Mantis and SGNN papers:
 
-## 📄 Citation
-
-If you use Mantis or the SGNN framework in your work, please cite the papers:
-
 ```bibtex
 @misc{sgnns2025,
   title     = {Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery},
