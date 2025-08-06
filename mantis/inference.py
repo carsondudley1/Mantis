@@ -1,19 +1,28 @@
+import os
 import torch
 from .model import MultiTimeSeriesForecaster
 from .utils import preprocess_input
 
 class Mantis:
-    def __init__(self, model_path: str, forecast_horizon: int = 8, use_covariate: bool = True):
+    def __init__(self, forecast_horizon: int = 4, use_covariate: bool = True, model_dir: str = "models"):
         """
         Args:
-            model_path: Path to the .pt file (e.g., 'models/mantis_8w_cov.pt')
             forecast_horizon: Number of weeks to forecast (4 or 8)
-            use_covariate: Whether the model expects a covariate input
+            use_covariate: Whether the model uses a covariate input
+            model_dir: Path to directory containing the model .pt files
         """
+        assert forecast_horizon in [4, 8], "forecast_horizon must be 4 or 8"
         self.use_covariate = use_covariate
         self.forecast_horizon = forecast_horizon
 
-        # Define model config (should match training)
+        suffix = "cov" if use_covariate else "nocov"
+        filename = f"mantis_{forecast_horizon}w_{suffix}.pt"
+        model_path = os.path.join(model_dir, filename)
+
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(f"Model file not found: {model_path}")
+
+        # Initialize model with known architecture
         self.model = MultiTimeSeriesForecaster(
             input_window=112,
             forecast_horizon=forecast_horizon,
@@ -25,11 +34,9 @@ class Mantis:
             disease_embed_dim=64,
             pop_embed_dim=64,
             binary_feat_dim=32,
-            teacher_forcing_ratio=0.0,
             dropout=0.2
         )
 
-        # Load weights
         state_dict = torch.load(model_path, map_location='cpu')
         self.model.load_state_dict(state_dict)
         self.model.eval()
@@ -41,17 +48,15 @@ class Mantis:
         Args:
             time_series: 1D array-like of daily target values (raw)
             covariate: 1D array-like of daily covariate values (raw), or None
-            population: Optional float population (will be log1p transformed)
+            population: Optional float population (log1p-transformed internally)
             target_type: 0=cases, 1=hosp, 2=deaths
 
         Returns:
             np.ndarray of shape [H, 9] with predicted quantiles
         """
-        # Sanity check
         if self.use_covariate and covariate is None:
             raise ValueError("This model expects a covariate input, but none was provided.")
 
-        # Get input dict for the model
         inputs = preprocess_input(
             time_series,
             covariate if self.use_covariate else None,
@@ -64,9 +69,9 @@ class Mantis:
 
         pred = pred.squeeze(0).cpu().numpy()  # [H, 9]
 
-        # Widen all quantiles away from the median (index 4)
-        median = pred[:, 4:5]  # shape [H, 1]
+        # Widen all quantiles away from the median
+        median = pred[:, 4:5]
         widened = median + 1.15 * (pred - median)
-        widened[:, 4] = median[:, 0]  # don't shift the median itself
+        widened[:, 4] = median[:, 0]  # Don't shift the median
 
         return widened
