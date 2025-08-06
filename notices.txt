@@ -1,0 +1,64 @@
+Simulation-Grounded Neural Networks (SGNNs)
+Copyright © 2025 The Regents of the University of Michigan
+
+This product includes software developed at the University of Michigan.
+
+This product includes software from the following third-party projects:
+
+---
+
+**PyTorch** (BSD 3-Clause License)  
+Copyright © 2016-present, Facebook, Inc.  
+https://github.com/pytorch/pytorch
+
+---
+
+**NumPy** (BSD 3-Clause License)  
+Copyright © 2005-2023, NumPy Developers.  
+https://github.com/numpy/numpy
+
+---
+
+**Pandas** (BSD 3-Clause License)  
+Copyright © 2008-2023, pandas development team  
+https://github.com/pandas-dev/pandas
+
+---
+
+**Matplotlib** (PSF-based BSD License)  
+Copyright © 2012–2023 Matplotlib Development Team  
+https://github.com/matplotlib/matplotlib
+
+---
+
+**scikit-learn** (BSD 3-Clause License)  
+Copyright © 2007–2023, scikit-learn developers  
+https://github.com/scikit-learn/scikit-learn
+
+---
+
+**NetworkX** (BSD License)  
+Copyright © 2004–present, NetworkX Developers  
+https://github.com/networkx/networkx
+
+---
+
+**tqdm** (MIT License)  
+Copyright © 2014–present, tqdm contributors  
+https://github.com/tqdm/tqdm
+
+---
+
+**Jupyter Notebooks / IPython** (Modified BSD License)  
+Copyright © 2001-2023 IPython and Jupyter Development Team  
+https://github.com/jupyter/notebook
+
+---
+
+**Open Reaction Database** (MIT License)  
+Used for chemical benchmark data access  
+https://github.com/Open-Reaction-Database/ord-data
+
+---
+
+Please refer to the individual project repositories for full license terms.
