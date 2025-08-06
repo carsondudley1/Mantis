@@ -18,6 +18,7 @@ def preprocess_input(
     covariate=None,
     population=None,
     target_type=2,
+    covariate_type=None,
     mean_std=None  # optionally pass in custom normalization dict
 ):
     """
@@ -28,6 +29,7 @@ def preprocess_input(
         covariate: 1D array-like of daily covariate values (raw), or None
         population: float (or None). Will be log1p-transformed and normalized.
         target_type: 0=cases, 1=hosp, 2=deaths
+        covariate_type: 0=cases, 1=hosp, 2=deaths (optional; defaults to target_type)
         mean_std: Optional dict with 'mean' and 'std' overrides
     
     Returns:
@@ -37,15 +39,18 @@ def preprocess_input(
     x = np.array(time_series, dtype=np.float32)
     cov = np.array(covariate, dtype=np.float32) if covariate is not None else None
 
-    # Normalize with global stats
-    mean = mean_std['mean'] if mean_std else DEFAULT_MEAN[target_type]
-    std  = mean_std['std'] if mean_std else DEFAULT_STD[target_type]
+    # Use passed-in stats or defaults
+    target_mean = mean_std['mean'] if mean_std else DEFAULT_MEAN[target_type]
+    target_std  = mean_std['std'] if mean_std else DEFAULT_STD[target_type]
 
-    x = (np.log1p(x) - mean) / (std + 1e-7)
+    x = (np.log1p(x) - target_mean) / (target_std + 1e-7)
 
+    # Use correct stats for covariate
     if cov is not None:
-        cov_mean = mean_std['cov_mean'] if mean_std else DEFAULT_MEAN[target_type]
-        cov_std  = mean_std['cov_std'] if mean_std else DEFAULT_STD[target_type]
+        cov_type = covariate_type if covariate_type is not None else target_type
+        cov_mean = mean_std['cov_mean'] if mean_std else DEFAULT_MEAN[cov_type]
+        cov_std  = mean_std['cov_std'] if mean_std else DEFAULT_STD[cov_type]
+
         cov = (np.log1p(cov) - cov_mean) / (cov_std + 1e-7)
         feats = np.stack([x, cov], axis=1)
     else:
