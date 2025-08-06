@@ -57,3 +57,19 @@ forecast = model.predict(
     target_type=1                # 0 = cases, 1 = hosp, 2 = deaths
 )
 ```
+📘 See full usage in mantis_forecasting_demo.ipynb
+
+## 📁 Project Structure
+
+mantis/ # Core library
+├── model.py # Model architecture
+├── inference.py # High-level Mantis class
+├── utils.py # Preprocessing & normalization
+├── init.py
+
+mantis_forecasting_demo.ipynb # ✅ Main Colab demo
+data/ # Example input data (CSV)
+models/ # Model weights (optional; downloaded from Releases)
+setup.py
+LICENSE
+NOTICE.txt
