@@ -2,7 +2,6 @@ import numpy as np
 import torch
 
 # Hardcoded normalization stats (match training values exactly)
-# If you want to load these dynamically later, we can adjust
 DEFAULT_MEAN = {
     0: 5.55,  # cases
     1: 3.84,  # hospitalizations
