@@ -27,8 +27,8 @@ _No installation or coding required._
 ## 📚 Papers
 
 - **Mantis Paper:** _Coming soon — link will be here_
-- **SGNN Framework Paper:** 
-
+- **SGNN Framework Paper:** [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)  
+  *Carson Dudley et al., arXiv:2507.08977 [cs.LG]*
 ---
 
 ## 🔍 Why Mantis?
