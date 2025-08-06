@@ -5,6 +5,11 @@ Carson Dudley — University of Michigan
 
 # 🦠 Mantis: A Simulation-Grounded Foundation Model for Infectious Disease Forecasting
 
+![GitHub](https://img.shields.io/github/license/carsondudley1/Mantis)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Downloads](https://img.shields.io/github/downloads/carsondudley1/Mantis/total)
+
+
 **Mantis** is a foundation model trained entirely on mechanistic outbreak simulations.  
 It forecasts infectious disease trajectories **without needing any real-world training data**, and generalizes across diseases, regions, and outbreak settings.
 
