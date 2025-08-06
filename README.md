@@ -72,6 +72,26 @@ mantis_forecasting_demo.ipynb # ✅ Main Colab demo
 data/ # Example input data (CSV)
 models/ # Model weights (optional; downloaded from Releases)
 setup.py
-LICENSE
+LICENSE.txt
 NOTICE.txt
+```
+
+## 📄 Citation
+
+If you use Mantis or the SGNN framework in academic work, please cite the Mantis and SGNN papers:
+
+## 📄 Citation
+
+If you use Mantis or the SGNN framework in your work, please cite the SGNN paper:
+
+```bibtex
+@misc{sgnns2025,
+  title     = {Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery},
+  author    = {Carson Dudley and Reiden Magdaleno and Christopher Harding and Marisa Eisenberg},
+  year      = {2025},
+  eprint    = {2507.08977},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url       = {https://arxiv.org/abs/2507.08977}
+}
 ```
