@@ -7,11 +7,9 @@ setup(
     description="Simulation-grounded foundation model for infectious disease forecasting",
     packages=find_packages(),
     install_requires=[
-        "torch",
         "numpy",
         "pandas",
         "scipy",
-        # add others like einops, tqdm if used
     ],
     include_package_data=True,
     python_requires=">=3.7",
