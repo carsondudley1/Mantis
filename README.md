@@ -31,15 +31,6 @@ _No installation or coding required._
   *Carson Dudley et al., arXiv:2507.08977 [cs.LG]*
 ---
 
-## 🔍 Why Mantis?
-
-- 📦 **Zero-shot forecasting**: No fine-tuning or retraining needed
-- 🌎 **Cross-disease generalization**: Trained on simulated data covering broad pathogen space
-- 🧠 **Mechanistic interpretability**: Forecasts backed by simulation-driven reasoning
-- ⚙️ **Flexible & fast**: Predicts cases, hospitalizations, or deaths from partial signals
-
----
-
 ## 📦 Installation
 
 To install the latest version directly from GitHub:
