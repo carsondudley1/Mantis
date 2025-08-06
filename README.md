@@ -1,9 +1,12 @@
+© 2025 The Regents of the University of Michigan  
+Carson Dudley — University of Michigan
+
+---
+
 # 🦠 Mantis: A Simulation-Grounded Foundation Model for Infectious Disease Forecasting
 
 **Mantis** is a foundation model trained entirely on mechanistic outbreak simulations.  
 It forecasts infectious disease trajectories **without needing any real-world training data**, and generalizes across diseases, regions, and outbreak settings.
-
-> Accurate. Deployable. Mechanistically interpretable.
 
 ---
 
