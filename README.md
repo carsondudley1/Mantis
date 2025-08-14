@@ -61,7 +61,6 @@ model = Mantis(forecast_horizon=4, use_covariate=True)
 forecast = model.predict(
     time_series=hosp_ts,         # e.g. past hospitalizations
     covariate=deaths_ts,         # e.g. past deaths
-    population=1_000_000,
     target_type=1                # 0 = cases, 1 = hosp, 2 = deaths
 )
 ```
