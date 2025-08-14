@@ -59,9 +59,10 @@ model = Mantis(forecast_horizon=4, use_covariate=True)
 
 # Predict on example data
 forecast = model.predict(
-    time_series=hosp_ts,         # e.g. past hospitalizations
-    covariate=deaths_ts,         # e.g. past deaths
-    target_type=1                # 0 = cases, 1 = hosp, 2 = deaths
+    time_series=deaths_ts,         # e.g. past deaths
+    covariate=hosp_ts,         # e.g. past hospitalizations
+    target_type=2,                # 0 = cases, 1 = hosp, 2 = deaths
+    covariate_type=1
 )
 ```
 📘 See full usage in mantis_forecasting_demo.ipynb
