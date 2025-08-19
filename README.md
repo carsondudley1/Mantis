@@ -24,7 +24,7 @@ _No installation or coding required._
 
 ## 📚 Papers
 
-- **Mantis Paper:** [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260) /n
+- **Mantis Paper:** [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260) <br>
   *Carson Dudley et al., arXiv:2508.12260 [cs.AI]*
 - **SGNN Framework Paper:** [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)  
   *Carson Dudley et al., arXiv:2507.08977 [cs.LG]*
