@@ -19,49 +19,66 @@ def preprocess_input(
     population=None,
     target_type=2,
     covariate_type=None,
-    mean_std=None  # optionally pass in custom normalization dict
+    mean_std=None  # optional dict: {'mean','std','cov_mean','cov_std','pop_mean','pop_std'}
 ):
     """
-    Converts raw daily time series (and covariate) into model-ready input.
-    
+    Converts raw WEEKLY time series (and optional covariate) into model-ready input.
+
     Args:
-        time_series: 1D array-like of daily target values (raw)
-        covariate: 1D array-like of daily covariate values (raw), or None
-        population: float (or None). Will be log1p-transformed and normalized.
+        time_series: 1D array-like of weekly target values (raw)
+        covariate: 1D array-like of weekly covariate values (raw), or None
+        population: float (or None). log1p-transformed; standardized if pop stats provided.
         target_type: 0=cases, 1=hosp, 2=deaths
         covariate_type: 0=cases, 1=hosp, 2=deaths (optional; defaults to target_type)
-        mean_std: Optional dict with 'mean' and 'std' overrides
-    
+        mean_std: Optional dict with overrides:
+                  {'mean','std','cov_mean','cov_std','pop_mean','pop_std'}
+
     Returns:
         Dict suitable to pass into model.predict(...)
     """
     # Convert to float32 np arrays
-    x = np.array(time_series, dtype=np.float32)
-    cov = np.array(covariate, dtype=np.float32) if covariate is not None else None
+    x = np.asarray(time_series, dtype=np.float32)
+    cov = np.asarray(covariate, dtype=np.float32) if covariate is not None else None
 
-    # Use passed-in stats or defaults
-    target_mean = mean_std['mean'] if mean_std else DEFAULT_MEAN[target_type]
-    target_std  = mean_std['std'] if mean_std else DEFAULT_STD[target_type]
+    # Use passed-in stats or defaults (for TARGET)
+    if mean_std is not None and 'mean' in mean_std and 'std' in mean_std:
+        target_mean = float(mean_std['mean'])
+        target_std  = float(mean_std['std'])
+    else:
+        target_mean = DEFAULT_MEAN[target_type]
+        target_std  = DEFAULT_STD[target_type]
 
     x = (np.log1p(x) - target_mean) / (target_std + 1e-7)
 
-    # Use correct stats for covariate
+    # Use correct stats for COVARIATE (if provided)
     if cov is not None:
         cov_type = covariate_type if covariate_type is not None else target_type
-        cov_mean = mean_std['cov_mean'] if mean_std else DEFAULT_MEAN[cov_type]
-        cov_std  = mean_std['cov_std'] if mean_std else DEFAULT_STD[cov_type]
+        if mean_std is not None and 'cov_mean' in mean_std and 'cov_std' in mean_std:
+            cov_mean = float(mean_std['cov_mean'])
+            cov_std  = float(mean_std['cov_std'])
+        else:
+            cov_mean = DEFAULT_MEAN[cov_type]
+            cov_std  = DEFAULT_STD[cov_type]
 
         cov = (np.log1p(cov) - cov_mean) / (cov_std + 1e-7)
-        feats = np.stack([x, cov], axis=1)
+        feats = np.stack([x, cov], axis=1)              # [T, 2]
     else:
-        feats = np.stack([x, np.zeros_like(x)], axis=1)  # dummy 0 covariate
+        # TRUE 1-channel path when no covariate
+        feats = x[:, None]                              # [T, 1]
 
-    values = torch.tensor(feats).unsqueeze(0)  # [1, T, 2]
-    valid_mask = torch.ones(values.shape[1], dtype=torch.bool).unsqueeze(0)  # [1, T]
-    day_indices = torch.arange(values.shape[1]).unsqueeze(0) + 1098
+    values = torch.tensor(feats, dtype=torch.float32).unsqueeze(0)  # [1, T, C]
+    T = values.shape[1]
+    valid_mask = torch.ones(T, dtype=torch.bool).unsqueeze(0)       # [1, T]
+    day_indices = torch.arange(T, dtype=torch.long).unsqueeze(0) + 1098
 
-    pop_log = np.log1p(population) if population is not None else 0.0
-    population_tensor = torch.tensor([pop_log], dtype=torch.float32)
+    # Population: log1p, then standardize if pop stats provided
+    pop_log = float(np.log1p(float(population))) if population is not None else 0.0
+    if mean_std is not None and 'pop_mean' in mean_std and 'pop_std' in mean_std:
+        population_scaled = (pop_log - float(mean_std['pop_mean'])) / (float(mean_std['pop_std']) + 1e-7)
+    else:
+        population_scaled = pop_log  # fallback if no pop stats provided
+
+    population_tensor = torch.tensor([population_scaled], dtype=torch.float32)
 
     return {
         'values': values,
