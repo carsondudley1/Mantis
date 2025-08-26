@@ -289,7 +289,8 @@ class MultiTimeSeriesForecaster(nn.Module):
         binary_feat_dim=32,
         teacher_forcing_ratio=0.1,
         dropout=0.1,
-        layer_norm_eps=1e-5
+        layer_norm_eps=1e-5,
+        values_input_dim=2
     ):
         super().__init__()
         self.input_window = input_window
@@ -303,7 +304,7 @@ class MultiTimeSeriesForecaster(nn.Module):
         # ===== FEATURE EMBEDDINGS =====
         # Multi-scale convolutional embedding for time series data
         self.values_embedding = MultiScaleConvEmbedding(
-            input_dim=2,
+            input_dim=values_input_dim,
             output_dim=hidden_dim,
             dropout=dropout
         )
