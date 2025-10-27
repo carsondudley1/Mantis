@@ -77,7 +77,7 @@ mantis/ # Core library
 
 mantis_forecasting_demo.ipynb # ✅ Main Colab demo
 data/ # Example input data (CSV)
-models/ # Model weights (optional; downloaded from Releases)
+models/ # Model weights (downloaded from Releases)
 setup.py
 LICENSE.txt
 NOTICE.txt
