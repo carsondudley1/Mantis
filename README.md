@@ -85,7 +85,7 @@ NOTICE.txt
 
 ## 📄 Citation
 
-If you use Mantis or the SGNN framework in academic work, please cite the Mantis and SGNN papers:
+If you use Mantis in academic work, please cite the Mantis paper:
 
 ```bibtex
 @misc{mantis,
@@ -99,14 +99,3 @@ If you use Mantis or the SGNN framework in academic work, please cite the Mantis
 }
 ```
 
-```bibtex
-@misc{sgnns2025,
-  title     = {Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery},
-  author    = {Carson Dudley and Reiden Magdaleno and Christopher Harding and Marisa Eisenberg},
-  year      = {2025},
-  eprint    = {2507.08977},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.LG},
-  url       = {https://arxiv.org/abs/2507.08977}
-}
-```
