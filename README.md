@@ -3,7 +3,7 @@ Carson Dudley — University of Michigan
 
 ---
 
-# 🦠 Mantis: A Simulation-Grounded Foundation Model for Infectious Disease Forecasting
+# 🦠 Mantis: A Foundation Model for Infectious Disease Forecasting
 
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm--Noncommercial%201.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
