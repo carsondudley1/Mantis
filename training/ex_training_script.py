@@ -1,3 +1,9 @@
+'''
+
+Example training script (could be run on Google colab if connected to GPU)
+
+'''
+
 import os
 import glob
 import math
