@@ -88,14 +88,12 @@ NOTICE.txt
 If you use Mantis in academic work, please cite the Mantis paper:
 
 ```bibtex
-@misc{mantis,
-      title={Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting}, 
-      author={Carson Dudley and Reiden Magdaleno and Christopher Harding and Ananya Sharma and Emily Martin and Marisa Eisenberg},
-      year={2025},
-      eprint={2508.12260},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2508.12260}, 
+@article{mantis,
+  title={Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting},
+  author={Carson Dudley and Reiden Magdaleno and Christopher Harding and Ananya Sharma and Emily Martin and Marisa Eisenberg},
+  journal={arXiv preprint arXiv:2508.12260},
+  year={2025},
+  url={https://arxiv.org/abs/2508.12260}
 }
 ```
 
