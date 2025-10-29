@@ -1,0 +1,4 @@
+export(mantis_install)
+export(mantis_forecast)
+export(mantis_setup)
+export(mantis_download_weights)

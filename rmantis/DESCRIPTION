@@ -1,0 +1,12 @@
+Package: rmantis
+Title: R Wrapper for Mantis Epidemic Forecasting
+Version: 0.1.0
+Authors@R: person("Magdaleno", "Reiden", email = "reiden@umich.edu", role = c("aut", "cre"))
+Description: Provides an R interface to the Mantis epidemic forecasting model,
+    using official pretrained weights via Python reticulate.
+Depends: R (>= 4.0)
+Imports:
+    reticulate
+License: MIT
+Encoding: UTF-8
+LazyData: true
