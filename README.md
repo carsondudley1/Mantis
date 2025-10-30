@@ -15,7 +15,7 @@ It forecasts infectious disease trajectories **without needing any real-world tr
 
 ---
 
-## 🚀 Try It Instantly
+## 🚀 Try It
 
 👉 [Run the Colab Tutorial](https://colab.research.google.com/drive/1Epuq-6ZGUM67FOfWHnLGkld4-cb8EDW0?usp=sharing)  
 _No installation or coding required._
