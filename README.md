@@ -1,5 +1,5 @@
 © 2025 The Regents of the University of Michigan  
-Carson Dudley — University of Michigan
+Carson Dudley -- University of Michigan
 
 ---
 
