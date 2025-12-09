@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# COVID-19 Death Forecasts with MANTIS
+# COVID-19 Death Forecasts with Mantis
 # ------------------------------------------------------------
 
 # Install packages if not already installed
