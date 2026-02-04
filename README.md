@@ -89,7 +89,7 @@ If you use Mantis in academic work, please cite the Mantis paper:
 
 ```bibtex
 @article{mantis,
-  title={Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting},
+  title={Mantis: A Foundation Model for Mechanistic Disease Forecasting},
   author={Carson Dudley and Reiden Magdaleno and Christopher Harding and Ananya Sharma and Emily Martin and Marisa Eisenberg},
   journal={arXiv preprint arXiv:2508.12260},
   year={2025},
