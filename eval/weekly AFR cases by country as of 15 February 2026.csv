@@ -1,0 +1,2913 @@
+country,iso3,week_end_date,total_confirmed_cases,total_suspected_cases,total_deaths,total_suspected_deaths,new_confirmed_cases,new_suspected_cases,new_deaths,new_suspected_deaths
+Angola,AGO,2025-08-31,12,0,0,0,0,0,0,0
+Angola,AGO,2025-08-24,12,0,0,0,0,0,0,0
+Angola,AGO,2025-08-17,12,0,0,0,0,0,0,0
+Angola,AGO,2025-08-10,12,0,0,0,0,0,0,0
+Angola,AGO,2025-08-03,12,0,0,0,0,0,0,0
+Angola,AGO,2025-07-27,12,0,0,0,0,0,0,0
+Angola,AGO,2025-07-20,12,0,0,0,0,0,0,0
+Angola,AGO,2025-07-13,12,0,0,0,1,0,0,0
+Angola,AGO,2025-07-06,11,0,0,0,0,0,0,0
+Angola,AGO,2025-06-29,11,0,0,0,1,0,0,0
+Angola,AGO,2025-06-22,10,0,0,0,0,0,0,0
+Angola,AGO,2025-06-15,10,0,0,0,0,0,0,0
+Angola,AGO,2025-06-08,10,0,0,0,0,0,0,0
+Angola,AGO,2025-06-01,10,0,0,0,0,0,0,0
+Angola,AGO,2025-05-25,10,0,0,0,0,0,0,0
+Angola,AGO,2025-05-18,10,0,0,0,0,0,0,0
+Angola,AGO,2025-05-11,10,0,0,0,0,0,0,0
+Angola,AGO,2025-05-04,10,0,0,0,0,0,0,0
+Angola,AGO,2025-04-27,10,0,0,0,0,0,0,0
+Angola,AGO,2025-04-20,10,0,0,0,0,0,0,0
+Angola,AGO,2025-04-13,10,0,0,0,0,0,0,0
+Angola,AGO,2025-04-06,10,0,0,0,0,0,0,0
+Angola,AGO,2025-03-30,10,0,0,0,2,0,0,0
+Angola,AGO,2025-03-23,8,0,0,0,0,0,0,0
+Angola,AGO,2025-03-16,8,0,0,0,0,0,0,0
+Angola,AGO,2025-03-09,8,0,0,0,1,0,0,0
+Angola,AGO,2025-03-02,7,0,0,0,0,0,0,0
+Angola,AGO,2025-02-23,7,0,0,0,2,0,0,0
+Angola,AGO,2025-02-16,5,0,0,0,1,0,0,0
+Angola,AGO,2025-02-09,4,0,0,0,0,0,0,0
+Angola,AGO,2025-02-02,4,0,0,0,0,0,0,0
+Angola,AGO,2025-01-26,4,0,0,0,0,0,0,0
+Angola,AGO,2025-01-19,4,0,0,0,0,0,0,0
+Angola,AGO,2025-01-12,4,0,0,0,0,0,0,0
+Angola,AGO,2025-01-05,4,0,0,0,0,0,0,0
+Angola,AGO,2024-12-29,4,0,0,0,0,0,0,0
+Angola,AGO,2024-12-22,4,0,0,0,0,0,0,0
+Angola,AGO,2024-12-15,4,0,0,0,0,0,0,0
+Angola,AGO,2024-12-08,4,0,0,0,1,0,0,0
+Angola,AGO,2024-12-01,3,0,0,0,1,0,0,0
+Angola,AGO,2024-11-24,2,0,0,0,1,0,0,0
+Angola,AGO,2024-11-17,1,0,0,0,1,0,0,0
+Angola,AGO,2024-11-10,0,0,0,0,0,0,0,0
+Benin,BEN,2024-12-29,3,0,0,0,0,0,0,0
+Benin,BEN,2024-12-22,3,0,0,0,0,0,0,0
+Benin,BEN,2024-12-15,3,0,0,0,0,0,0,0
+Benin,BEN,2024-12-08,3,0,0,0,0,0,0,0
+Benin,BEN,2024-12-01,3,0,0,0,0,0,0,0
+Benin,BEN,2024-11-24,3,0,0,0,0,0,0,0
+Benin,BEN,2024-11-17,3,0,0,0,0,0,0,0
+Benin,BEN,2024-11-10,3,0,0,0,0,0,0,0
+Benin,BEN,2024-11-03,3,0,0,0,0,0,0,0
+Benin,BEN,2024-10-27,3,0,0,0,0,0,0,0
+Benin,BEN,2024-10-20,3,0,0,0,0,0,0,0
+Benin,BEN,2024-10-13,3,0,0,0,0,0,0,0
+Benin,BEN,2024-10-06,3,0,0,0,0,0,0,0
+Benin,BEN,2024-09-29,3,0,0,0,0,0,0,0
+Benin,BEN,2024-09-22,3,0,0,0,0,0,0,0
+Benin,BEN,2024-09-15,3,0,0,0,0,0,0,0
+Benin,BEN,2024-09-08,3,0,0,0,0,0,0,0
+Benin,BEN,2024-09-01,3,0,0,0,0,0,0,0
+Benin,BEN,2024-08-25,3,0,0,0,0,0,0,0
+Benin,BEN,2024-08-18,3,0,0,0,0,0,0,0
+Benin,BEN,2024-08-11,3,0,0,0,0,0,0,0
+Benin,BEN,2024-08-04,3,0,0,0,0,0,0,0
+Benin,BEN,2024-07-28,3,0,0,0,0,0,0,0
+Benin,BEN,2024-07-21,3,0,0,0,0,0,0,0
+Benin,BEN,2024-07-14,3,0,0,0,0,0,0,0
+Benin,BEN,2024-07-07,3,0,0,0,0,0,0,0
+Benin,BEN,2024-06-30,3,0,0,0,0,0,0,0
+Benin,BEN,2024-06-23,3,0,0,0,0,0,0,0
+Benin,BEN,2024-06-16,3,0,0,0,0,0,0,0
+Benin,BEN,2024-06-09,3,0,0,0,0,0,0,0
+Benin,BEN,2024-06-02,3,0,0,0,0,0,0,0
+Benin,BEN,2024-05-26,3,0,0,0,0,0,0,0
+Benin,BEN,2024-05-19,3,0,0,0,0,0,0,0
+Benin,BEN,2024-05-12,3,0,0,0,0,0,0,0
+Benin,BEN,2024-05-05,3,0,0,0,0,0,0,0
+Benin,BEN,2024-04-28,3,0,0,0,0,0,0,0
+Benin,BEN,2024-04-21,3,0,0,0,0,0,0,0
+Benin,BEN,2024-04-14,3,0,0,0,0,0,0,0
+Benin,BEN,2024-04-07,3,0,0,0,0,0,0,0
+Benin,BEN,2024-03-31,3,0,0,0,0,0,0,0
+Benin,BEN,2024-03-24,3,0,0,0,0,0,0,0
+Benin,BEN,2024-03-17,3,0,0,0,0,0,0,0
+Benin,BEN,2024-03-10,3,0,0,0,0,0,0,0
+Benin,BEN,2024-03-03,3,0,0,0,0,0,0,0
+Benin,BEN,2024-02-25,3,0,0,0,0,0,0,0
+Benin,BEN,2024-02-18,3,0,0,0,0,0,0,0
+Benin,BEN,2024-02-11,3,0,0,0,0,0,0,0
+Benin,BEN,2024-02-04,3,0,0,0,0,0,0,0
+Benin,BEN,2024-01-28,3,0,0,0,0,0,0,0
+Benin,BEN,2024-01-21,3,0,0,0,0,0,0,0
+Benin,BEN,2024-01-14,3,0,0,0,0,0,0,0
+Benin,BEN,2024-01-07,3,0,0,0,0,0,0,0
+Benin,BEN,2023-12-31,3,0,0,0,0,0,0,0
+Benin,BEN,2023-12-24,3,0,0,0,0,0,0,0
+Benin,BEN,2023-12-17,3,0,0,0,0,0,0,0
+Benin,BEN,2023-12-10,3,0,0,0,0,0,0,0
+Benin,BEN,2023-12-03,3,0,0,0,0,0,0,0
+Benin,BEN,2023-11-26,3,0,0,0,0,0,0,0
+Benin,BEN,2023-11-19,3,0,0,0,0,0,0,0
+Benin,BEN,2023-11-12,3,0,0,0,0,0,0,0
+Benin,BEN,2023-11-05,3,0,0,0,0,0,0,0
+Benin,BEN,2023-10-29,3,0,0,0,0,0,0,0
+Benin,BEN,2023-10-22,3,0,0,0,0,0,0,0
+Benin,BEN,2023-10-15,3,0,0,0,0,0,0,0
+Benin,BEN,2023-10-08,3,0,0,0,0,0,0,0
+Benin,BEN,2023-10-01,3,0,0,0,0,0,0,0
+Benin,BEN,2023-09-24,3,0,0,0,0,0,0,0
+Benin,BEN,2023-09-17,3,0,0,0,0,0,0,0
+Benin,BEN,2023-09-10,3,0,0,0,0,0,0,0
+Benin,BEN,2023-09-03,3,0,0,0,0,0,0,0
+Benin,BEN,2023-08-27,3,0,0,0,0,0,0,0
+Benin,BEN,2023-08-20,3,0,0,0,0,0,0,0
+Benin,BEN,2023-08-13,3,0,0,0,0,0,0,0
+Benin,BEN,2023-08-06,3,0,0,0,0,0,0,0
+Benin,BEN,2023-07-30,3,0,0,0,0,0,0,0
+Benin,BEN,2023-07-23,3,0,0,0,0,0,0,0
+Benin,BEN,2023-07-16,3,0,0,0,0,0,0,0
+Benin,BEN,2023-07-09,3,0,0,0,0,0,0,0
+Benin,BEN,2023-07-02,3,0,0,0,0,0,0,0
+Benin,BEN,2023-06-25,3,0,0,0,0,0,0,0
+Benin,BEN,2023-06-18,3,0,0,0,0,0,0,0
+Benin,BEN,2023-06-11,3,0,0,0,0,0,0,0
+Benin,BEN,2023-06-04,3,0,0,0,0,0,0,0
+Benin,BEN,2023-05-28,3,0,0,0,0,0,0,0
+Benin,BEN,2023-05-21,3,0,0,0,0,0,0,0
+Benin,BEN,2023-05-14,3,0,0,0,0,0,0,0
+Benin,BEN,2023-05-07,3,0,0,0,0,0,0,0
+Benin,BEN,2023-04-30,3,0,0,0,0,0,0,0
+Benin,BEN,2023-04-23,3,0,0,0,0,0,0,0
+Benin,BEN,2023-04-16,3,0,0,0,0,0,0,0
+Benin,BEN,2023-04-09,3,0,0,0,0,0,0,0
+Benin,BEN,2023-04-02,3,0,0,0,0,0,0,0
+Benin,BEN,2023-03-26,3,0,0,0,0,0,0,0
+Benin,BEN,2023-03-19,3,0,0,0,0,0,0,0
+Benin,BEN,2023-03-12,3,0,0,0,0,0,0,0
+Benin,BEN,2023-03-05,3,0,0,0,0,0,0,0
+Benin,BEN,2023-02-26,3,0,0,0,0,0,0,0
+Benin,BEN,2023-02-19,3,0,0,0,0,0,0,0
+Benin,BEN,2023-02-12,3,0,0,0,0,0,0,0
+Benin,BEN,2023-02-05,3,0,0,0,0,0,0,0
+Benin,BEN,2023-01-29,3,0,0,0,0,0,0,0
+Benin,BEN,2023-01-22,3,0,0,0,0,0,0,0
+Benin,BEN,2023-01-15,3,0,0,0,0,0,0,0
+Benin,BEN,2023-01-08,3,0,0,0,0,0,0,0
+Benin,BEN,2023-01-01,3,0,0,0,0,0,0,0
+Benin,BEN,2022-12-25,3,0,0,0,0,0,0,0
+Benin,BEN,2022-12-18,3,0,0,0,0,0,0,0
+Benin,BEN,2022-12-11,3,0,0,0,0,0,0,0
+Benin,BEN,2022-12-04,3,0,0,0,0,0,0,0
+Benin,BEN,2022-11-27,3,0,0,0,0,0,0,0
+Benin,BEN,2022-11-20,3,0,0,0,0,0,0,0
+Benin,BEN,2022-11-13,3,0,0,0,0,0,0,0
+Benin,BEN,2022-11-06,3,0,0,0,0,0,0,0
+Benin,BEN,2022-10-30,3,0,0,0,0,0,0,0
+Benin,BEN,2022-10-23,3,0,0,0,0,0,0,0
+Benin,BEN,2022-10-16,3,0,0,0,0,0,0,0
+Benin,BEN,2022-10-09,3,0,0,0,0,0,0,0
+Benin,BEN,2022-10-02,3,0,0,0,0,0,0,0
+Benin,BEN,2022-09-25,3,0,0,0,0,0,0,0
+Benin,BEN,2022-09-18,3,0,0,0,0,0,0,0
+Benin,BEN,2022-09-11,3,0,0,0,0,0,0,0
+Benin,BEN,2022-09-04,3,0,0,0,0,0,0,0
+Benin,BEN,2022-08-28,3,0,0,0,0,0,0,0
+Benin,BEN,2022-08-21,3,0,0,0,0,0,0,0
+Benin,BEN,2022-08-14,3,0,0,0,0,0,0,0
+Benin,BEN,2022-08-07,3,0,0,0,0,0,0,0
+Benin,BEN,2022-07-31,3,0,0,0,0,0,0,0
+Benin,BEN,2022-07-24,3,0,0,0,0,0,0,0
+Benin,BEN,2022-07-17,3,0,0,0,0,0,0,0
+Benin,BEN,2022-07-10,3,0,0,0,0,0,0,0
+Benin,BEN,2022-07-03,3,0,0,0,0,0,0,0
+Benin,BEN,2022-06-26,3,0,0,0,3,0,0,0
+Benin,BEN,2022-06-19,0,0,0,0,0,0,0,0
+Benin,BEN,2022-06-12,0,0,0,0,0,0,0,0
+Benin,BEN,2022-06-05,0,0,0,0,0,0,0,0
+Benin,BEN,2022-05-29,0,0,0,0,0,0,0,0
+Benin,BEN,2022-05-22,0,0,0,0,0,0,0,0
+Benin,BEN,2022-05-15,0,0,0,0,0,0,0,0
+Benin,BEN,2022-05-08,0,0,0,0,0,0,0,0
+Benin,BEN,2022-05-01,0,0,0,0,0,0,0,0
+Benin,BEN,2022-04-24,0,0,0,0,0,0,0,0
+Benin,BEN,2022-04-17,0,0,0,0,0,0,0,0
+Benin,BEN,2022-04-10,0,0,0,0,0,0,0,0
+Benin,BEN,2022-04-03,0,0,0,0,0,0,0,0
+Benin,BEN,2022-03-27,0,0,0,0,0,0,0,0
+Benin,BEN,2022-03-20,0,0,0,0,0,0,0,0
+Benin,BEN,2022-03-13,0,0,0,0,0,0,0,0
+Benin,BEN,2022-03-06,0,0,0,0,0,0,0,0
+Benin,BEN,2022-02-27,0,0,0,0,0,0,0,0
+Benin,BEN,2022-02-20,0,0,0,0,0,0,0,0
+Benin,BEN,2022-02-13,0,0,0,0,0,0,0,0
+Benin,BEN,2022-02-06,0,0,0,0,0,0,0,0
+Benin,BEN,2022-01-30,0,0,0,0,0,0,0,0
+Benin,BEN,2022-01-23,0,0,0,0,0,0,0,0
+Benin,BEN,2022-01-16,0,0,0,0,0,0,0,0
+Benin,BEN,2022-01-09,0,0,0,0,0,0,0,0
+Burundi,BDI,2026-02-08,4640,136,1,1,9,0,0,0
+Burundi,BDI,2026-02-01,4631,136,1,1,2,0,0,0
+Burundi,BDI,2026-01-25,4629,136,1,1,6,0,0,0
+Burundi,BDI,2026-01-18,4623,136,1,1,3,0,0,0
+Burundi,BDI,2026-01-11,4620,136,1,1,4,0,0,0
+Burundi,BDI,2026-01-04,4616,136,1,1,8,0,0,0
+Burundi,BDI,2025-12-28,4608,136,1,1,3,0,0,0
+Burundi,BDI,2025-12-21,4605,136,1,1,6,0,0,0
+Burundi,BDI,2025-12-14,4599,136,1,1,3,0,0,0
+Burundi,BDI,2025-12-07,4596,136,1,1,2,0,0,0
+Burundi,BDI,2025-11-30,4594,136,1,1,3,0,0,0
+Burundi,BDI,2025-11-23,4591,136,1,1,6,0,0,0
+Burundi,BDI,2025-11-16,4585,136,1,1,16,0,0,0
+Burundi,BDI,2025-11-09,4569,136,1,1,17,0,0,0
+Burundi,BDI,2025-11-02,4552,136,1,1,21,0,0,0
+Burundi,BDI,2025-10-26,4531,136,1,1,34,0,0,0
+Burundi,BDI,2025-10-19,4497,136,1,1,2,0,0,0
+Burundi,BDI,2025-10-12,4495,136,1,1,1,0,0,0
+Burundi,BDI,2025-10-05,4494,136,1,1,11,0,0,0
+Burundi,BDI,2025-09-28,4483,136,1,1,10,0,0,0
+Burundi,BDI,2025-09-21,4473,136,1,1,21,0,0,0
+Burundi,BDI,2025-09-14,4452,136,1,1,24,0,0,0
+Burundi,BDI,2025-09-07,4428,136,1,1,23,0,0,0
+Burundi,BDI,2025-08-31,4405,136,1,1,21,0,0,0
+Burundi,BDI,2025-08-24,4384,136,1,1,34,0,0,0
+Burundi,BDI,2025-08-17,4350,136,1,1,31,0,0,0
+Burundi,BDI,2025-08-10,4319,136,1,1,45,0,0,0
+Burundi,BDI,2025-08-03,4274,136,1,1,32,0,0,0
+Burundi,BDI,2025-07-27,4242,136,1,1,53,0,0,0
+Burundi,BDI,2025-07-20,4189,136,1,1,41,0,0,0
+Burundi,BDI,2025-07-13,4148,136,1,1,43,0,0,0
+Burundi,BDI,2025-07-06,4105,136,1,1,50,4,0,0
+Burundi,BDI,2025-06-29,4055,132,1,1,30,0,0,0
+Burundi,BDI,2025-06-22,4025,132,1,1,19,0,0,0
+Burundi,BDI,2025-06-15,4006,132,1,1,26,0,0,0
+Burundi,BDI,2025-06-08,3980,132,1,1,10,0,0,0
+Burundi,BDI,2025-06-01,3970,132,1,1,12,0,0,0
+Burundi,BDI,2025-05-25,3958,132,1,1,24,0,0,0
+Burundi,BDI,2025-05-18,3934,132,1,1,24,0,0,0
+Burundi,BDI,2025-05-11,3910,132,1,1,27,0,0,0
+Burundi,BDI,2025-05-04,3883,132,1,1,44,0,0,0
+Burundi,BDI,2025-04-27,3839,132,1,1,35,0,0,0
+Burundi,BDI,2025-04-20,3804,132,1,1,31,0,0,0
+Burundi,BDI,2025-04-13,3773,132,1,1,22,0,0,0
+Burundi,BDI,2025-04-06,3751,132,1,1,26,0,0,0
+Burundi,BDI,2025-03-30,3725,132,1,1,27,0,0,0
+Burundi,BDI,2025-03-23,3698,132,1,1,50,0,0,0
+Burundi,BDI,2025-03-16,3648,132,1,1,34,0,0,0
+Burundi,BDI,2025-03-09,3614,132,1,1,26,29,0,0
+Burundi,BDI,2025-03-02,3588,103,1,1,41,64,0,0
+Burundi,BDI,2025-02-23,3547,39,1,1,80,0,0,0
+Burundi,BDI,2025-02-16,3467,39,1,1,39,4,0,0
+Burundi,BDI,2025-02-09,3428,35,1,1,69,5,0,0
+Burundi,BDI,2025-02-02,3359,30,1,1,71,0,0,0
+Burundi,BDI,2025-01-26,3288,30,1,1,52,0,0,0
+Burundi,BDI,2025-01-19,3236,30,1,1,120,0,0,0
+Burundi,BDI,2025-01-12,3116,30,1,1,81,0,0,0
+Burundi,BDI,2025-01-05,3035,30,1,1,89,0,0,0
+Burundi,BDI,2024-12-29,2946,30,1,1,85,0,0,0
+Burundi,BDI,2024-12-22,2861,30,1,1,144,0,0,0
+Burundi,BDI,2024-12-15,2717,30,1,1,171,0,0,0
+Burundi,BDI,2024-12-08,2546,30,1,1,144,0,0,0
+Burundi,BDI,2024-12-01,2402,30,1,1,165,0,0,0
+Burundi,BDI,2024-11-24,2237,30,1,1,187,30,0,0
+Burundi,BDI,2024-11-17,2050,0,1,1,187,0,1,1
+Burundi,BDI,2024-11-10,1863,0,0,0,145,0,0,0
+Burundi,BDI,2024-11-03,1718,0,0,0,209,0,0,0
+Burundi,BDI,2024-10-27,1509,0,0,0,222,0,0,0
+Burundi,BDI,2024-10-20,1287,0,0,0,117,0,0,0
+Burundi,BDI,2024-10-13,1170,0,0,0,183,0,0,0
+Burundi,BDI,2024-10-06,987,0,0,0,134,0,0,0
+Burundi,BDI,2024-09-29,853,0,0,0,157,0,0,0
+Burundi,BDI,2024-09-22,696,0,0,0,132,0,0,0
+Burundi,BDI,2024-09-15,564,0,0,0,179,0,0,0
+Burundi,BDI,2024-09-08,385,0,0,0,57,0,0,0
+Burundi,BDI,2024-09-01,328,0,0,0,97,0,0,0
+Burundi,BDI,2024-08-25,231,0,0,0,78,0,0,0
+Burundi,BDI,2024-08-18,153,0,0,0,70,0,0,0
+Burundi,BDI,2024-08-11,83,0,0,0,43,0,0,0
+Burundi,BDI,2024-08-04,40,0,0,0,31,0,0,0
+Burundi,BDI,2024-07-28,9,0,0,0,9,0,0,0
+Burundi,BDI,2024-07-21,0,0,0,0,0,0,0,0
+Cameroon,CMR,2026-02-08,80,0,5,0,2,0,0,0
+Cameroon,CMR,2026-02-01,78,0,5,0,4,0,0,0
+Cameroon,CMR,2026-01-25,74,0,5,0,4,0,0,0
+Cameroon,CMR,2026-01-18,70,0,5,0,5,0,0,0
+Cameroon,CMR,2026-01-11,65,0,5,0,0,0,0,0
+Cameroon,CMR,2026-01-04,65,0,5,0,0,0,0,0
+Cameroon,CMR,2025-12-28,65,0,5,0,2,0,0,0
+Cameroon,CMR,2025-12-21,63,0,5,0,1,0,0,0
+Cameroon,CMR,2025-12-14,62,0,5,0,1,0,0,0
+Cameroon,CMR,2025-12-07,61,0,5,0,0,0,0,0
+Cameroon,CMR,2025-11-30,61,0,5,0,0,0,0,0
+Cameroon,CMR,2025-11-23,61,0,5,0,1,0,0,0
+Cameroon,CMR,2025-11-16,60,0,5,0,1,0,0,0
+Cameroon,CMR,2025-11-09,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-11-02,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-10-26,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-10-19,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-10-12,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-10-05,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-09-28,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-09-21,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-09-14,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-09-07,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-08-31,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-08-24,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-08-17,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-08-10,59,0,5,0,0,0,0,0
+Cameroon,CMR,2025-08-03,59,0,5,0,2,0,0,0
+Cameroon,CMR,2025-07-27,57,0,5,0,0,0,0,0
+Cameroon,CMR,2025-07-20,57,0,5,0,2,0,0,0
+Cameroon,CMR,2025-07-13,55,0,5,0,1,0,0,0
+Cameroon,CMR,2025-07-06,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-06-29,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-06-22,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-06-15,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-06-08,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-06-01,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-05-25,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-05-18,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-05-11,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-05-04,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-04-27,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-04-20,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-04-13,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-04-06,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-03-30,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-03-23,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-03-16,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-03-09,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-03-02,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-02-23,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-02-16,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-02-09,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-02-02,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-01-26,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-01-19,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-01-12,54,0,5,0,0,0,0,0
+Cameroon,CMR,2025-01-05,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-12-29,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-12-22,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-12-15,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-12-08,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-12-01,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-11-24,54,0,5,0,0,0,0,0
+Cameroon,CMR,2024-11-17,54,0,5,0,3,0,0,0
+Cameroon,CMR,2024-11-10,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-11-03,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-10-27,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-10-20,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-10-13,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-10-06,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-09-29,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-09-22,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-09-15,51,0,5,0,0,0,0,0
+Cameroon,CMR,2024-09-08,51,0,5,0,1,0,0,0
+Cameroon,CMR,2024-09-01,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-08-25,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-08-18,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-08-11,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-08-04,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-07-28,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-07-21,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-07-14,50,0,5,0,0,0,0,0
+Cameroon,CMR,2024-07-07,50,0,5,0,2,0,0,0
+Cameroon,CMR,2024-06-30,48,0,5,0,0,0,0,0
+Cameroon,CMR,2024-06-23,48,0,5,0,1,0,0,0
+Cameroon,CMR,2024-06-16,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-06-09,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-06-02,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-05-26,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-05-19,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-05-12,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-05-05,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-04-28,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-04-21,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-04-14,47,0,5,0,0,0,0,0
+Cameroon,CMR,2024-04-07,47,0,5,0,1,0,1,0
+Cameroon,CMR,2024-03-31,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-03-24,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-03-17,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-03-10,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-03-03,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-02-25,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-02-18,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-02-11,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-02-04,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-01-28,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-01-21,46,0,4,0,0,0,0,0
+Cameroon,CMR,2024-01-14,46,0,4,0,1,0,1,0
+Cameroon,CMR,2024-01-07,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-12-31,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-12-24,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-12-17,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-12-10,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-12-03,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-11-26,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-11-19,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-11-12,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-11-05,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-10-29,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-10-22,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-10-15,45,0,3,0,0,0,0,0
+Cameroon,CMR,2023-10-08,45,0,3,0,1,0,0,0
+Cameroon,CMR,2023-10-01,44,0,3,0,0,0,0,0
+Cameroon,CMR,2023-09-24,44,0,3,0,0,0,0,0
+Cameroon,CMR,2023-09-17,44,0,3,0,0,0,0,0
+Cameroon,CMR,2023-09-10,44,0,3,0,1,0,0,0
+Cameroon,CMR,2023-09-03,43,0,3,0,0,0,0,0
+Cameroon,CMR,2023-08-27,43,0,3,0,0,0,0,0
+Cameroon,CMR,2023-08-20,43,0,3,0,0,0,0,0
+Cameroon,CMR,2023-08-13,43,0,3,0,0,0,0,0
+Cameroon,CMR,2023-08-06,43,0,3,0,0,0,0,0
+Cameroon,CMR,2023-07-30,43,0,3,0,1,0,0,0
+Cameroon,CMR,2023-07-23,42,0,3,0,0,0,0,0
+Cameroon,CMR,2023-07-16,42,0,3,0,1,0,0,0
+Cameroon,CMR,2023-07-09,41,0,3,0,0,0,0,0
+Cameroon,CMR,2023-07-02,41,0,3,0,0,0,0,0
+Cameroon,CMR,2023-06-25,41,0,3,0,1,0,0,0
+Cameroon,CMR,2023-06-18,40,0,3,0,0,0,0,0
+Cameroon,CMR,2023-06-11,40,0,3,0,8,0,0,0
+Cameroon,CMR,2023-06-04,32,0,3,0,1,0,0,0
+Cameroon,CMR,2023-05-28,31,0,3,0,1,0,0,0
+Cameroon,CMR,2023-05-21,30,0,3,0,12,0,0,0
+Cameroon,CMR,2023-05-14,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-05-07,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-04-30,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-04-23,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-04-16,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-04-09,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-04-02,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-03-26,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-03-19,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-03-12,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-03-05,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-02-26,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-02-19,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-02-12,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-02-05,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-01-29,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-01-22,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-01-15,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-01-08,18,0,3,0,0,0,0,0
+Cameroon,CMR,2023-01-01,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-12-25,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-12-18,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-12-11,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-12-04,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-11-27,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-11-20,18,0,3,0,0,0,0,0
+Cameroon,CMR,2022-11-13,18,0,3,0,2,0,0,0
+Cameroon,CMR,2022-11-06,16,0,3,0,0,0,0,0
+Cameroon,CMR,2022-10-30,16,0,3,0,4,0,0,0
+Cameroon,CMR,2022-10-23,12,0,3,0,0,0,0,0
+Cameroon,CMR,2022-10-16,12,0,3,0,2,0,0,0
+Cameroon,CMR,2022-10-09,10,0,3,0,0,0,0,0
+Cameroon,CMR,2022-10-02,10,0,3,0,0,0,0,0
+Cameroon,CMR,2022-09-25,10,0,3,0,1,0,0,0
+Cameroon,CMR,2022-09-18,9,0,3,0,0,0,0,0
+Cameroon,CMR,2022-09-11,9,0,3,0,1,0,0,0
+Cameroon,CMR,2022-09-04,8,0,3,0,0,0,0,0
+Cameroon,CMR,2022-08-28,8,0,3,0,0,0,0,0
+Cameroon,CMR,2022-08-21,8,0,3,0,0,0,0,0
+Cameroon,CMR,2022-08-14,8,0,3,0,0,0,0,0
+Cameroon,CMR,2022-08-07,8,0,3,0,0,0,2,0
+Cameroon,CMR,2022-07-31,8,0,1,0,0,0,0,0
+Cameroon,CMR,2022-07-24,8,0,1,0,0,0,0,0
+Cameroon,CMR,2022-07-17,8,0,1,0,0,0,0,0
+Cameroon,CMR,2022-07-10,8,0,1,0,0,0,0,0
+Cameroon,CMR,2022-07-03,8,0,1,0,2,0,0,0
+Cameroon,CMR,2022-06-26,6,0,1,0,0,0,0,0
+Cameroon,CMR,2022-06-19,6,0,1,0,1,0,0,0
+Cameroon,CMR,2022-06-12,5,0,1,0,0,0,0,0
+Cameroon,CMR,2022-06-05,5,0,1,0,1,0,0,0
+Cameroon,CMR,2022-05-29,4,0,1,0,0,0,0,0
+Cameroon,CMR,2022-05-22,4,0,1,0,0,0,0,0
+Cameroon,CMR,2022-05-15,4,0,1,0,0,0,0,0
+Cameroon,CMR,2022-05-08,4,0,1,0,0,0,0,0
+Cameroon,CMR,2022-05-01,4,0,1,0,1,0,0,0
+Cameroon,CMR,2022-04-24,3,0,1,0,0,0,0,0
+Cameroon,CMR,2022-04-17,3,0,1,0,0,0,0,0
+Cameroon,CMR,2022-04-10,3,0,1,0,0,0,0,0
+Cameroon,CMR,2022-04-03,3,0,1,0,0,0,0,0
+Cameroon,CMR,2022-03-27,3,0,1,0,0,0,0,0
+Cameroon,CMR,2022-03-20,3,0,1,0,1,0,0,0
+Cameroon,CMR,2022-03-13,2,0,1,0,1,0,1,0
+Cameroon,CMR,2022-03-06,1,0,0,0,1,0,0,0
+Cameroon,CMR,2022-02-27,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-02-20,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-02-13,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-02-06,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-01-30,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-01-23,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-01-16,0,0,0,0,0,0,0,0
+Cameroon,CMR,2022-01-09,0,0,0,0,0,0,0,0
+Central African Republic,CAF,2026-02-01,211,0,10,0,0,0,0,0
+Central African Republic,CAF,2026-01-25,211,0,10,0,0,0,0,0
+Central African Republic,CAF,2026-01-18,211,0,10,0,0,0,0,0
+Central African Republic,CAF,2026-01-11,211,0,10,0,0,0,0,0
+Central African Republic,CAF,2026-01-04,211,0,10,0,1,0,0,0
+Central African Republic,CAF,2025-12-28,210,0,10,0,2,0,0,0
+Central African Republic,CAF,2025-12-21,208,0,10,0,1,0,0,0
+Central African Republic,CAF,2025-12-14,207,0,10,0,1,0,0,0
+Central African Republic,CAF,2025-12-07,206,0,10,0,1,0,0,0
+Central African Republic,CAF,2025-11-30,205,0,10,0,2,0,0,0
+Central African Republic,CAF,2025-11-23,203,0,10,0,1,0,0,0
+Central African Republic,CAF,2025-11-16,202,0,10,0,3,0,1,0
+Central African Republic,CAF,2025-11-09,199,0,9,0,1,0,0,0
+Central African Republic,CAF,2025-11-02,198,0,9,0,0,0,0,0
+Central African Republic,CAF,2025-10-26,198,0,9,0,0,0,0,0
+Central African Republic,CAF,2025-10-19,198,0,9,0,5,0,0,0
+Central African Republic,CAF,2025-10-12,193,0,9,0,1,0,0,0
+Central African Republic,CAF,2025-10-05,192,0,9,0,7,0,1,0
+Central African Republic,CAF,2025-09-28,185,0,8,0,4,0,0,0
+Central African Republic,CAF,2025-09-21,181,0,8,0,4,0,1,0
+Central African Republic,CAF,2025-09-14,177,0,7,0,4,0,0,0
+Central African Republic,CAF,2025-09-07,173,0,7,0,1,0,0,0
+Central African Republic,CAF,2025-08-31,172,0,7,0,3,0,0,0
+Central African Republic,CAF,2025-08-24,169,0,7,0,5,0,0,0
+Central African Republic,CAF,2025-08-17,164,0,7,0,1,0,0,0
+Central African Republic,CAF,2025-08-10,163,0,7,0,3,0,1,0
+Central African Republic,CAF,2025-08-03,160,0,6,0,4,0,0,0
+Central African Republic,CAF,2025-07-27,156,0,6,0,0,0,1,0
+Central African Republic,CAF,2025-07-20,156,0,5,0,0,0,0,0
+Central African Republic,CAF,2025-07-13,156,0,5,0,2,0,0,0
+Central African Republic,CAF,2025-07-06,154,0,5,0,3,0,0,0
+Central African Republic,CAF,2025-06-29,151,0,5,0,6,0,1,0
+Central African Republic,CAF,2025-06-22,145,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-06-15,145,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-06-08,145,0,4,0,1,0,0,0
+Central African Republic,CAF,2025-06-01,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-05-25,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-05-18,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-05-11,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-05-04,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-04-27,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-04-20,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-04-13,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-04-06,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-03-30,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-03-23,144,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-03-16,144,0,4,0,1,0,0,0
+Central African Republic,CAF,2025-03-09,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-03-02,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-02-23,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-02-16,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-02-09,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-02-02,143,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-01-26,143,0,4,0,1,0,0,0
+Central African Republic,CAF,2025-01-19,142,0,4,0,0,0,0,0
+Central African Republic,CAF,2025-01-12,142,0,4,0,1,0,0,0
+Central African Republic,CAF,2025-01-05,141,0,4,0,4,0,0,0
+Central African Republic,CAF,2024-12-29,137,0,4,0,2,0,0,0
+Central African Republic,CAF,2024-12-22,135,0,4,0,0,0,0,0
+Central African Republic,CAF,2024-12-15,135,0,4,0,2,0,0,0
+Central African Republic,CAF,2024-12-08,133,0,4,0,1,0,0,0
+Central African Republic,CAF,2024-12-01,132,0,4,0,1,0,1,0
+Central African Republic,CAF,2024-11-24,131,0,3,0,4,0,0,0
+Central African Republic,CAF,2024-11-17,127,0,3,0,6,0,0,0
+Central African Republic,CAF,2024-11-10,121,0,3,0,3,0,0,0
+Central African Republic,CAF,2024-11-03,118,0,3,0,5,0,0,0
+Central African Republic,CAF,2024-10-27,113,0,3,0,3,0,0,0
+Central African Republic,CAF,2024-10-20,110,0,3,0,2,0,0,0
+Central African Republic,CAF,2024-10-13,108,0,3,0,4,0,1,0
+Central African Republic,CAF,2024-10-06,104,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-09-29,102,0,2,0,0,0,0,0
+Central African Republic,CAF,2024-09-22,102,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-09-15,100,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-09-08,98,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-09-01,96,0,2,0,1,0,0,0
+Central African Republic,CAF,2024-08-25,95,0,2,0,3,0,0,0
+Central African Republic,CAF,2024-08-18,92,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-08-11,90,0,2,0,2,0,0,0
+Central African Republic,CAF,2024-08-04,88,0,2,0,3,0,0,0
+Central African Republic,CAF,2024-07-28,85,0,2,0,9,0,1,0
+Central African Republic,CAF,2024-07-21,76,0,1,0,4,0,0,0
+Central African Republic,CAF,2024-07-14,72,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-07-07,71,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-06-30,70,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-06-23,69,0,1,0,2,0,0,0
+Central African Republic,CAF,2024-06-16,67,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-06-09,66,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-06-02,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-05-26,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-05-19,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-05-12,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-05-05,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-04-28,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-04-21,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-04-14,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-04-07,65,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-03-31,65,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-03-24,64,0,1,0,2,0,0,0
+Central African Republic,CAF,2024-03-17,62,0,1,0,4,0,0,0
+Central African Republic,CAF,2024-03-10,58,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-03-03,58,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-02-25,58,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-02-18,58,0,1,0,4,0,0,0
+Central African Republic,CAF,2024-02-11,54,0,1,0,3,0,0,0
+Central African Republic,CAF,2024-02-04,51,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-01-28,51,0,1,0,1,0,0,0
+Central African Republic,CAF,2024-01-21,50,0,1,0,0,0,0,0
+Central African Republic,CAF,2024-01-14,50,0,1,0,4,0,0,0
+Central African Republic,CAF,2024-01-07,46,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-12-31,46,0,1,0,1,0,0,0
+Central African Republic,CAF,2023-12-24,45,0,1,0,1,0,0,0
+Central African Republic,CAF,2023-12-17,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-12-10,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-12-03,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-11-26,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-11-19,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-11-12,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-11-05,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-10-29,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-10-22,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-10-15,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-10-08,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-10-01,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-09-24,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-09-17,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-09-10,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-09-03,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-08-27,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-08-20,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-08-13,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-08-06,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-07-30,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-07-23,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-07-16,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-07-09,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-07-02,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-06-25,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-06-18,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-06-11,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-06-04,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-05-28,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-05-21,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-05-14,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-05-07,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-04-30,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-04-23,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-04-16,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-04-09,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-04-02,44,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-03-26,44,0,1,0,2,0,0,0
+Central African Republic,CAF,2023-03-19,42,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-03-12,42,0,1,0,2,0,0,0
+Central African Republic,CAF,2023-03-05,40,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-02-26,40,0,1,0,0,0,0,0
+Central African Republic,CAF,2023-02-19,40,0,1,0,2,0,0,0
+Central African Republic,CAF,2023-02-12,38,0,1,0,2,0,1,0
+Central African Republic,CAF,2023-02-05,36,0,0,0,0,0,0,0
+Central African Republic,CAF,2023-01-29,36,0,0,0,2,0,0,0
+Central African Republic,CAF,2023-01-22,34,0,0,0,0,0,0,0
+Central African Republic,CAF,2023-01-15,34,0,0,0,2,0,0,0
+Central African Republic,CAF,2023-01-08,32,0,0,0,2,0,0,0
+Central African Republic,CAF,2023-01-01,30,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-12-25,29,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-12-18,29,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-12-11,28,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-12-04,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-11-27,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-11-20,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-11-13,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-11-06,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-10-30,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-10-23,27,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-10-16,27,0,0,0,3,0,0,0
+Central African Republic,CAF,2022-10-09,24,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-10-02,24,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-09-25,24,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-09-18,23,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-09-11,23,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-09-04,22,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-08-28,22,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-08-21,22,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-08-14,22,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-08-07,21,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-07-31,21,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-07-24,20,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-07-17,20,0,0,0,2,0,0,0
+Central African Republic,CAF,2022-07-10,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-07-03,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-06-26,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-06-19,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-06-12,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-06-05,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-05-29,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-05-22,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-05-15,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-05-08,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-05-01,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-04-24,18,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-04-17,18,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-04-10,17,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-04-03,17,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-03-27,17,0,0,0,2,0,0,0
+Central African Republic,CAF,2022-03-20,15,0,0,0,4,0,0,0
+Central African Republic,CAF,2022-03-13,11,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-03-06,11,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-02-27,11,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-02-20,11,0,0,0,4,0,0,0
+Central African Republic,CAF,2022-02-13,7,0,0,0,2,0,0,0
+Central African Republic,CAF,2022-02-06,5,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-01-30,4,0,0,0,1,0,0,0
+Central African Republic,CAF,2022-01-23,3,0,0,0,0,0,0,0
+Central African Republic,CAF,2022-01-16,3,0,0,0,3,0,0,0
+Comoros,COM,2026-02-08,16,0,0,0,3,0,0,0
+Comoros,COM,2026-02-01,13,0,0,0,3,0,0,0
+Comoros,COM,2026-01-25,10,0,0,0,4,0,0,0
+Comoros,COM,2026-01-18,6,0,0,0,3,0,0,0
+Comoros,COM,2026-01-11,3,0,0,0,3,0,0,0
+Comoros,COM,2026-01-04,0,0,0,0,0,0,0,0
+Congo,COG,2026-02-08,172,73,3,0,2,0,0,0
+Congo,COG,2026-02-01,170,73,3,0,1,0,0,0
+Congo,COG,2026-01-25,169,73,3,0,6,0,0,0
+Congo,COG,2026-01-18,163,73,3,0,0,0,0,0
+Congo,COG,2026-01-11,163,73,3,0,5,0,0,0
+Congo,COG,2026-01-04,158,73,3,0,3,0,0,0
+Congo,COG,2025-12-28,155,73,3,0,0,0,0,0
+Congo,COG,2025-12-21,155,73,3,0,0,0,0,0
+Congo,COG,2025-12-14,155,73,3,0,1,0,0,0
+Congo,COG,2025-12-07,154,73,3,0,1,0,0,0
+Congo,COG,2025-11-30,153,73,3,0,4,0,0,0
+Congo,COG,2025-11-23,149,73,3,0,7,0,0,0
+Congo,COG,2025-11-16,142,73,3,0,3,0,0,0
+Congo,COG,2025-11-09,139,73,3,0,2,0,0,0
+Congo,COG,2025-11-02,137,73,3,0,4,0,0,0
+Congo,COG,2025-10-26,133,73,3,0,0,0,0,0
+Congo,COG,2025-10-19,133,73,3,0,2,0,0,0
+Congo,COG,2025-10-12,131,73,3,0,3,0,0,0
+Congo,COG,2025-10-05,128,73,3,0,0,0,0,0
+Congo,COG,2025-09-28,128,73,3,0,2,0,0,0
+Congo,COG,2025-09-21,126,73,3,0,0,8,0,0
+Congo,COG,2025-09-14,126,65,3,0,1,0,0,0
+Congo,COG,2025-09-07,125,65,3,0,3,0,0,0
+Congo,COG,2025-08-31,122,65,3,0,0,0,0,0
+Congo,COG,2025-08-24,122,65,3,0,2,0,0,0
+Congo,COG,2025-08-17,120,65,3,0,1,0,0,0
+Congo,COG,2025-08-10,119,65,3,0,2,0,0,0
+Congo,COG,2025-08-03,117,65,3,0,2,0,0,0
+Congo,COG,2025-07-27,115,65,3,0,3,6,0,0
+Congo,COG,2025-07-20,112,59,3,0,2,4,0,0
+Congo,COG,2025-07-13,110,55,3,0,3,7,0,0
+Congo,COG,2025-07-06,107,48,3,0,5,2,0,0
+Congo,COG,2025-06-29,102,46,3,0,2,4,0,0
+Congo,COG,2025-06-22,100,42,3,0,0,0,0,0
+Congo,COG,2025-06-15,100,42,3,0,0,0,0,0
+Congo,COG,2025-06-08,100,42,3,0,1,0,0,0
+Congo,COG,2025-06-01,99,42,3,0,5,0,0,0
+Congo,COG,2025-05-25,94,42,3,0,5,0,0,0
+Congo,COG,2025-05-18,89,42,3,0,1,0,0,0
+Congo,COG,2025-05-11,88,42,3,0,1,0,0,0
+Congo,COG,2025-05-04,87,42,3,0,1,0,0,0
+Congo,COG,2025-04-27,86,42,3,0,1,0,0,0
+Congo,COG,2025-04-20,85,42,3,0,0,0,0,0
+Congo,COG,2025-04-13,85,42,3,0,2,0,0,0
+Congo,COG,2025-04-06,83,42,3,0,3,0,0,0
+Congo,COG,2025-03-30,80,42,3,0,4,0,0,0
+Congo,COG,2025-03-23,76,42,3,0,3,0,0,0
+Congo,COG,2025-03-16,73,42,3,0,0,2,0,0
+Congo,COG,2025-03-09,73,40,3,0,1,4,1,0
+Congo,COG,2025-03-02,72,36,2,0,1,5,0,0
+Congo,COG,2025-02-23,71,31,2,0,5,0,0,0
+Congo,COG,2025-02-16,66,31,2,0,2,0,0,0
+Congo,COG,2025-02-09,64,31,2,0,4,0,0,0
+Congo,COG,2025-02-02,60,31,2,0,4,0,0,0
+Congo,COG,2025-01-26,56,31,2,0,4,0,0,0
+Congo,COG,2025-01-19,52,31,2,0,0,0,0,0
+Congo,COG,2025-01-12,52,31,2,0,2,0,0,0
+Congo,COG,2025-01-05,50,31,2,0,0,0,0,0
+Congo,COG,2024-12-29,50,31,2,0,1,0,0,0
+Congo,COG,2024-12-22,49,31,2,0,0,0,0,0
+Congo,COG,2024-12-15,49,31,2,0,0,0,0,0
+Congo,COG,2024-12-08,49,31,2,0,0,0,0,0
+Congo,COG,2024-12-01,49,31,2,0,1,0,0,0
+Congo,COG,2024-11-24,48,31,2,0,0,0,0,0
+Congo,COG,2024-11-17,48,31,2,0,0,0,0,0
+Congo,COG,2024-11-10,48,31,2,0,0,0,0,0
+Congo,COG,2024-11-03,48,31,2,0,0,4,0,0
+Congo,COG,2024-10-27,48,27,2,0,0,5,0,0
+Congo,COG,2024-10-20,48,22,2,0,0,0,0,0
+Congo,COG,2024-10-13,48,22,2,0,0,0,0,0
+Congo,COG,2024-10-06,48,22,2,0,0,0,0,0
+Congo,COG,2024-09-29,48,22,2,0,1,0,0,0
+Congo,COG,2024-09-22,47,22,2,0,0,0,0,0
+Congo,COG,2024-09-15,47,22,2,0,0,0,0,0
+Congo,COG,2024-09-08,47,22,2,0,0,0,0,0
+Congo,COG,2024-09-01,47,22,2,0,0,0,0,0
+Congo,COG,2024-08-25,47,22,2,0,0,0,0,0
+Congo,COG,2024-08-18,47,22,2,0,0,0,0,0
+Congo,COG,2024-08-11,47,22,2,0,2,0,0,0
+Congo,COG,2024-08-04,45,22,2,0,0,0,0,0
+Congo,COG,2024-07-28,45,22,2,0,0,0,0,0
+Congo,COG,2024-07-21,45,22,2,0,0,0,0,0
+Congo,COG,2024-07-14,45,22,2,0,0,0,0,0
+Congo,COG,2024-07-07,45,22,2,0,0,0,0,0
+Congo,COG,2024-06-30,45,22,2,0,0,0,0,0
+Congo,COG,2024-06-23,45,22,2,0,0,0,0,0
+Congo,COG,2024-06-16,45,22,2,0,0,0,0,0
+Congo,COG,2024-06-09,45,22,2,0,0,0,0,0
+Congo,COG,2024-06-02,45,22,2,0,0,0,0,0
+Congo,COG,2024-05-26,45,22,2,0,0,0,0,0
+Congo,COG,2024-05-19,45,22,2,0,0,8,0,0
+Congo,COG,2024-05-12,45,14,2,0,0,0,0,0
+Congo,COG,2024-05-05,45,14,2,0,0,0,0,0
+Congo,COG,2024-04-28,45,14,2,0,0,0,0,0
+Congo,COG,2024-04-21,45,14,2,0,0,0,0,0
+Congo,COG,2024-04-14,45,14,2,0,0,0,0,0
+Congo,COG,2024-04-07,45,14,2,0,0,0,0,0
+Congo,COG,2024-03-31,45,14,2,0,0,0,0,0
+Congo,COG,2024-03-24,45,14,2,0,0,0,0,0
+Congo,COG,2024-03-17,45,14,2,0,0,2,0,0
+Congo,COG,2024-03-10,45,12,2,0,8,2,0,0
+Congo,COG,2024-03-03,37,10,2,0,0,0,0,0
+Congo,COG,2024-02-25,37,10,2,0,2,0,0,0
+Congo,COG,2024-02-18,35,10,2,0,5,10,0,0
+Congo,COG,2024-02-11,30,0,2,0,0,0,0,0
+Congo,COG,2024-02-04,30,0,2,0,0,0,0,0
+Congo,COG,2024-01-28,30,0,2,0,2,0,0,0
+Congo,COG,2024-01-21,28,0,2,0,1,0,0,0
+Congo,COG,2024-01-14,27,0,2,0,1,0,0,0
+Congo,COG,2024-01-07,26,0,2,0,0,0,0,0
+Congo,COG,2023-12-31,26,0,2,0,0,0,0,0
+Congo,COG,2023-12-24,26,0,2,0,0,0,0,0
+Congo,COG,2023-12-17,26,0,2,0,0,0,0,0
+Congo,COG,2023-12-10,26,0,2,0,0,0,0,0
+Congo,COG,2023-12-03,26,0,2,0,0,0,0,0
+Congo,COG,2023-11-26,26,0,2,0,0,0,0,0
+Congo,COG,2023-11-19,26,0,2,0,1,0,0,0
+Congo,COG,2023-11-12,25,0,2,0,0,0,0,0
+Congo,COG,2023-11-05,25,0,2,0,0,0,0,0
+Congo,COG,2023-10-29,25,0,2,0,2,0,0,0
+Congo,COG,2023-10-22,23,0,2,0,0,0,0,0
+Congo,COG,2023-10-15,23,0,2,0,4,0,1,0
+Congo,COG,2023-10-08,19,0,1,0,1,0,1,0
+Congo,COG,2023-10-01,18,0,0,0,0,0,0,0
+Congo,COG,2023-09-24,18,0,0,0,0,0,0,0
+Congo,COG,2023-09-17,18,0,0,0,1,0,0,0
+Congo,COG,2023-09-10,17,0,0,0,4,0,0,0
+Congo,COG,2023-09-03,13,0,0,0,1,0,0,0
+Congo,COG,2023-08-27,12,0,0,0,4,0,0,0
+Congo,COG,2023-08-20,8,0,0,0,2,0,0,0
+Congo,COG,2023-08-13,6,0,0,0,1,0,0,0
+Congo,COG,2023-08-06,5,0,0,0,0,0,0,0
+Congo,COG,2023-07-30,5,0,0,0,0,0,0,0
+Congo,COG,2023-07-23,5,0,0,0,0,0,0,0
+Congo,COG,2023-07-16,5,0,0,0,0,0,0,0
+Congo,COG,2023-07-09,5,0,0,0,0,0,0,0
+Congo,COG,2023-07-02,5,0,0,0,0,0,0,0
+Congo,COG,2023-06-25,5,0,0,0,0,0,0,0
+Congo,COG,2023-06-18,5,0,0,0,0,0,0,0
+Congo,COG,2023-06-11,5,0,0,0,0,0,0,0
+Congo,COG,2023-06-04,5,0,0,0,0,0,0,0
+Congo,COG,2023-05-28,5,0,0,0,0,0,0,0
+Congo,COG,2023-05-21,5,0,0,0,0,0,0,0
+Congo,COG,2023-05-14,5,0,0,0,0,0,0,0
+Congo,COG,2023-05-07,5,0,0,0,0,0,0,0
+Congo,COG,2023-04-30,5,0,0,0,0,0,0,0
+Congo,COG,2023-04-23,5,0,0,0,0,0,0,0
+Congo,COG,2023-04-16,5,0,0,0,0,0,0,0
+Congo,COG,2023-04-09,5,0,0,0,0,0,0,0
+Congo,COG,2023-04-02,5,0,0,0,0,0,0,0
+Congo,COG,2023-03-26,5,0,0,0,0,0,0,0
+Congo,COG,2023-03-19,5,0,0,0,0,0,0,0
+Congo,COG,2023-03-12,5,0,0,0,0,0,0,0
+Congo,COG,2023-03-05,5,0,0,0,0,0,0,0
+Congo,COG,2023-02-26,5,0,0,0,0,0,0,0
+Congo,COG,2023-02-19,5,0,0,0,0,0,0,0
+Congo,COG,2023-02-12,5,0,0,0,0,0,0,0
+Congo,COG,2023-02-05,5,0,0,0,0,0,0,0
+Congo,COG,2023-01-29,5,0,0,0,0,0,0,0
+Congo,COG,2023-01-22,5,0,0,0,0,0,0,0
+Congo,COG,2023-01-15,5,0,0,0,0,0,0,0
+Congo,COG,2023-01-08,5,0,0,0,0,0,0,0
+Congo,COG,2023-01-01,5,0,0,0,0,0,0,0
+Congo,COG,2022-12-25,5,0,0,0,0,0,0,0
+Congo,COG,2022-12-18,5,0,0,0,0,0,0,0
+Congo,COG,2022-12-11,5,0,0,0,0,0,0,0
+Congo,COG,2022-12-04,5,0,0,0,0,0,0,0
+Congo,COG,2022-11-27,5,0,0,0,0,0,0,0
+Congo,COG,2022-11-20,5,0,0,0,0,0,0,0
+Congo,COG,2022-11-13,5,0,0,0,0,0,0,0
+Congo,COG,2022-11-06,5,0,0,0,0,0,0,0
+Congo,COG,2022-10-30,5,0,0,0,0,0,0,0
+Congo,COG,2022-10-23,5,0,0,0,0,0,0,0
+Congo,COG,2022-10-16,5,0,0,0,0,0,0,0
+Congo,COG,2022-10-09,5,0,0,0,0,0,0,0
+Congo,COG,2022-10-02,5,0,0,0,0,0,0,0
+Congo,COG,2022-09-25,5,0,0,0,0,0,0,0
+Congo,COG,2022-09-18,5,0,0,0,0,0,0,0
+Congo,COG,2022-09-11,5,0,0,0,2,0,0,0
+Congo,COG,2022-09-04,3,0,0,0,0,0,0,0
+Congo,COG,2022-08-28,3,0,0,0,0,0,0,0
+Congo,COG,2022-08-21,3,0,0,0,0,0,0,0
+Congo,COG,2022-08-14,3,0,0,0,1,0,0,0
+Congo,COG,2022-08-07,2,0,0,0,0,0,0,0
+Congo,COG,2022-07-31,2,0,0,0,0,0,0,0
+Congo,COG,2022-07-24,2,0,0,0,0,0,0,0
+Congo,COG,2022-07-17,2,0,0,0,0,0,0,0
+Congo,COG,2022-07-10,2,0,0,0,0,0,0,0
+Congo,COG,2022-07-03,2,0,0,0,0,0,0,0
+Congo,COG,2022-06-26,2,0,0,0,0,0,0,0
+Congo,COG,2022-06-19,2,0,0,0,0,0,0,0
+Congo,COG,2022-06-12,2,0,0,0,0,0,0,0
+Congo,COG,2022-06-05,2,0,0,0,0,0,0,0
+Congo,COG,2022-05-29,2,0,0,0,0,0,0,0
+Congo,COG,2022-05-22,2,0,0,0,0,0,0,0
+Congo,COG,2022-05-15,2,0,0,0,0,0,0,0
+Congo,COG,2022-05-08,2,0,0,0,0,0,0,0
+Congo,COG,2022-05-01,2,0,0,0,0,0,0,0
+Congo,COG,2022-04-24,2,0,0,0,2,0,0,0
+Congo,COG,2022-04-17,0,0,0,0,0,0,0,0
+Congo,COG,2022-04-10,0,0,0,0,0,0,0,0
+Congo,COG,2022-04-03,0,0,0,0,0,0,0,0
+Congo,COG,2022-03-27,0,0,0,0,0,0,0,0
+Congo,COG,2022-03-20,0,0,0,0,0,0,0,0
+Congo,COG,2022-03-13,0,0,0,0,0,0,0,0
+Congo,COG,2022-03-06,0,0,0,0,0,0,0,0
+Congo,COG,2022-02-27,0,0,0,0,0,0,0,0
+Congo,COG,2022-02-20,0,0,0,0,0,0,0,0
+Congo,COG,2022-02-13,0,0,0,0,0,0,0,0
+Congo,COG,2022-02-06,0,0,0,0,0,0,0,0
+Congo,COG,2022-01-30,0,0,0,0,0,0,0,0
+Congo,COG,2022-01-23,0,0,0,0,0,0,0,0
+Congo,COG,2022-01-16,0,0,0,0,0,0,0,0
+Congo,COG,2022-01-09,0,0,0,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-08-31,186,0,2,0,11,0,0,0
+Côte d’Ivoire,CIV,2025-08-24,175,0,2,0,4,0,0,0
+Côte d’Ivoire,CIV,2025-08-17,171,0,2,0,4,0,0,0
+Côte d’Ivoire,CIV,2025-08-10,167,0,2,0,5,0,0,0
+Côte d’Ivoire,CIV,2025-08-03,162,0,2,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-07-27,160,0,2,0,3,0,0,0
+Côte d’Ivoire,CIV,2025-07-20,157,0,2,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-07-13,157,0,2,0,12,0,1,0
+Côte d’Ivoire,CIV,2025-07-06,145,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-06-29,143,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-06-22,142,0,1,0,7,0,0,0
+Côte d’Ivoire,CIV,2025-06-15,135,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-06-08,133,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-06-01,133,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-05-25,132,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-05-18,130,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-05-11,130,0,1,0,8,0,0,0
+Côte d’Ivoire,CIV,2025-05-04,122,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-04-27,121,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-04-20,119,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-04-13,119,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-04-06,119,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-03-30,119,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-03-23,119,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-03-16,118,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-03-09,118,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-03-02,117,0,1,0,4,0,0,0
+Côte d’Ivoire,CIV,2025-02-23,113,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2025-02-16,111,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-02-09,111,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-02-02,110,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-01-26,109,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-01-19,108,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2025-01-12,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2025-01-05,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2024-12-29,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2024-12-22,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2024-12-15,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2024-12-08,107,0,1,0,0,0,0,0
+Côte d’Ivoire,CIV,2024-12-01,107,0,1,0,4,0,0,0
+Côte d’Ivoire,CIV,2024-11-24,103,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2024-11-17,101,0,1,0,5,0,0,0
+Côte d’Ivoire,CIV,2024-11-10,96,0,1,0,4,0,0,0
+Côte d’Ivoire,CIV,2024-11-03,92,0,1,0,1,0,0,0
+Côte d’Ivoire,CIV,2024-10-27,91,0,1,0,2,0,0,0
+Côte d’Ivoire,CIV,2024-10-20,89,0,1,0,5,0,0,0
+Côte d’Ivoire,CIV,2024-10-13,84,0,1,0,6,0,0,0
+Côte d’Ivoire,CIV,2024-10-06,78,0,1,0,7,0,0,0
+Côte d’Ivoire,CIV,2024-09-29,71,0,1,0,3,0,0,0
+Côte d’Ivoire,CIV,2024-09-22,68,0,1,0,7,0,0,0
+Côte d’Ivoire,CIV,2024-09-15,61,0,1,0,12,0,0,0
+Côte d’Ivoire,CIV,2024-09-08,49,0,1,0,3,0,0,0
+Côte d’Ivoire,CIV,2024-09-01,46,0,1,0,6,0,0,0
+Côte d’Ivoire,CIV,2024-08-25,40,0,1,0,7,0,0,0
+Côte d’Ivoire,CIV,2024-08-18,33,0,1,0,15,0,1,0
+Côte d’Ivoire,CIV,2024-08-11,18,0,0,0,5,0,0,0
+Côte d’Ivoire,CIV,2024-08-04,13,0,0,0,4,0,0,0
+Côte d’Ivoire,CIV,2024-07-28,9,0,0,0,4,0,0,0
+Côte d’Ivoire,CIV,2024-07-21,5,0,0,0,3,0,0,0
+Côte d’Ivoire,CIV,2024-07-14,2,0,0,0,1,0,0,0
+Côte d’Ivoire,CIV,2024-07-07,1,0,0,0,1,0,0,0
+Côte d’Ivoire,CIV,2024-06-30,0,0,0,0,0,0,0,0
+Democratic Republic of the Congo,COD,2026-02-15,33304,171450,77,2831,9,0,0,0
+Democratic Republic of the Congo,COD,2026-02-08,33295,171450,77,2831,60,888,0,8
+Democratic Republic of the Congo,COD,2026-02-01,33235,170562,77,2823,64,902,0,8
+Democratic Republic of the Congo,COD,2026-01-25,33171,169660,77,2815,62,991,0,3
+Democratic Republic of the Congo,COD,2026-01-18,33109,168669,77,2812,86,882,0,4
+Democratic Republic of the Congo,COD,2026-01-11,33023,167787,77,2808,86,934,0,13
+Democratic Republic of the Congo,COD,2026-01-04,32937,166853,77,2795,126,986,0,14
+Democratic Republic of the Congo,COD,2025-12-28,32811,165867,77,2781,29,1297,0,6
+Democratic Republic of the Congo,COD,2025-12-21,32782,164570,77,2775,129,1008,0,4
+Democratic Republic of the Congo,COD,2025-12-14,32653,163562,77,2771,101,1079,0,8
+Democratic Republic of the Congo,COD,2025-12-07,32552,162483,77,2763,123,1030,0,5
+Democratic Republic of the Congo,COD,2025-11-30,32429,161453,77,2758,136,1194,0,6
+Democratic Republic of the Congo,COD,2025-11-23,32293,160259,77,2752,108,1208,0,6
+Democratic Republic of the Congo,COD,2025-11-16,32185,159051,77,2746,72,940,0,11
+Democratic Republic of the Congo,COD,2025-11-09,32113,158111,77,2735,86,1086,0,6
+Democratic Republic of the Congo,COD,2025-11-02,32027,157025,77,2729,110,1324,0,10
+Democratic Republic of the Congo,COD,2025-10-26,31917,155701,77,2719,234,1270,0,11
+Democratic Republic of the Congo,COD,2025-10-19,31683,154431,77,2708,147,1099,0,7
+Democratic Republic of the Congo,COD,2025-10-12,31536,153332,77,2701,285,1235,1,12
+Democratic Republic of the Congo,COD,2025-10-05,31251,152097,76,2689,188,1281,0,8
+Democratic Republic of the Congo,COD,2025-09-28,31063,150816,76,2681,373,1369,1,15
+Democratic Republic of the Congo,COD,2025-09-21,30690,149447,75,2666,308,1393,0,14
+Democratic Republic of the Congo,COD,2025-09-14,30382,148054,75,2652,510,1344,0,17
+Democratic Republic of the Congo,COD,2025-09-07,29872,146710,75,2635,382,1470,0,21
+Democratic Republic of the Congo,COD,2025-08-31,29490,145240,75,2614,383,1555,4,11
+Democratic Republic of the Congo,COD,2025-08-24,29107,143685,71,2603,328,1503,2,17
+Democratic Republic of the Congo,COD,2025-08-17,28779,142182,69,2586,261,1765,1,24
+Democratic Republic of the Congo,COD,2025-08-10,28518,140417,68,2562,384,1870,0,12
+Democratic Republic of the Congo,COD,2025-08-03,28134,138547,68,2550,360,1749,0,11
+Democratic Republic of the Congo,COD,2025-07-27,27774,136798,68,2539,425,1725,1,13
+Democratic Republic of the Congo,COD,2025-07-20,27349,135073,67,2526,374,1609,0,16
+Democratic Republic of the Congo,COD,2025-07-13,26975,133464,67,2510,337,1606,1,15
+Democratic Republic of the Congo,COD,2025-07-06,26638,131858,66,2495,393,1642,0,19
+Democratic Republic of the Congo,COD,2025-06-29,26245,130216,66,2476,372,1659,1,19
+Democratic Republic of the Congo,COD,2025-06-22,25873,128557,65,2457,416,1666,0,10
+Democratic Republic of the Congo,COD,2025-06-15,25457,126891,65,2447,516,1705,1,14
+Democratic Republic of the Congo,COD,2025-06-08,24941,125186,64,2433,623,1817,1,20
+Democratic Republic of the Congo,COD,2025-06-01,24318,123369,63,2413,738,2144,0,3
+Democratic Republic of the Congo,COD,2025-05-25,23580,121225,63,2410,938,1817,3,5
+Democratic Republic of the Congo,COD,2025-05-18,22642,119408,60,2405,558,1595,0,10
+Democratic Republic of the Congo,COD,2025-05-11,22084,117813,60,2395,688,2050,0,13
+Democratic Republic of the Congo,COD,2025-05-04,21396,115763,60,2382,703,2173,0,10
+Democratic Republic of the Congo,COD,2025-04-27,20693,113590,60,2372,805,2697,0,12
+Democratic Republic of the Congo,COD,2025-04-20,19888,110893,60,2360,676,2638,0,10
+Democratic Republic of the Congo,COD,2025-04-13,19212,108255,60,2350,506,2186,0,17
+Democratic Republic of the Congo,COD,2025-04-06,18706,106069,60,2333,464,1783,3,6
+Democratic Republic of the Congo,COD,2025-03-30,18242,104286,57,2327,387,2112,0,11
+Democratic Republic of the Congo,COD,2025-03-23,17855,102174,57,2316,507,2108,5,20
+Democratic Republic of the Congo,COD,2025-03-16,17348,100066,52,2296,608,2441,0,22
+Democratic Republic of the Congo,COD,2025-03-09,16740,97625,52,2274,557,2300,0,30
+Democratic Republic of the Congo,COD,2025-03-02,16183,95325,52,2244,489,2311,0,29
+Democratic Republic of the Congo,COD,2025-02-23,15694,93014,52,2215,549,2383,0,44
+Democratic Republic of the Congo,COD,2025-02-16,15145,90631,52,2171,473,2187,4,42
+Democratic Republic of the Congo,COD,2025-02-09,14672,88444,48,2129,556,2276,5,37
+Democratic Republic of the Congo,COD,2025-02-02,14116,86168,43,2092,465,2287,4,46
+Democratic Republic of the Congo,COD,2025-01-26,13651,83881,39,2046,551,2415,2,23
+Democratic Republic of the Congo,COD,2025-01-19,13100,81466,37,2023,661,2732,4,38
+Democratic Republic of the Congo,COD,2025-01-12,12439,78734,33,1985,867,2965,3,27
+Democratic Republic of the Congo,COD,2025-01-05,11572,75769,30,1958,1758,2373,1,20
+Democratic Republic of the Congo,COD,2024-12-29,10992,73396,29,1938,230,2078,1,21
+Democratic Republic of the Congo,COD,2024-12-22,10762,71318,28,1917,272,2057,0,12
+Democratic Republic of the Congo,COD,2024-12-15,10490,69261,28,1905,318,2717,0,20
+Democratic Republic of the Congo,COD,2024-12-08,10172,66544,28,1885,444,2587,1,29
+Democratic Republic of the Congo,COD,2024-12-01,9728,63957,27,1856,432,2142,1,29
+Democratic Republic of the Congo,COD,2024-11-24,9296,61815,26,1827,368,2115,0,36
+Democratic Republic of the Congo,COD,2024-11-17,8928,59700,26,1791,483,2257,1,21
+Democratic Republic of the Congo,COD,2024-11-10,8445,57443,25,1770,516,2211,0,33
+Democratic Republic of the Congo,COD,2024-11-03,7929,55232,25,1737,247,2225,0,34
+Democratic Republic of the Congo,COD,2024-10-27,7682,53007,25,1703,284,2094,0,33
+Democratic Republic of the Congo,COD,2024-10-20,7398,50913,25,1670,388,2085,1,35
+Democratic Republic of the Congo,COD,2024-10-13,7010,48828,24,1635,281,2164,0,26
+Democratic Republic of the Congo,COD,2024-10-06,6729,46664,24,1609,303,2368,0,42
+Democratic Republic of the Congo,COD,2024-09-29,6426,44296,24,1567,327,2344,0,47
+Democratic Republic of the Congo,COD,2024-09-22,6099,41952,24,1520,360,2456,0,61
+Democratic Republic of the Congo,COD,2024-09-15,5739,39496,24,1459,241,2348,0,52
+Democratic Republic of the Congo,COD,2024-09-08,5498,37148,24,1407,379,2186,1,73
+Democratic Republic of the Congo,COD,2024-09-01,5119,34962,23,1334,259,1956,0,58
+Democratic Republic of the Congo,COD,2024-08-25,4860,33006,23,1276,205,1802,0,37
+Democratic Republic of the Congo,COD,2024-08-18,4655,31204,23,1239,196,1382,1,37
+Democratic Republic of the Congo,COD,2024-08-11,4459,29822,22,1202,159,1051,2,23
+Democratic Republic of the Congo,COD,2024-08-04,4300,28771,20,1179,150,967,1,26
+Democratic Republic of the Congo,COD,2024-07-28,4150,27804,19,1153,283,892,4,29
+Democratic Republic of the Congo,COD,2024-07-21,3867,26912,15,1124,412,875,3,21
+Democratic Republic of the Congo,COD,2024-07-14,3455,26037,12,1103,318,863,1,17
+Democratic Republic of the Congo,COD,2024-07-07,3137,25174,11,1086,263,839,0,14
+Democratic Republic of the Congo,COD,2024-06-30,2874,24335,11,1072,205,662,2,6
+Democratic Republic of the Congo,COD,2024-06-23,2669,23673,9,1066,161,516,0,7
+Democratic Republic of the Congo,COD,2024-06-16,2508,23157,9,1059,224,473,2,11
+Democratic Republic of the Congo,COD,2024-06-09,2284,22684,7,1048,172,500,0,11
+Democratic Republic of the Congo,COD,2024-06-02,2112,22184,7,1037,113,420,1,12
+Democratic Republic of the Congo,COD,2024-05-26,1999,21764,6,1025,120,444,0,13
+Democratic Republic of the Congo,COD,2024-05-19,1879,21320,6,1012,158,453,0,7
+Democratic Republic of the Congo,COD,2024-05-12,1721,20867,6,1005,159,522,0,16
+Democratic Republic of the Congo,COD,2024-05-05,1562,20345,6,989,190,440,0,12
+Democratic Republic of the Congo,COD,2024-04-28,1372,19905,6,977,83,262,1,5
+Democratic Republic of the Congo,COD,2024-04-21,1289,19643,5,972,86,245,0,7
+Democratic Republic of the Congo,COD,2024-04-14,1203,19398,5,965,100,269,0,4
+Democratic Republic of the Congo,COD,2024-04-07,1103,19129,5,961,69,302,1,9
+Democratic Republic of the Congo,COD,2024-03-31,1034,18827,4,952,48,282,0,5
+Democratic Republic of the Congo,COD,2024-03-24,986,18545,4,947,66,287,0,12
+Democratic Republic of the Congo,COD,2024-03-17,920,18258,4,935,45,300,0,12
+Democratic Republic of the Congo,COD,2024-03-10,875,17958,4,923,54,381,0,9
+Democratic Republic of the Congo,COD,2024-03-03,821,17577,4,914,70,376,1,14
+Democratic Republic of the Congo,COD,2024-02-25,751,17201,3,900,52,608,0,41
+Democratic Republic of the Congo,COD,2024-02-18,699,16593,3,859,53,547,0,37
+Democratic Republic of the Congo,COD,2024-02-11,646,16046,3,822,72,521,0,49
+Democratic Republic of the Congo,COD,2024-02-04,574,15525,3,773,45,406,0,35
+Democratic Republic of the Congo,COD,2024-01-28,529,15119,3,738,92,342,0,29
+Democratic Republic of the Congo,COD,2024-01-21,437,14777,3,709,59,277,0,22
+Democratic Republic of the Congo,COD,2024-01-14,378,14500,3,687,37,297,1,26
+Democratic Republic of the Congo,COD,2024-01-07,341,14203,2,661,2354,264,0,23
+Democratic Republic of the Congo,COD,2023-12-31,313,13939,2,638,34,138,0,3
+Democratic Republic of the Congo,COD,2023-12-24,279,13801,2,635,34,222,0,13
+Democratic Republic of the Congo,COD,2023-12-17,245,13579,2,622,9,121,0,4
+Democratic Republic of the Congo,COD,2023-12-10,236,13458,2,618,14,70,0,2
+Democratic Republic of the Congo,COD,2023-12-03,222,13388,2,616,18,164,0,4
+Democratic Republic of the Congo,COD,2023-11-26,204,13224,2,612,30,230,0,8
+Democratic Republic of the Congo,COD,2023-11-19,174,12994,2,604,27,242,0,3
+Democratic Republic of the Congo,COD,2023-11-12,147,12752,2,601,40,191,0,14
+Democratic Republic of the Congo,COD,2023-11-05,107,12561,2,587,15,182,0,9
+Democratic Republic of the Congo,COD,2023-10-29,92,12379,2,578,30,294,0,14
+Democratic Republic of the Congo,COD,2023-10-22,62,12085,2,564,19,295,0,2
+Democratic Republic of the Congo,COD,2023-10-15,43,11790,2,562,14,215,0,4
+Democratic Republic of the Congo,COD,2023-10-08,29,11575,2,558,8,342,0,12
+Democratic Republic of the Congo,COD,2023-10-01,21,11233,2,546,1,358,0,7
+Democratic Republic of the Congo,COD,2023-09-24,20,10875,2,539,0,341,0,7
+Democratic Republic of the Congo,COD,2023-09-17,20,10534,2,532,1,451,0,15
+Democratic Republic of the Congo,COD,2023-09-10,19,10083,2,517,0,463,0,16
+Democratic Republic of the Congo,COD,2023-09-03,19,9620,2,501,0,471,0,19
+Democratic Republic of the Congo,COD,2023-08-27,19,9149,2,482,2,253,0,8
+Democratic Republic of the Congo,COD,2023-08-20,17,8896,2,474,1,480,0,15
+Democratic Republic of the Congo,COD,2023-08-13,16,8416,2,459,1,492,0,31
+Democratic Republic of the Congo,COD,2023-08-06,15,7924,2,428,0,440,0,25
+Democratic Republic of the Congo,COD,2023-07-30,15,7484,2,403,0,457,0,16
+Democratic Republic of the Congo,COD,2023-07-23,15,7027,2,387,0,403,0,10
+Democratic Republic of the Congo,COD,2023-07-16,15,6624,2,377,6,338,0,11
+Democratic Republic of the Congo,COD,2023-07-09,9,6286,2,366,0,344,0,36
+Democratic Republic of the Congo,COD,2023-07-02,9,5942,2,330,0,289,0,28
+Democratic Republic of the Congo,COD,2023-06-25,9,5653,2,302,0,333,0,20
+Democratic Republic of the Congo,COD,2023-06-18,9,5320,2,282,0,268,0,12
+Democratic Republic of the Congo,COD,2023-06-11,9,5052,2,270,0,339,0,15
+Democratic Republic of the Congo,COD,2023-06-04,9,4713,2,255,0,293,0,11
+Democratic Republic of the Congo,COD,2023-05-28,9,4420,2,244,0,288,0,12
+Democratic Republic of the Congo,COD,2023-05-21,9,4132,2,232,0,304,0,16
+Democratic Republic of the Congo,COD,2023-05-14,9,3828,2,216,0,334,1,23
+Democratic Republic of the Congo,COD,2023-05-07,9,3494,1,193,0,325,1,28
+Democratic Republic of the Congo,COD,2023-04-30,9,3169,0,165,0,289,0,24
+Democratic Republic of the Congo,COD,2023-04-23,9,2880,0,141,0,281,0,14
+Democratic Republic of the Congo,COD,2023-04-16,9,2599,0,127,0,280,0,18
+Democratic Republic of the Congo,COD,2023-04-09,9,2319,0,109,0,278,0,11
+Democratic Republic of the Congo,COD,2023-04-02,9,2041,0,98,1,234,0,15
+Democratic Republic of the Congo,COD,2023-03-26,8,1807,0,83,1,235,0,17
+Democratic Republic of the Congo,COD,2023-03-19,7,1572,0,66,0,190,0,4
+Democratic Republic of the Congo,COD,2023-03-12,7,1382,0,62,0,177,0,7
+Democratic Republic of the Congo,COD,2023-03-05,7,1205,0,55,0,153,0,4
+Democratic Republic of the Congo,COD,2023-02-26,7,1052,0,51,0,106,0,7
+Democratic Republic of the Congo,COD,2023-02-19,7,946,0,44,0,135,0,9
+Democratic Republic of the Congo,COD,2023-02-12,7,811,0,35,0,152,0,7
+Democratic Republic of the Congo,COD,2023-02-05,7,659,0,28,0,120,0,5
+Democratic Republic of the Congo,COD,2023-01-29,7,539,0,23,1,138,0,9
+Democratic Republic of the Congo,COD,2023-01-22,6,401,0,14,4,110,0,4
+Democratic Republic of the Congo,COD,2023-01-15,2,291,0,10,1,142,0,3
+Democratic Republic of the Congo,COD,2023-01-08,1,149,0,7,1,149,0,7
+Democratic Republic of the Congo,COD,NA,37170,171450,77,2831,494,0,0,0
+Egypt,EGY,2025-09-21,4,0,0,0,1,0,0,0
+Egypt,EGY,2022-12-18,3,0,0,0,1,0,0,0
+Egypt,EGY,2022-12-11,2,0,0,0,1,0,0,0
+Egypt,EGY,2022-10-02,1,0,0,0,1,0,0,0
+Ethiopia,ETH,2025-10-12,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-10-05,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-09-28,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-09-21,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-09-14,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-09-07,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-08-31,48,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-08-24,48,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-08-17,47,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-08-10,46,0,1,0,2,0,0,0
+Ethiopia,ETH,2025-08-03,44,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-07-27,44,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-07-20,43,0,1,0,0,0,0,0
+Ethiopia,ETH,2025-07-13,43,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-07-06,42,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-06-29,41,0,1,0,3,0,0,0
+Ethiopia,ETH,2025-06-22,38,0,1,0,3,0,0,0
+Ethiopia,ETH,2025-06-15,35,0,1,0,1,0,0,0
+Ethiopia,ETH,2025-06-08,34,0,1,0,12,0,0,0
+Ethiopia,ETH,2025-06-01,22,0,1,0,4,0,1,0
+Ethiopia,ETH,2025-05-25,18,0,0,0,2,0,0,0
+Ethiopia,ETH,2025-05-18,16,0,0,0,16,0,0,0
+Gabon,GAB,2024-12-29,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-12-22,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-12-15,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-12-08,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-12-01,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-11-24,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-11-17,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-11-10,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-11-03,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-10-27,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-10-20,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-10-13,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-10-06,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-09-29,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-09-22,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-09-15,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-09-08,2,0,0,0,0,0,0,0
+Gabon,GAB,2024-09-01,2,0,0,0,1,0,0,0
+Gabon,GAB,2024-08-25,1,0,0,0,1,0,0,0
+Gabon,GAB,2024-08-18,0,0,0,0,0,0,0,0
+Gambia,GMB,2025-08-03,1,0,0,0,0,0,0,0
+Gambia,GMB,2025-07-27,1,0,0,0,0,0,0,0
+Gambia,GMB,2025-07-20,1,0,0,0,1,0,0,0
+Gambia,GMB,2025-07-13,0,0,0,0,0,0,0,0
+Gambia,GMB,2025-07-06,0,0,0,0,0,0,0,0
+Gambia,GMB,2025-06-29,0,0,0,0,0,0,0,0
+Gambia,GMB,2025-06-22,0,0,0,0,0,0,0,0
+Ghana,GHA,2026-02-01,1127,0,11,0,6,0,0,0
+Ghana,GHA,2026-01-25,1121,0,11,0,13,0,0,0
+Ghana,GHA,2026-01-18,1108,0,11,0,12,0,0,0
+Ghana,GHA,2026-01-11,1096,0,11,0,19,0,0,0
+Ghana,GHA,2026-01-04,1077,0,11,0,0,0,0,0
+Ghana,GHA,2025-12-28,1077,0,11,0,2,0,1,0
+Ghana,GHA,2025-12-21,1075,0,10,0,13,0,2,0
+Ghana,GHA,2025-12-14,1062,0,8,0,9,0,0,0
+Ghana,GHA,2025-12-07,1053,0,8,0,11,0,0,0
+Ghana,GHA,2025-11-30,1042,0,8,0,12,0,1,0
+Ghana,GHA,2025-11-23,1030,0,7,0,21,0,0,0
+Ghana,GHA,2025-11-16,1009,0,7,0,26,0,0,0
+Ghana,GHA,2025-11-09,983,0,7,0,28,0,0,0
+Ghana,GHA,2025-11-02,955,0,7,0,32,0,0,0
+Ghana,GHA,2025-10-26,923,0,7,0,24,0,0,0
+Ghana,GHA,2025-10-19,899,0,7,0,32,0,0,0
+Ghana,GHA,2025-10-12,867,0,7,0,38,0,0,0
+Ghana,GHA,2025-10-05,829,0,7,0,44,0,0,0
+Ghana,GHA,2025-09-28,785,0,7,0,74,0,1,0
+Ghana,GHA,2025-09-21,711,0,6,0,28,0,0,0
+Ghana,GHA,2025-09-14,683,0,6,0,35,0,1,0
+Ghana,GHA,2025-09-07,648,0,5,0,28,0,0,0
+Ghana,GHA,2025-08-31,620,0,5,0,48,0,0,0
+Ghana,GHA,2025-08-24,572,0,5,0,35,0,0,0
+Ghana,GHA,2025-08-17,537,0,5,0,37,0,0,0
+Ghana,GHA,2025-08-10,500,0,5,0,44,0,0,0
+Ghana,GHA,2025-08-03,456,0,5,0,23,0,0,0
+Ghana,GHA,2025-07-27,433,0,5,0,32,0,0,0
+Ghana,GHA,2025-07-20,401,0,5,0,18,0,0,0
+Ghana,GHA,2025-07-13,383,0,5,0,27,0,1,0
+Ghana,GHA,2025-07-06,356,0,4,0,31,0,0,0
+Ghana,GHA,2025-06-29,325,0,4,0,24,0,0,0
+Ghana,GHA,2025-06-22,301,0,4,0,37,0,0,0
+Ghana,GHA,2025-06-15,264,0,4,0,25,0,0,0
+Ghana,GHA,2025-06-08,239,0,4,0,15,0,0,0
+Ghana,GHA,2025-06-01,224,0,4,0,36,0,0,0
+Ghana,GHA,2025-05-25,188,0,4,0,21,0,0,0
+Ghana,GHA,2025-05-18,167,0,4,0,19,0,0,0
+Ghana,GHA,2025-05-11,148,0,4,0,10,0,0,0
+Ghana,GHA,2025-05-04,138,0,4,0,2,0,0,0
+Ghana,GHA,2025-04-27,136,0,4,0,1,0,0,0
+Ghana,GHA,2025-04-20,135,0,4,0,1,0,0,0
+Ghana,GHA,2025-04-13,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-04-06,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-03-30,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-03-23,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-03-16,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-03-09,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-03-02,134,0,4,0,0,0,0,0
+Ghana,GHA,2025-02-23,134,0,4,0,1,0,0,0
+Ghana,GHA,2025-02-16,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-02-09,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-02-02,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-01-26,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-01-19,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-01-12,133,0,4,0,0,0,0,0
+Ghana,GHA,2025-01-05,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-12-29,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-12-22,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-12-15,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-12-08,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-12-01,133,0,4,0,0,0,0,0
+Ghana,GHA,2024-11-24,133,0,4,0,1,0,0,0
+Ghana,GHA,2024-11-17,132,0,4,0,1,0,0,0
+Ghana,GHA,2024-11-10,131,0,4,0,0,0,0,0
+Ghana,GHA,2024-11-03,131,0,4,0,0,0,0,0
+Ghana,GHA,2024-10-27,131,0,4,0,1,0,0,0
+Ghana,GHA,2024-10-20,130,0,4,0,0,0,0,0
+Ghana,GHA,2024-10-13,130,0,4,0,0,0,0,0
+Ghana,GHA,2024-10-06,130,0,4,0,0,0,0,0
+Ghana,GHA,2024-09-29,130,0,4,0,1,0,0,0
+Ghana,GHA,2024-09-22,129,0,4,0,1,0,0,0
+Ghana,GHA,2024-09-15,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-09-08,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-09-01,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-08-25,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-08-18,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-08-11,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-08-04,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-07-28,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-07-21,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-07-14,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-07-07,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-06-30,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-06-23,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-06-16,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-06-09,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-06-02,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-05-26,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-05-19,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-05-12,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-05-05,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-04-28,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-04-21,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-04-14,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-04-07,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-03-31,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-03-24,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-03-17,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-03-10,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-03-03,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-02-25,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-02-18,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-02-11,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-02-04,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-01-28,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-01-21,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-01-14,128,0,4,0,0,0,0,0
+Ghana,GHA,2024-01-07,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-12-31,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-12-24,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-12-17,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-12-10,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-12-03,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-11-26,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-11-19,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-11-12,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-11-05,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-10-29,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-10-22,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-10-15,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-10-08,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-10-01,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-09-24,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-09-17,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-09-10,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-09-03,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-08-27,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-08-20,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-08-13,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-08-06,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-07-30,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-07-23,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-07-16,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-07-09,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-07-02,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-06-25,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-06-18,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-06-11,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-06-04,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-05-28,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-05-21,128,0,4,0,0,0,0,0
+Ghana,GHA,2023-05-14,128,0,4,0,1,0,0,0
+Ghana,GHA,2023-05-07,127,0,4,0,1,0,0,0
+Ghana,GHA,2023-04-30,126,0,4,0,0,0,0,0
+Ghana,GHA,2023-04-23,126,0,4,0,0,0,0,0
+Ghana,GHA,2023-04-16,126,0,4,0,0,0,0,0
+Ghana,GHA,2023-04-09,126,0,4,0,1,0,0,0
+Ghana,GHA,2023-04-02,125,0,4,0,0,0,0,0
+Ghana,GHA,2023-03-26,125,0,4,0,0,0,0,0
+Ghana,GHA,2023-03-19,125,0,4,0,1,0,0,0
+Ghana,GHA,2023-03-12,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-03-05,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-02-26,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-02-19,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-02-12,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-02-05,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-01-29,124,0,4,0,0,0,0,0
+Ghana,GHA,2023-01-22,124,0,4,0,2,0,0,0
+Ghana,GHA,2023-01-15,122,0,4,0,0,0,0,0
+Ghana,GHA,2023-01-08,122,0,4,0,0,0,0,0
+Ghana,GHA,2023-01-01,122,0,4,0,0,0,0,0
+Ghana,GHA,2022-12-25,122,0,4,0,5,0,0,0
+Ghana,GHA,2022-12-18,117,0,4,0,0,0,0,0
+Ghana,GHA,2022-12-11,117,0,4,0,6,0,0,0
+Ghana,GHA,2022-12-04,111,0,4,0,0,0,0,0
+Ghana,GHA,2022-11-27,111,0,4,0,3,0,0,0
+Ghana,GHA,2022-11-20,108,0,4,0,0,0,0,0
+Ghana,GHA,2022-11-13,108,0,4,0,0,0,0,0
+Ghana,GHA,2022-11-06,108,0,4,0,0,0,0,0
+Ghana,GHA,2022-10-30,108,0,4,0,2,0,0,0
+Ghana,GHA,2022-10-23,106,0,4,0,0,0,0,0
+Ghana,GHA,2022-10-16,106,0,4,0,1,0,0,0
+Ghana,GHA,2022-10-09,105,0,4,0,0,0,0,0
+Ghana,GHA,2022-10-02,105,0,4,0,4,0,0,0
+Ghana,GHA,2022-09-25,101,0,4,0,5,0,0,0
+Ghana,GHA,2022-09-18,96,0,4,0,3,0,0,0
+Ghana,GHA,2022-09-11,93,0,4,0,4,0,0,0
+Ghana,GHA,2022-09-04,89,0,4,0,3,0,0,0
+Ghana,GHA,2022-08-28,86,0,4,0,7,0,0,0
+Ghana,GHA,2022-08-21,79,0,4,0,11,0,3,0
+Ghana,GHA,2022-08-14,68,0,1,0,12,0,0,0
+Ghana,GHA,2022-08-07,56,0,1,0,4,0,0,0
+Ghana,GHA,2022-07-31,52,0,1,0,14,0,1,0
+Ghana,GHA,2022-07-24,38,0,0,0,2,0,0,0
+Ghana,GHA,2022-07-17,36,0,0,0,2,0,0,0
+Ghana,GHA,2022-07-10,34,0,0,0,5,0,0,0
+Ghana,GHA,2022-07-03,29,0,0,0,6,0,0,0
+Ghana,GHA,2022-06-26,23,0,0,0,1,0,0,0
+Ghana,GHA,2022-06-19,22,0,0,0,3,0,0,0
+Ghana,GHA,2022-06-12,19,0,0,0,11,0,0,0
+Ghana,GHA,2022-06-05,8,0,0,0,6,0,0,0
+Ghana,GHA,2022-05-29,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-05-22,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-05-15,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-05-08,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-05-01,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-04-24,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-04-17,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-04-10,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-04-03,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-03-27,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-03-20,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-03-13,2,0,0,0,0,0,0,0
+Ghana,GHA,2022-03-06,2,0,0,0,1,0,0,0
+Ghana,GHA,2022-02-27,1,0,0,0,1,0,0,0
+Ghana,GHA,2022-02-20,0,0,0,0,0,0,0,0
+Ghana,GHA,2022-02-13,0,0,0,0,0,0,0,0
+Ghana,GHA,2022-02-06,0,0,0,0,0,0,0,0
+Ghana,GHA,2022-01-30,0,0,0,0,0,0,0,0
+Ghana,GHA,2022-01-23,0,0,0,0,0,0,0,0
+Ghana,GHA,2022-01-16,0,0,0,0,0,0,0,0
+Guinea,GIN,2026-02-08,2153,0,6,0,13,0,0,0
+Guinea,GIN,2026-02-01,2140,0,6,0,11,0,0,0
+Guinea,GIN,2026-01-25,2129,0,6,0,21,0,0,0
+Guinea,GIN,2026-01-18,2108,0,6,0,23,0,0,0
+Guinea,GIN,2026-01-11,2085,0,6,0,36,0,0,0
+Guinea,GIN,2026-01-04,2049,0,6,0,37,0,0,0
+Guinea,GIN,2025-12-28,2012,0,6,0,38,0,0,0
+Guinea,GIN,2025-12-21,1974,0,6,0,66,0,0,0
+Guinea,GIN,2025-12-14,1908,0,6,0,34,0,0,0
+Guinea,GIN,2025-12-07,1874,0,6,0,45,0,0,0
+Guinea,GIN,2025-11-30,1829,0,6,0,53,0,0,0
+Guinea,GIN,2025-11-23,1776,0,6,0,52,0,0,0
+Guinea,GIN,2025-11-16,1724,0,6,0,72,0,0,0
+Guinea,GIN,2025-11-09,1652,0,6,0,88,0,0,0
+Guinea,GIN,2025-11-02,1564,0,6,0,77,0,0,0
+Guinea,GIN,2025-10-26,1487,0,6,0,89,0,0,0
+Guinea,GIN,2025-10-19,1398,0,6,0,83,0,0,0
+Guinea,GIN,2025-10-12,1315,0,6,0,99,0,1,0
+Guinea,GIN,2025-10-05,1216,0,5,0,75,0,0,0
+Guinea,GIN,2025-09-28,1141,0,5,0,63,0,0,0
+Guinea,GIN,2025-09-21,1078,0,5,0,65,0,1,0
+Guinea,GIN,2025-09-14,1013,0,4,0,65,0,2,0
+Guinea,GIN,2025-09-07,948,0,2,0,71,0,0,0
+Guinea,GIN,2025-08-31,877,0,2,0,74,0,0,0
+Guinea,GIN,2025-08-24,803,0,2,0,64,0,0,0
+Guinea,GIN,2025-08-17,739,0,2,0,102,0,0,0
+Guinea,GIN,2025-08-10,637,0,2,0,124,0,0,0
+Guinea,GIN,2025-08-03,513,0,2,0,75,0,0,0
+Guinea,GIN,2025-07-27,438,0,2,0,125,0,0,0
+Guinea,GIN,2025-07-20,313,0,2,0,121,0,2,0
+Guinea,GIN,2025-07-13,192,0,0,0,81,0,0,0
+Guinea,GIN,2025-07-06,111,0,0,0,65,0,0,0
+Guinea,GIN,2025-06-29,46,0,0,0,22,0,0,0
+Guinea,GIN,2025-06-22,24,0,0,0,13,0,0,0
+Guinea,GIN,2025-06-15,11,0,0,0,5,0,0,0
+Guinea,GIN,2025-06-08,6,0,0,0,4,0,0,0
+Guinea,GIN,2025-06-01,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-05-18,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-05-11,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-05-04,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-04-27,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-04-20,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-04-13,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-04-06,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-03-30,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-03-23,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-03-16,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-03-09,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-03-02,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-02-23,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-02-16,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-02-09,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-02-02,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-01-26,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-01-19,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-01-12,2,0,0,0,0,0,0,0
+Guinea,GIN,2025-01-05,2,0,0,0,0,0,0,0
+Guinea,GIN,2024-12-29,2,0,0,0,0,0,0,0
+Guinea,GIN,2024-12-22,2,0,0,0,0,0,0,0
+Guinea,GIN,2024-12-15,2,0,0,0,0,0,0,0
+Guinea,GIN,2024-12-08,2,0,0,0,1,0,0,0
+Guinea,GIN,2024-12-01,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-11-24,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-11-17,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-11-10,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-11-03,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-10-27,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-10-20,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-10-13,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-10-06,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-09-29,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-09-22,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-09-15,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-09-08,1,0,0,0,0,0,0,0
+Guinea,GIN,2024-09-01,1,0,0,0,1,0,0,0
+Guinea,GIN,2024-08-25,0,0,0,0,0,0,0,0
+Guinea,GIN,2024-08-18,0,0,0,0,0,0,0,0
+Guinea,GIN,2024-08-11,0,0,0,0,0,0,0,0
+Guinea,GIN,2024-08-04,0,0,0,0,0,0,0,0
+Guinea,GIN,2024-07-28,0,0,0,0,0,0,0,0
+Kenya,KEN,2026-02-08,1002,0,15,0,6,0,0,0
+Kenya,KEN,2026-02-01,996,0,15,0,12,0,1,0
+Kenya,KEN,2026-01-25,984,0,14,0,8,0,0,0
+Kenya,KEN,2026-01-18,976,0,14,0,11,0,0,0
+Kenya,KEN,2026-01-11,965,0,14,0,12,0,1,0
+Kenya,KEN,2026-01-04,953,0,13,0,4,0,0,0
+Kenya,KEN,2025-12-28,949,0,13,0,7,0,0,0
+Kenya,KEN,2025-12-21,942,0,13,0,26,0,0,0
+Kenya,KEN,2025-12-14,916,0,13,0,11,0,0,0
+Kenya,KEN,2025-12-07,905,0,13,0,11,0,0,0
+Kenya,KEN,2025-11-30,894,0,13,0,31,0,0,0
+Kenya,KEN,2025-11-23,863,0,13,0,14,0,0,0
+Kenya,KEN,2025-11-16,849,0,13,0,31,0,1,0
+Kenya,KEN,2025-11-09,818,0,12,0,44,0,0,0
+Kenya,KEN,2025-11-02,774,0,12,0,9,0,2,0
+Kenya,KEN,2025-10-26,765,0,10,0,26,0,0,0
+Kenya,KEN,2025-10-19,739,0,10,0,29,0,0,0
+Kenya,KEN,2025-10-12,710,0,10,0,51,0,0,0
+Kenya,KEN,2025-10-05,659,0,10,0,35,0,0,0
+Kenya,KEN,2025-09-28,624,0,10,0,58,0,1,0
+Kenya,KEN,2025-09-21,566,0,9,0,60,0,0,0
+Kenya,KEN,2025-09-14,506,0,9,0,52,0,2,0
+Kenya,KEN,2025-09-07,454,0,7,0,23,0,0,0
+Kenya,KEN,2025-08-31,431,0,7,0,30,0,1,0
+Kenya,KEN,2025-08-24,401,0,6,0,31,0,0,0
+Kenya,KEN,2025-08-17,370,0,6,0,20,0,0,0
+Kenya,KEN,2025-08-10,350,0,6,0,36,0,0,0
+Kenya,KEN,2025-08-03,314,0,6,0,33,0,1,0
+Kenya,KEN,2025-07-27,281,0,5,0,25,0,0,0
+Kenya,KEN,2025-07-20,256,0,5,0,16,0,0,0
+Kenya,KEN,2025-07-13,240,0,5,0,27,0,1,0
+Kenya,KEN,2025-07-06,213,0,4,0,16,0,0,0
+Kenya,KEN,2025-06-29,197,0,4,0,20,0,1,0
+Kenya,KEN,2025-06-22,177,0,3,0,14,0,1,0
+Kenya,KEN,2025-06-15,163,0,2,0,12,0,0,0
+Kenya,KEN,2025-06-08,151,0,2,0,14,0,0,0
+Kenya,KEN,2025-06-01,137,0,2,0,8,0,0,0
+Kenya,KEN,2025-05-25,129,0,2,0,13,0,0,0
+Kenya,KEN,2025-05-18,116,0,2,0,6,0,0,0
+Kenya,KEN,2025-05-11,110,0,2,0,13,0,0,0
+Kenya,KEN,2025-05-04,97,0,2,0,4,0,1,0
+Kenya,KEN,2025-04-27,93,0,1,0,11,0,0,0
+Kenya,KEN,2025-04-20,82,0,1,0,5,0,0,0
+Kenya,KEN,2025-04-13,77,0,1,0,5,0,0,0
+Kenya,KEN,2025-04-06,72,0,1,0,5,0,0,0
+Kenya,KEN,2025-03-30,67,0,1,0,4,0,0,0
+Kenya,KEN,2025-03-23,63,0,1,0,4,0,0,0
+Kenya,KEN,2025-03-16,59,0,1,0,3,0,0,0
+Kenya,KEN,2025-03-09,56,0,1,0,2,0,0,0
+Kenya,KEN,2025-03-02,54,0,1,0,3,0,0,0
+Kenya,KEN,2025-02-23,51,0,1,0,6,0,0,0
+Kenya,KEN,2025-02-16,45,0,1,0,6,0,0,0
+Kenya,KEN,2025-02-09,39,0,1,0,1,0,0,0
+Kenya,KEN,2025-02-02,38,0,1,0,0,0,0,0
+Kenya,KEN,2025-01-26,38,0,1,0,1,0,0,0
+Kenya,KEN,2025-01-19,37,0,1,0,6,0,0,0
+Kenya,KEN,2025-01-12,31,0,1,0,0,0,0,0
+Kenya,KEN,2025-01-05,31,0,1,0,0,0,0,0
+Kenya,KEN,2024-12-29,31,0,1,0,2,0,0,0
+Kenya,KEN,2024-12-22,29,0,1,0,0,0,0,0
+Kenya,KEN,2024-12-15,29,0,1,0,1,0,0,0
+Kenya,KEN,2024-12-08,28,0,1,0,5,0,0,0
+Kenya,KEN,2024-12-01,23,0,1,0,4,0,0,0
+Kenya,KEN,2024-11-24,19,0,1,0,2,0,0,0
+Kenya,KEN,2024-11-17,17,0,1,0,3,0,0,0
+Kenya,KEN,2024-11-10,14,0,1,0,0,0,0,0
+Kenya,KEN,2024-11-03,14,0,1,0,0,0,0,0
+Kenya,KEN,2024-10-27,14,0,1,0,0,0,0,0
+Kenya,KEN,2024-10-20,14,0,1,0,1,0,0,0
+Kenya,KEN,2024-10-13,13,0,1,0,1,0,0,0
+Kenya,KEN,2024-10-06,12,0,1,0,3,0,0,0
+Kenya,KEN,2024-09-29,9,0,1,0,4,0,1,0
+Kenya,KEN,2024-09-22,5,0,0,0,0,0,0,0
+Kenya,KEN,2024-09-15,5,0,0,0,0,0,0,0
+Kenya,KEN,2024-09-08,5,0,0,0,1,0,0,0
+Kenya,KEN,2024-09-01,4,0,0,0,2,0,0,0
+Kenya,KEN,2024-08-25,2,0,0,0,1,0,0,0
+Kenya,KEN,2024-08-18,1,0,0,0,0,0,0,0
+Kenya,KEN,2024-08-11,1,0,0,0,0,0,0,0
+Kenya,KEN,2024-08-04,1,0,0,0,1,0,0,0
+Kenya,KEN,2024-07-28,0,0,0,0,0,0,0,0
+Kenya,KEN,2024-07-21,0,0,0,0,0,0,0,0
+Liberia,LBR,2026-02-08,1639,181,8,0,3,0,0,0
+Liberia,LBR,2026-02-01,1636,181,8,0,16,3,0,0
+Liberia,LBR,2026-01-25,1620,178,8,0,24,10,0,0
+Liberia,LBR,2026-01-18,1596,168,8,0,38,0,0,0
+Liberia,LBR,2026-01-11,1558,168,8,0,15,12,0,0
+Liberia,LBR,2026-01-04,1543,156,8,0,12,1,0,0
+Liberia,LBR,2025-12-28,1531,155,8,0,17,0,0,0
+Liberia,LBR,2025-12-21,1514,155,8,0,13,17,0,0
+Liberia,LBR,2025-12-14,1501,138,8,0,29,3,2,0
+Liberia,LBR,2025-12-07,1472,135,6,0,16,0,0,0
+Liberia,LBR,2025-11-30,1456,135,6,0,17,1,0,0
+Liberia,LBR,2025-11-23,1439,134,6,0,24,7,0,0
+Liberia,LBR,2025-11-16,1415,127,6,0,48,0,0,0
+Liberia,LBR,2025-11-09,1367,127,6,0,42,2,0,0
+Liberia,LBR,2025-11-02,1325,125,6,0,65,0,0,0
+Liberia,LBR,2025-10-26,1260,125,6,0,74,0,0,0
+Liberia,LBR,2025-10-19,1186,125,6,0,86,17,2,0
+Liberia,LBR,2025-10-12,1100,108,4,0,59,9,0,0
+Liberia,LBR,2025-10-05,1041,99,4,0,101,3,0,0
+Liberia,LBR,2025-09-28,940,96,4,0,75,25,1,0
+Liberia,LBR,2025-09-21,865,71,3,0,64,0,1,0
+Liberia,LBR,2025-09-14,801,71,2,0,51,0,0,0
+Liberia,LBR,2025-09-07,750,71,2,0,65,24,1,0
+Liberia,LBR,2025-08-31,685,47,1,0,68,4,0,0
+Liberia,LBR,2025-08-24,617,43,1,0,38,2,0,0
+Liberia,LBR,2025-08-17,579,41,1,0,50,0,1,0
+Liberia,LBR,2025-08-10,529,41,0,0,50,0,0,0
+Liberia,LBR,2025-08-03,479,41,0,0,46,1,0,0
+Liberia,LBR,2025-07-27,433,40,0,0,38,1,0,0
+Liberia,LBR,2025-07-20,395,39,0,0,43,0,0,0
+Liberia,LBR,2025-07-13,352,39,0,0,64,0,0,0
+Liberia,LBR,2025-07-06,288,39,0,0,58,0,0,0
+Liberia,LBR,2025-06-29,230,39,0,0,27,0,0,0
+Liberia,LBR,2025-06-22,203,39,0,0,11,0,0,0
+Liberia,LBR,2025-06-15,192,39,0,0,9,0,0,0
+Liberia,LBR,2025-06-08,183,39,0,0,13,0,0,0
+Liberia,LBR,2025-06-01,170,39,0,0,41,0,0,0
+Liberia,LBR,2025-05-25,129,39,0,0,30,0,0,0
+Liberia,LBR,2025-05-18,99,39,0,0,3,0,0,0
+Liberia,LBR,2025-05-11,96,39,0,0,4,0,0,0
+Liberia,LBR,2025-05-04,92,39,0,0,1,0,0,0
+Liberia,LBR,2025-04-27,91,39,0,0,0,0,0,0
+Liberia,LBR,2025-04-20,91,39,0,0,3,0,0,0
+Liberia,LBR,2025-04-13,88,39,0,0,1,0,0,0
+Liberia,LBR,2025-04-06,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-03-30,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-03-23,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-03-16,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-03-09,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-03-02,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-02-23,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-02-16,87,39,0,0,0,0,0,0
+Liberia,LBR,2025-02-09,87,39,0,0,2,0,0,0
+Liberia,LBR,2025-02-02,85,39,0,0,1,0,0,0
+Liberia,LBR,2025-01-26,84,39,0,0,3,0,0,0
+Liberia,LBR,2025-01-19,81,39,0,0,1,0,0,0
+Liberia,LBR,2025-01-12,80,39,0,0,0,0,0,0
+Liberia,LBR,2025-01-05,80,39,0,0,0,0,0,0
+Liberia,LBR,2024-12-29,80,39,0,0,0,0,0,0
+Liberia,LBR,2024-12-22,80,39,0,0,0,0,0,0
+Liberia,LBR,2024-12-15,80,39,0,0,0,1,0,0
+Liberia,LBR,2024-12-08,80,38,0,0,0,1,0,0
+Liberia,LBR,2024-12-01,80,37,0,0,2,1,0,0
+Liberia,LBR,2024-11-24,78,36,0,0,10,2,0,0
+Liberia,LBR,2024-11-17,68,34,0,0,10,2,0,0
+Liberia,LBR,2024-11-10,58,32,0,0,3,3,0,0
+Liberia,LBR,2024-11-03,55,29,0,0,16,3,0,0
+Liberia,LBR,2024-10-27,39,26,0,0,3,2,0,0
+Liberia,LBR,2024-10-20,36,24,0,0,1,2,0,0
+Liberia,LBR,2024-10-13,35,22,0,0,4,1,0,0
+Liberia,LBR,2024-10-06,31,21,0,0,0,1,0,0
+Liberia,LBR,2024-09-29,31,20,0,0,2,0,0,0
+Liberia,LBR,2024-09-22,29,20,0,0,0,2,0,0
+Liberia,LBR,2024-09-15,29,18,0,0,1,2,0,0
+Liberia,LBR,2024-09-08,28,16,0,0,3,2,0,0
+Liberia,LBR,2024-09-01,25,14,0,0,1,3,0,0
+Liberia,LBR,2024-08-25,24,11,0,0,1,2,0,0
+Liberia,LBR,2024-08-18,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-08-11,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-08-04,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-07-28,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-07-21,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-07-14,23,9,0,0,0,0,0,0
+Liberia,LBR,2024-07-07,23,9,0,0,1,0,0,0
+Liberia,LBR,2024-06-30,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-06-23,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-06-16,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-06-09,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-06-02,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-05-26,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-05-19,22,9,0,0,0,0,0,0
+Liberia,LBR,2024-05-12,22,9,0,0,1,2,0,0
+Liberia,LBR,2024-05-05,21,7,0,0,0,0,0,0
+Liberia,LBR,2024-04-28,21,7,0,0,0,0,0,0
+Liberia,LBR,2024-04-21,21,7,0,0,0,0,0,0
+Liberia,LBR,2024-04-14,21,7,0,0,0,0,0,0
+Liberia,LBR,2024-04-07,21,7,0,0,0,1,0,0
+Liberia,LBR,2024-03-31,21,6,0,0,0,0,0,0
+Liberia,LBR,2024-03-24,21,6,0,0,0,1,0,0
+Liberia,LBR,2024-03-17,21,5,0,0,2,0,0,0
+Liberia,LBR,2024-03-10,19,5,0,0,0,1,0,0
+Liberia,LBR,2024-03-03,19,4,0,0,0,0,0,0
+Liberia,LBR,2024-02-25,19,4,0,0,0,1,0,0
+Liberia,LBR,2024-02-18,19,3,0,0,1,1,0,0
+Liberia,LBR,2024-02-11,18,2,0,0,0,1,0,0
+Liberia,LBR,2024-02-04,18,1,0,0,0,0,0,0
+Liberia,LBR,2024-01-28,18,1,0,0,0,0,0,0
+Liberia,LBR,2024-01-21,18,1,0,0,0,1,0,0
+Liberia,LBR,2024-01-14,18,0,0,0,1,0,0,0
+Liberia,LBR,2024-01-07,17,0,0,0,0,0,0,0
+Liberia,LBR,2023-12-31,17,0,0,0,0,0,0,0
+Liberia,LBR,2023-12-24,17,0,0,0,0,0,0,0
+Liberia,LBR,2023-12-17,17,0,0,0,0,0,0,0
+Liberia,LBR,2023-12-10,17,0,0,0,0,0,0,0
+Liberia,LBR,2023-12-03,17,0,0,0,2,0,0,0
+Liberia,LBR,2023-11-26,15,0,0,0,1,0,0,0
+Liberia,LBR,2023-11-19,14,0,0,0,2,0,0,0
+Liberia,LBR,2023-11-12,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-11-05,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-10-29,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-10-22,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-10-15,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-10-08,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-10-01,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-09-24,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-09-17,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-09-10,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-09-03,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-08-27,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-08-20,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-08-13,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-08-06,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-07-30,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-07-23,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-07-16,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-07-09,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-07-02,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-06-25,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-06-18,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-06-11,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-06-04,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-05-28,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-05-21,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-05-14,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-05-07,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-04-30,12,0,0,0,0,0,0,0
+Liberia,LBR,2023-04-23,12,0,0,0,2,0,0,0
+Liberia,LBR,2023-04-16,10,0,0,0,0,0,0,0
+Liberia,LBR,2023-04-09,10,0,0,0,0,0,0,0
+Liberia,LBR,2023-04-02,10,0,0,0,0,0,0,0
+Liberia,LBR,2023-03-26,10,0,0,0,0,0,0,0
+Liberia,LBR,2023-03-19,10,0,0,0,1,0,0,0
+Liberia,LBR,2023-03-12,9,0,0,0,0,0,0,0
+Liberia,LBR,2023-03-05,9,0,0,0,1,0,0,0
+Liberia,LBR,2023-02-26,8,0,0,0,0,0,0,0
+Liberia,LBR,2023-02-19,8,0,0,0,1,0,0,0
+Liberia,LBR,2023-02-12,7,0,0,0,0,0,0,0
+Liberia,LBR,2023-02-05,7,0,0,0,0,0,0,0
+Liberia,LBR,2023-01-29,7,0,0,0,1,0,0,0
+Liberia,LBR,2023-01-22,6,0,0,0,0,0,0,0
+Liberia,LBR,2023-01-15,6,0,0,0,0,0,0,0
+Liberia,LBR,2023-01-08,6,0,0,0,0,0,0,0
+Liberia,LBR,2023-01-01,6,0,0,0,0,0,0,0
+Liberia,LBR,2022-12-25,6,0,0,0,0,0,0,0
+Liberia,LBR,2022-12-18,6,0,0,0,0,0,0,0
+Liberia,LBR,2022-12-11,6,0,0,0,2,0,0,0
+Liberia,LBR,2022-12-04,4,0,0,0,0,0,0,0
+Liberia,LBR,2022-11-27,4,0,0,0,1,0,0,0
+Liberia,LBR,2022-11-20,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-11-13,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-11-06,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-10-30,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-10-23,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-10-16,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-10-09,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-10-02,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-09-25,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-09-18,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-09-11,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-09-04,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-08-28,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-08-21,3,0,0,0,0,0,0,0
+Liberia,LBR,2022-08-14,3,0,0,0,1,0,0,0
+Liberia,LBR,2022-08-07,2,0,0,0,1,0,0,0
+Liberia,LBR,2022-07-31,1,0,0,0,1,0,0,0
+Liberia,LBR,2022-07-24,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-07-17,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-07-10,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-07-03,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-06-26,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-06-19,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-06-12,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-06-05,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-05-29,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-05-22,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-05-15,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-05-08,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-05-01,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-04-24,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-04-17,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-04-10,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-04-03,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-03-27,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-03-20,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-03-13,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-03-06,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-02-27,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-02-20,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-02-13,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-02-06,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-01-30,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-01-23,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-01-16,0,0,0,0,0,0,0,0
+Liberia,LBR,2022-01-09,0,0,0,0,0,0,0,0
+Madagascar,MDG,2026-02-15,332,58,0,0,63,0,0,0
+Madagascar,MDG,2026-02-08,269,58,0,0,41,26,0,0
+Madagascar,MDG,2026-02-01,228,32,0,0,48,-7,0,0
+Madagascar,MDG,2026-01-25,180,39,0,0,87,0,0,0
+Madagascar,MDG,2026-01-18,93,39,0,0,71,15,0,0
+Madagascar,MDG,2026-01-11,22,24,0,0,3,14,0,0
+Madagascar,MDG,2026-01-04,19,10,0,0,6,0,0,0
+Madagascar,MDG,2025-12-28,13,10,0,0,8,0,0,0
+Madagascar,MDG,2025-12-21,5,10,0,0,5,10,0,0
+Madagascar,MDG,2025-12-14,0,0,0,0,0,0,0,0
+Malawi,MWI,2026-01-11,151,0,1,0,1,0,0,0
+Malawi,MWI,2026-01-04,150,0,1,0,2,0,0,0
+Malawi,MWI,2025-12-28,148,0,1,0,0,0,0,0
+Malawi,MWI,2025-12-21,148,0,1,0,0,0,0,0
+Malawi,MWI,2025-12-14,148,0,1,0,1,0,0,0
+Malawi,MWI,2025-12-07,147,0,1,0,1,0,0,0
+Malawi,MWI,2025-11-30,146,0,1,0,2,0,0,0
+Malawi,MWI,2025-11-23,144,0,1,0,2,0,0,0
+Malawi,MWI,2025-11-16,142,0,1,0,2,0,0,0
+Malawi,MWI,2025-11-09,140,0,1,0,0,0,0,0
+Malawi,MWI,2025-11-02,140,0,1,0,0,0,0,0
+Malawi,MWI,2025-10-26,140,0,1,0,4,0,0,0
+Malawi,MWI,2025-10-19,136,0,1,0,5,0,0,0
+Malawi,MWI,2025-10-12,131,0,1,0,4,0,0,0
+Malawi,MWI,2025-10-05,127,0,1,0,4,0,0,0
+Malawi,MWI,2025-09-28,123,0,1,0,12,0,0,0
+Malawi,MWI,2025-09-21,111,0,1,0,1,0,0,0
+Malawi,MWI,2025-09-14,110,0,1,0,15,0,0,0
+Malawi,MWI,2025-09-07,95,0,1,0,6,0,0,0
+Malawi,MWI,2025-08-31,89,0,1,0,9,0,0,0
+Malawi,MWI,2025-08-24,80,0,1,0,10,0,0,0
+Malawi,MWI,2025-08-17,70,0,1,0,4,0,0,0
+Malawi,MWI,2025-08-10,66,0,1,0,5,0,1,0
+Malawi,MWI,2025-08-03,61,0,0,0,1,0,0,0
+Malawi,MWI,2025-07-27,60,0,0,0,2,0,0,0
+Malawi,MWI,2025-07-20,58,0,0,0,9,0,0,0
+Malawi,MWI,2025-07-13,49,0,0,0,3,0,0,0
+Malawi,MWI,2025-07-06,46,0,0,0,6,0,0,0
+Malawi,MWI,2025-06-29,40,0,0,0,3,0,0,0
+Malawi,MWI,2025-06-22,37,0,0,0,5,0,0,0
+Malawi,MWI,2025-06-15,32,0,0,0,6,0,0,0
+Malawi,MWI,2025-06-08,26,0,0,0,8,0,0,0
+Malawi,MWI,2025-06-01,18,0,0,0,7,0,0,0
+Malawi,MWI,2025-05-25,11,0,0,0,2,0,0,0
+Malawi,MWI,2025-05-18,9,0,0,0,3,0,0,0
+Malawi,MWI,2025-05-11,6,0,0,0,0,0,0,0
+Malawi,MWI,2025-05-04,6,0,0,0,2,0,0,0
+Malawi,MWI,2025-04-27,4,0,0,0,0,0,0,0
+Malawi,MWI,2025-04-20,4,0,0,0,4,0,0,0
+Malawi,MWI,2025-04-13,0,0,0,0,0,0,0,0
+Mali,MLI,2026-02-08,17,0,2,0,2,0,0,0
+Mali,MLI,2026-02-01,15,0,2,0,0,0,0,0
+Mali,MLI,2026-01-25,15,0,2,0,0,0,0,0
+Mali,MLI,2026-01-18,15,0,2,0,3,0,1,0
+Mali,MLI,2026-01-11,12,0,1,0,1,0,0,0
+Mali,MLI,2026-01-04,11,0,1,0,0,0,0,0
+Mali,MLI,2025-12-28,11,0,1,0,0,0,0,0
+Mali,MLI,2025-12-21,11,0,1,0,1,0,0,0
+Mali,MLI,2025-12-14,10,0,1,0,4,0,1,0
+Mali,MLI,2025-12-07,6,0,0,0,3,0,0,0
+Mali,MLI,2025-11-30,3,0,0,0,2,0,0,0
+Mali,MLI,2025-11-23,1,0,0,0,1,0,0,0
+Mali,MLI,2025-11-16,0,0,0,0,0,0,0,0
+Mali,MLI,2025-11-09,0,0,0,0,0,0,0,0
+Mauritius,MUS,2024-12-22,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-12-15,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-12-08,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-12-01,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-11-24,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-11-17,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-11-10,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-11-03,1,0,0,0,0,0,0,0
+Mauritius,MUS,2024-10-27,1,0,0,0,1,0,0,0
+Mauritius,MUS,2024-10-20,0,0,0,0,0,0,0,0
+Morocco,MAR,2024-10-06,7,0,0,0,1,0,0,0
+Morocco,MAR,2024-09-15,6,0,0,0,1,0,0,0
+Morocco,MAR,2024-03-17,5,0,0,0,1,0,0,0
+Morocco,MAR,2023-10-08,4,0,0,0,1,0,0,0
+Morocco,MAR,2022-09-04,3,0,0,0,2,0,0,0
+Morocco,MAR,2022-06-19,1,0,0,0,0,0,0,0
+Morocco,MAR,2022-06-12,1,0,0,0,0,0,0,0
+Morocco,MAR,2022-06-05,1,0,0,0,1,0,0,0
+Mozambique,MOZ,2026-01-11,94,35,1,0,2,0,0,0
+Mozambique,MOZ,2026-01-04,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-12-28,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-12-21,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-12-14,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-12-07,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-11-30,92,35,1,0,0,0,0,0
+Mozambique,MOZ,2025-11-23,92,35,1,0,1,0,0,0
+Mozambique,MOZ,2025-11-16,91,35,1,0,0,1,0,0
+Mozambique,MOZ,2025-11-09,91,34,1,0,0,0,0,0
+Mozambique,MOZ,2025-11-02,91,34,1,0,1,0,0,0
+Mozambique,MOZ,2025-10-26,90,34,1,0,1,0,0,0
+Mozambique,MOZ,2025-10-19,89,34,1,0,2,0,0,0
+Mozambique,MOZ,2025-10-12,87,34,1,0,4,13,0,0
+Mozambique,MOZ,2025-10-05,83,21,1,0,0,0,0,0
+Mozambique,MOZ,2025-09-28,83,21,1,0,0,0,0,0
+Mozambique,MOZ,2025-09-21,83,21,1,0,3,8,0,0
+Mozambique,MOZ,2025-09-14,80,13,1,0,3,0,0,0
+Mozambique,MOZ,2025-09-07,77,13,1,0,7,0,0,0
+Mozambique,MOZ,2025-08-31,70,13,1,0,4,3,0,0
+Mozambique,MOZ,2025-08-24,66,10,1,0,27,2,0,0
+Mozambique,MOZ,2025-08-17,39,8,1,0,0,0,0,0
+Mozambique,MOZ,2025-08-10,39,8,1,0,10,3,0,0
+Mozambique,MOZ,2025-08-03,29,5,1,0,11,3,0,0
+Mozambique,MOZ,2025-07-27,18,2,1,0,8,0,0,0
+Mozambique,MOZ,2025-07-20,10,2,1,0,5,2,0,0
+Mozambique,MOZ,2025-07-13,5,0,1,0,4,0,0,0
+Mozambique,MOZ,2025-07-06,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-12-22,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-12-15,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-12-08,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-11-24,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-11-17,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-11-10,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-11-03,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-10-27,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-10-20,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-10-13,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-10-06,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-09-29,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-09-22,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-09-15,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-09-08,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-08-25,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-08-18,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-08-11,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-07-28,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-07-21,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-07-14,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-07-07,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-06-30,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-06-23,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-06-16,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-05-26,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-05-19,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-05-05,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-04-28,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-04-21,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-04-14,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-04-07,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-03-31,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-03-24,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-03-17,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-03-03,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-02-25,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-02-18,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-02-11,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-01-28,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-01-21,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2024-01-14,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-12-31,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-12-24,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-12-17,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-12-03,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-11-26,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-11-19,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-11-12,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-10-29,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-10-22,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-10-15,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-09-24,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-09-17,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-09-10,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-08-27,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-08-20,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-08-13,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-08-06,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-07-30,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-07-23,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-07-16,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-07-09,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-06-25,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-06-18,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-06-11,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-05-28,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-05-21,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-05-14,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-05-07,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-04-30,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-04-23,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-04-16,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-04-09,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-03-26,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-03-19,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-03-12,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-02-26,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-02-19,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-02-12,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-02-05,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-01-29,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-01-22,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-01-15,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2023-01-01,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-12-25,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-12-18,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-12-11,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-11-27,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-11-20,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-11-13,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-10-30,1,0,1,0,0,0,0,0
+Mozambique,MOZ,2022-10-23,1,0,1,0,0,0,1,0
+Mozambique,MOZ,2022-10-16,1,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-10-09,1,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-09-25,1,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-09-18,1,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-09-11,1,0,0,0,1,0,0,0
+Mozambique,MOZ,2022-09-04,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-08-28,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-08-21,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-08-14,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-08-07,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-07-31,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-07-24,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-07-17,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-07-10,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-06-26,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-06-19,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-06-12,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-06-05,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-05-29,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-05-22,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-05-15,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-05-08,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-04-24,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-04-17,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-04-10,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-03-27,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-03-20,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-03-13,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-03-06,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-02-27,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-02-20,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-02-13,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-01-30,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-01-23,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-01-16,0,0,0,0,0,0,0,0
+Mozambique,MOZ,2022-01-09,0,0,0,0,0,0,0,0
+Namibia,NAM,2025-11-30,2,1,0,0,0,0,0,0
+Namibia,NAM,2025-11-23,2,1,0,0,0,0,0,0
+Namibia,NAM,2025-11-16,2,1,0,0,0,0,0,0
+Namibia,NAM,2025-11-09,2,1,0,0,0,0,0,0
+Namibia,NAM,2025-11-02,2,1,0,0,0,0,0,0
+Namibia,NAM,2025-10-26,2,1,0,0,1,1,0,0
+Namibia,NAM,2025-10-19,1,0,0,0,1,0,0,0
+Namibia,NAM,2025-10-12,0,0,0,0,0,0,0,0
+Nigeria,NGA,2026-02-01,1492,0,15,0,0,0,0,0
+Nigeria,NGA,2026-01-25,1492,0,15,0,3,0,0,0
+Nigeria,NGA,2026-01-18,1489,0,15,0,5,0,0,0
+Nigeria,NGA,2026-01-11,1484,0,15,0,0,0,0,0
+Nigeria,NGA,2026-01-04,1484,0,15,0,0,0,0,0
+Nigeria,NGA,2025-12-28,1484,0,15,0,3,0,0,0
+Nigeria,NGA,2025-12-21,1481,0,15,0,3,0,0,0
+Nigeria,NGA,2025-12-14,1478,0,15,0,3,0,0,0
+Nigeria,NGA,2025-12-07,1475,0,15,0,3,0,0,0
+Nigeria,NGA,2025-11-30,1472,0,15,0,9,0,0,0
+Nigeria,NGA,2025-11-23,1463,0,15,0,8,0,0,0
+Nigeria,NGA,2025-11-16,1455,0,15,0,1,0,0,0
+Nigeria,NGA,2025-11-09,1454,0,15,0,18,0,1,0
+Nigeria,NGA,2025-11-02,1436,0,14,0,6,0,0,0
+Nigeria,NGA,2025-10-26,1430,0,14,0,10,0,0,0
+Nigeria,NGA,2025-10-19,1420,0,14,0,3,0,1,0
+Nigeria,NGA,2025-10-12,1417,0,13,0,7,0,0,0
+Nigeria,NGA,2025-10-05,1410,0,13,0,2,0,0,0
+Nigeria,NGA,2025-09-28,1408,0,13,0,10,0,0,0
+Nigeria,NGA,2025-09-21,1398,0,13,0,9,0,0,0
+Nigeria,NGA,2025-09-14,1389,0,13,0,9,0,0,0
+Nigeria,NGA,2025-09-07,1380,0,13,0,10,0,0,0
+Nigeria,NGA,2025-08-31,1370,0,13,0,8,0,0,0
+Nigeria,NGA,2025-08-24,1362,0,13,0,30,0,0,0
+Nigeria,NGA,2025-08-17,1332,0,13,0,9,0,0,0
+Nigeria,NGA,2025-08-10,1323,0,13,0,13,0,0,0
+Nigeria,NGA,2025-08-03,1310,0,13,0,10,0,0,0
+Nigeria,NGA,2025-07-27,1300,0,13,0,4,0,0,0
+Nigeria,NGA,2025-07-20,1296,0,13,0,5,0,0,0
+Nigeria,NGA,2025-07-13,1291,0,13,0,9,0,1,0
+Nigeria,NGA,2025-07-06,1282,0,12,0,13,0,0,0
+Nigeria,NGA,2025-06-29,1269,0,12,0,13,0,0,0
+Nigeria,NGA,2025-06-22,1256,0,12,0,13,0,0,0
+Nigeria,NGA,2025-06-15,1243,0,12,0,11,0,0,0
+Nigeria,NGA,2025-06-08,1232,0,12,0,10,0,0,0
+Nigeria,NGA,2025-06-01,1222,0,12,0,5,0,0,0
+Nigeria,NGA,2025-05-25,1217,0,12,0,2,0,0,0
+Nigeria,NGA,2025-05-18,1215,0,12,0,11,0,0,0
+Nigeria,NGA,2025-05-11,1204,0,12,0,4,0,0,0
+Nigeria,NGA,2025-05-04,1200,0,12,0,4,0,0,0
+Nigeria,NGA,2025-04-27,1196,0,12,0,6,0,0,0
+Nigeria,NGA,2025-04-20,1190,0,12,0,4,0,0,0
+Nigeria,NGA,2025-04-13,1186,0,12,0,6,0,0,0
+Nigeria,NGA,2025-04-06,1180,0,12,0,17,0,1,0
+Nigeria,NGA,2025-03-30,1163,0,11,0,3,0,0,0
+Nigeria,NGA,2025-03-23,1160,0,11,0,7,0,0,0
+Nigeria,NGA,2025-03-16,1153,0,11,0,12,0,0,0
+Nigeria,NGA,2025-03-09,1141,0,11,0,9,0,0,0
+Nigeria,NGA,2025-03-02,1132,0,11,0,15,0,0,0
+Nigeria,NGA,2025-02-23,1117,0,11,0,8,0,0,0
+Nigeria,NGA,2025-02-16,1109,0,11,0,7,0,1,0
+Nigeria,NGA,2025-02-09,1102,0,10,0,24,0,1,0
+Nigeria,NGA,2025-02-02,1078,0,9,0,11,0,0,0
+Nigeria,NGA,2025-01-26,1067,0,9,0,5,0,0,0
+Nigeria,NGA,2025-01-19,1062,0,9,0,7,0,0,0
+Nigeria,NGA,2025-01-12,1055,0,9,0,4,0,0,0
+Nigeria,NGA,2025-01-05,1051,0,9,0,2,0,0,0
+Nigeria,NGA,2024-12-29,1049,0,9,0,4,0,0,0
+Nigeria,NGA,2024-12-22,1045,0,9,0,4,0,0,0
+Nigeria,NGA,2024-12-15,1041,0,9,0,6,0,0,0
+Nigeria,NGA,2024-12-08,1035,0,9,0,15,0,0,0
+Nigeria,NGA,2024-12-01,1020,0,9,0,7,0,0,0
+Nigeria,NGA,2024-11-24,1013,0,9,0,3,0,0,0
+Nigeria,NGA,2024-11-17,1010,0,9,0,6,0,0,0
+Nigeria,NGA,2024-11-10,1004,0,9,0,13,0,0,0
+Nigeria,NGA,2024-11-03,991,0,9,0,6,0,0,0
+Nigeria,NGA,2024-10-27,985,0,9,0,10,0,0,0
+Nigeria,NGA,2024-10-20,975,0,9,0,8,0,0,0
+Nigeria,NGA,2024-10-13,967,0,9,0,9,0,0,0
+Nigeria,NGA,2024-10-06,958,0,9,0,7,0,0,0
+Nigeria,NGA,2024-09-29,951,0,9,0,10,0,0,0
+Nigeria,NGA,2024-09-22,941,0,9,0,5,0,0,0
+Nigeria,NGA,2024-09-15,936,0,9,0,6,0,0,0
+Nigeria,NGA,2024-09-08,930,0,9,0,9,0,0,0
+Nigeria,NGA,2024-09-01,921,0,9,0,8,0,0,0
+Nigeria,NGA,2024-08-25,913,0,9,0,10,0,0,0
+Nigeria,NGA,2024-08-18,903,0,9,0,3,0,0,0
+Nigeria,NGA,2024-08-11,900,0,9,0,2,0,0,0
+Nigeria,NGA,2024-08-04,898,0,9,0,0,0,0,0
+Nigeria,NGA,2024-07-28,898,0,9,0,0,0,0,0
+Nigeria,NGA,2024-07-21,898,0,9,0,1,0,0,0
+Nigeria,NGA,2024-07-14,897,0,9,0,0,0,0,0
+Nigeria,NGA,2024-07-07,897,0,9,0,3,0,0,0
+Nigeria,NGA,2024-06-30,894,0,9,0,3,0,0,0
+Nigeria,NGA,2024-06-23,891,0,9,0,1,0,0,0
+Nigeria,NGA,2024-06-16,890,0,9,0,2,0,0,0
+Nigeria,NGA,2024-06-09,888,0,9,0,1,0,0,0
+Nigeria,NGA,2024-06-02,887,0,9,0,1,0,0,0
+Nigeria,NGA,2024-05-26,886,0,9,0,2,0,0,0
+Nigeria,NGA,2024-05-19,884,0,9,0,0,0,0,0
+Nigeria,NGA,2024-05-12,884,0,9,0,0,0,0,0
+Nigeria,NGA,2024-05-05,884,0,9,0,2,0,0,0
+Nigeria,NGA,2024-04-28,882,0,9,0,2,0,0,0
+Nigeria,NGA,2024-04-21,880,0,9,0,0,0,0,0
+Nigeria,NGA,2024-04-14,880,0,9,0,1,0,0,0
+Nigeria,NGA,2024-04-07,879,0,9,0,1,0,0,0
+Nigeria,NGA,2024-03-31,878,0,9,0,6,0,0,0
+Nigeria,NGA,2024-03-24,872,0,9,0,0,0,0,0
+Nigeria,NGA,2024-03-17,872,0,9,0,2,0,0,0
+Nigeria,NGA,2024-03-10,870,0,9,0,4,0,0,0
+Nigeria,NGA,2024-03-03,866,0,9,0,0,0,0,0
+Nigeria,NGA,2024-02-25,866,0,9,0,0,0,0,0
+Nigeria,NGA,2024-02-18,866,0,9,0,2,0,0,0
+Nigeria,NGA,2024-02-11,864,0,9,0,2,0,0,0
+Nigeria,NGA,2024-02-04,862,0,9,0,0,0,0,0
+Nigeria,NGA,2024-01-28,862,0,9,0,2,0,0,0
+Nigeria,NGA,2024-01-21,860,0,9,0,0,0,0,0
+Nigeria,NGA,2024-01-14,860,0,9,0,0,0,0,0
+Nigeria,NGA,2024-01-07,860,0,9,0,0,0,0,0
+Nigeria,NGA,2023-12-31,860,0,9,0,0,0,0,0
+Nigeria,NGA,2023-12-24,860,0,9,0,1,0,0,0
+Nigeria,NGA,2023-12-17,859,0,9,0,1,0,0,0
+Nigeria,NGA,2023-12-10,858,0,9,0,0,0,0,0
+Nigeria,NGA,2023-12-03,858,0,9,0,4,0,0,0
+Nigeria,NGA,2023-11-26,854,0,9,0,6,0,0,0
+Nigeria,NGA,2023-11-19,848,0,9,0,0,0,0,0
+Nigeria,NGA,2023-11-12,848,0,9,0,1,0,0,0
+Nigeria,NGA,2023-11-05,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-10-29,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-10-22,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-10-15,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-10-08,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-10-01,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-09-24,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-09-17,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-09-10,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-09-03,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-08-27,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-08-20,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-08-13,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-08-06,847,0,9,0,0,0,0,0
+Nigeria,NGA,2023-07-30,847,0,9,0,2,0,0,0
+Nigeria,NGA,2023-07-23,845,0,9,0,0,0,0,0
+Nigeria,NGA,2023-07-16,845,0,9,0,1,0,0,0
+Nigeria,NGA,2023-07-09,844,0,9,0,0,0,0,0
+Nigeria,NGA,2023-07-02,844,0,9,0,0,0,0,0
+Nigeria,NGA,2023-06-25,844,0,9,0,0,0,0,0
+Nigeria,NGA,2023-06-18,844,0,9,0,0,0,0,0
+Nigeria,NGA,2023-06-11,844,0,9,0,1,0,0,0
+Nigeria,NGA,2023-06-04,843,0,9,0,0,0,0,0
+Nigeria,NGA,2023-05-28,843,0,9,0,0,0,0,0
+Nigeria,NGA,2023-05-21,843,0,9,0,1,0,0,0
+Nigeria,NGA,2023-05-14,842,0,9,0,4,0,0,0
+Nigeria,NGA,2023-05-07,838,0,9,0,2,0,0,0
+Nigeria,NGA,2023-04-30,836,0,9,0,0,0,0,0
+Nigeria,NGA,2023-04-23,836,0,9,0,1,0,0,0
+Nigeria,NGA,2023-04-16,835,0,9,0,1,0,0,0
+Nigeria,NGA,2023-04-09,834,0,9,0,0,0,0,0
+Nigeria,NGA,2023-04-02,834,0,9,0,4,0,0,0
+Nigeria,NGA,2023-03-26,830,0,9,0,7,0,0,0
+Nigeria,NGA,2023-03-19,823,0,9,0,2,0,0,0
+Nigeria,NGA,2023-03-12,821,0,9,0,7,0,0,0
+Nigeria,NGA,2023-03-05,814,0,9,0,2,0,0,0
+Nigeria,NGA,2023-02-26,812,0,9,0,5,0,1,0
+Nigeria,NGA,2023-02-19,807,0,8,0,4,0,0,0
+Nigeria,NGA,2023-02-12,803,0,8,0,4,0,0,0
+Nigeria,NGA,2023-02-05,799,0,8,0,6,0,0,0
+Nigeria,NGA,2023-01-29,793,0,8,0,3,0,0,0
+Nigeria,NGA,2023-01-22,790,0,8,0,10,0,0,0
+Nigeria,NGA,2023-01-15,780,0,8,0,8,0,1,0
+Nigeria,NGA,2023-01-08,772,0,7,0,3,0,0,0
+Nigeria,NGA,2023-01-01,769,0,7,0,7,0,0,0
+Nigeria,NGA,2022-12-25,762,0,7,0,3,0,0,0
+Nigeria,NGA,2022-12-18,759,0,7,0,9,0,0,0
+Nigeria,NGA,2022-12-11,750,0,7,0,24,0,0,0
+Nigeria,NGA,2022-12-04,726,0,7,0,40,0,0,0
+Nigeria,NGA,2022-11-27,686,0,7,0,21,0,0,0
+Nigeria,NGA,2022-11-20,665,0,7,0,21,0,0,0
+Nigeria,NGA,2022-11-13,644,0,7,0,15,0,0,0
+Nigeria,NGA,2022-11-06,629,0,7,0,20,0,0,0
+Nigeria,NGA,2022-10-30,609,0,7,0,21,0,0,0
+Nigeria,NGA,2022-10-23,588,0,7,0,31,0,0,0
+Nigeria,NGA,2022-10-16,557,0,7,0,22,0,0,0
+Nigeria,NGA,2022-10-09,535,0,7,0,49,0,0,0
+Nigeria,NGA,2022-10-02,486,0,7,0,25,0,0,0
+Nigeria,NGA,2022-09-25,461,0,7,0,56,0,0,0
+Nigeria,NGA,2022-09-18,405,0,7,0,51,0,0,0
+Nigeria,NGA,2022-09-11,354,0,7,0,31,0,0,0
+Nigeria,NGA,2022-09-04,323,0,7,0,41,0,1,0
+Nigeria,NGA,2022-08-28,282,0,6,0,36,0,0,0
+Nigeria,NGA,2022-08-21,246,0,6,0,21,0,2,0
+Nigeria,NGA,2022-08-14,225,0,4,0,48,0,0,0
+Nigeria,NGA,2022-08-07,177,0,4,0,15,0,1,0
+Nigeria,NGA,2022-07-31,162,0,3,0,24,0,0,0
+Nigeria,NGA,2022-07-24,138,0,3,0,15,0,0,0
+Nigeria,NGA,2022-07-17,123,0,3,0,17,0,0,0
+Nigeria,NGA,2022-07-10,106,0,3,0,17,0,0,0
+Nigeria,NGA,2022-07-03,89,0,3,0,21,0,1,0
+Nigeria,NGA,2022-06-26,68,0,2,0,22,0,0,0
+Nigeria,NGA,2022-06-19,46,0,2,0,8,0,0,0
+Nigeria,NGA,2022-06-12,38,0,2,0,6,0,0,0
+Nigeria,NGA,2022-06-05,32,0,2,0,11,0,1,0
+Nigeria,NGA,2022-05-29,21,0,1,0,0,0,0,0
+Nigeria,NGA,2022-05-22,21,0,1,0,2,0,0,0
+Nigeria,NGA,2022-05-15,19,0,1,0,4,0,0,0
+Nigeria,NGA,2022-05-08,15,0,1,0,0,0,0,0
+Nigeria,NGA,2022-05-01,15,0,1,0,1,0,0,0
+Nigeria,NGA,2022-04-24,14,0,1,0,0,0,0,0
+Nigeria,NGA,2022-04-17,14,0,1,0,1,0,0,0
+Nigeria,NGA,2022-04-10,13,0,1,0,2,0,1,0
+Nigeria,NGA,2022-04-03,11,0,0,0,1,0,0,0
+Nigeria,NGA,2022-03-27,10,0,0,0,0,0,0,0
+Nigeria,NGA,2022-03-20,10,0,0,0,1,0,0,0
+Nigeria,NGA,2022-03-13,9,0,0,0,3,0,0,0
+Nigeria,NGA,2022-03-06,6,0,0,0,2,0,0,0
+Nigeria,NGA,2022-02-27,4,0,0,0,0,0,0,0
+Nigeria,NGA,2022-02-20,4,0,0,0,1,0,0,0
+Nigeria,NGA,2022-02-13,3,0,0,0,0,0,0,0
+Nigeria,NGA,2022-02-06,3,0,0,0,0,0,0,0
+Nigeria,NGA,2022-01-30,3,0,0,0,0,0,0,0
+Nigeria,NGA,2022-01-23,3,0,0,0,1,0,0,0
+Nigeria,NGA,2022-01-16,2,0,0,0,1,0,0,0
+Nigeria,NGA,2022-01-09,1,0,0,0,1,0,0,0
+Rwanda,RWA,2026-01-25,131,53,0,0,0,0,0,0
+Rwanda,RWA,2026-01-18,131,53,0,0,0,0,0,0
+Rwanda,RWA,2026-01-11,131,53,0,0,3,0,0,0
+Rwanda,RWA,2026-01-04,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-12-28,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-12-21,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-12-14,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-12-07,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-11-30,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-11-23,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-11-16,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-11-09,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-11-02,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-10-26,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-10-19,128,53,0,0,0,0,0,0
+Rwanda,RWA,2025-10-12,128,53,0,0,1,0,0,0
+Rwanda,RWA,2025-10-05,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-09-28,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-09-21,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-09-14,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-09-07,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-08-31,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-08-24,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-08-17,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-08-10,127,53,0,0,0,0,0,0
+Rwanda,RWA,2025-08-03,127,53,0,0,3,0,0,0
+Rwanda,RWA,2025-07-27,124,53,0,0,0,0,0,0
+Rwanda,RWA,2025-07-20,124,53,0,0,0,0,0,0
+Rwanda,RWA,2025-07-13,124,53,0,0,2,0,0,0
+Rwanda,RWA,2025-07-06,122,53,0,0,0,0,0,0
+Rwanda,RWA,2025-06-29,122,53,0,0,0,0,0,0
+Rwanda,RWA,2025-06-22,122,53,0,0,0,0,0,0
+Rwanda,RWA,2025-06-15,122,53,0,0,0,0,0,0
+Rwanda,RWA,2025-06-08,122,53,0,0,2,0,0,0
+Rwanda,RWA,2025-06-01,120,53,0,0,0,0,0,0
+Rwanda,RWA,2025-05-25,120,53,0,0,0,0,0,0
+Rwanda,RWA,2025-05-18,120,53,0,0,1,0,0,0
+Rwanda,RWA,2025-05-11,119,53,0,0,0,0,0,0
+Rwanda,RWA,2025-05-04,119,53,0,0,1,0,0,0
+Rwanda,RWA,2025-04-27,118,53,0,0,2,0,0,0
+Rwanda,RWA,2025-04-20,116,53,0,0,1,0,0,0
+Rwanda,RWA,2025-04-13,115,53,0,0,1,0,0,0
+Rwanda,RWA,2025-04-06,114,53,0,0,0,0,0,0
+Rwanda,RWA,2025-03-30,114,53,0,0,1,0,0,0
+Rwanda,RWA,2025-03-23,113,53,0,0,2,0,0,0
+Rwanda,RWA,2025-03-16,111,53,0,0,1,0,0,0
+Rwanda,RWA,2025-03-09,110,53,0,0,2,0,0,0
+Rwanda,RWA,2025-03-02,108,53,0,0,3,0,0,0
+Rwanda,RWA,2025-02-23,105,53,0,0,1,0,0,0
+Rwanda,RWA,2025-02-16,104,53,0,0,2,0,0,0
+Rwanda,RWA,2025-02-09,102,53,0,0,0,53,0,0
+Rwanda,RWA,2025-02-02,102,0,0,0,3,0,0,0
+Rwanda,RWA,2025-01-26,99,0,0,0,5,0,0,0
+Rwanda,RWA,2025-01-19,94,0,0,0,4,0,0,0
+Rwanda,RWA,2025-01-12,90,0,0,0,3,0,0,0
+Rwanda,RWA,2025-01-05,87,0,0,0,5,0,0,0
+Rwanda,RWA,2024-12-29,82,0,0,0,4,0,0,0
+Rwanda,RWA,2024-12-22,78,0,0,0,4,0,0,0
+Rwanda,RWA,2024-12-15,74,0,0,0,5,0,0,0
+Rwanda,RWA,2024-12-08,69,0,0,0,10,0,0,0
+Rwanda,RWA,2024-12-01,59,0,0,0,7,0,0,0
+Rwanda,RWA,2024-11-24,52,0,0,0,0,0,0,0
+Rwanda,RWA,2024-11-17,52,0,0,0,15,0,0,0
+Rwanda,RWA,2024-11-10,37,0,0,0,11,0,0,0
+Rwanda,RWA,2024-11-03,26,0,0,0,0,0,0,0
+Rwanda,RWA,2024-10-27,26,0,0,0,4,0,0,0
+Rwanda,RWA,2024-10-20,22,0,0,0,8,0,0,0
+Rwanda,RWA,2024-10-13,14,0,0,0,4,0,0,0
+Rwanda,RWA,2024-10-06,10,0,0,0,4,0,0,0
+Rwanda,RWA,2024-09-29,6,0,0,0,0,0,0,0
+Rwanda,RWA,2024-09-22,6,0,0,0,0,0,0,0
+Rwanda,RWA,2024-09-15,6,0,0,0,2,0,0,0
+Rwanda,RWA,2024-09-08,4,0,0,0,0,0,0,0
+Rwanda,RWA,2024-09-01,4,0,0,0,0,0,0,0
+Rwanda,RWA,2024-08-25,4,0,0,0,0,0,0,0
+Rwanda,RWA,2024-08-18,4,0,0,0,0,0,0,0
+Rwanda,RWA,2024-08-11,4,0,0,0,2,0,0,0
+Rwanda,RWA,2024-08-04,2,0,0,0,0,0,0,0
+Rwanda,RWA,2024-07-28,2,0,0,0,0,0,0,0
+Rwanda,RWA,2024-07-21,2,0,0,0,2,0,0,0
+Rwanda,RWA,2024-07-14,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-07-07,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-06-30,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-06-23,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-06-16,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-06-09,0,0,0,0,0,0,0,0
+Rwanda,RWA,2024-06-02,0,0,0,0,0,0,0,0
+Senegal,SEN,2025-09-28,4,29,0,0,3,0,0,0
+Senegal,SEN,2025-09-21,1,29,0,0,0,0,0,0
+Senegal,SEN,2025-09-14,1,29,0,0,0,0,0,0
+Senegal,SEN,2025-09-07,1,29,0,0,0,0,0,0
+Senegal,SEN,2025-08-31,1,29,0,0,0,0,0,0
+Senegal,SEN,2025-08-24,1,29,0,0,1,29,0,0
+Senegal,SEN,2025-08-17,0,0,0,0,0,0,0,0
+Sierra Leone,SLE,2025-11-23,5442,0,60,0,0,0,0,0
+Sierra Leone,SLE,2025-11-16,5442,0,60,0,0,0,0,0
+Sierra Leone,SLE,2025-11-09,5442,0,60,0,0,0,0,0
+Sierra Leone,SLE,2025-11-02,5442,0,60,0,0,0,0,0
+Sierra Leone,SLE,2025-10-26,5442,0,60,0,9,0,1,0
+Sierra Leone,SLE,2025-10-19,5433,0,59,0,5,0,1,0
+Sierra Leone,SLE,2025-10-12,5428,0,58,0,23,0,1,0
+Sierra Leone,SLE,2025-10-05,5405,0,57,0,60,0,1,0
+Sierra Leone,SLE,2025-09-28,5345,0,56,0,37,0,0,0
+Sierra Leone,SLE,2025-09-21,5308,0,56,0,17,0,0,0
+Sierra Leone,SLE,2025-09-14,5291,0,56,0,25,0,0,0
+Sierra Leone,SLE,2025-09-07,5266,0,56,0,21,0,0,0
+Sierra Leone,SLE,2025-08-31,5245,0,56,0,48,0,4,0
+Sierra Leone,SLE,2025-08-24,5197,0,52,0,48,0,0,0
+Sierra Leone,SLE,2025-08-17,5149,0,52,0,35,0,2,0
+Sierra Leone,SLE,2025-08-10,5114,0,50,0,42,0,2,0
+Sierra Leone,SLE,2025-08-03,5072,0,48,0,53,0,2,0
+Sierra Leone,SLE,2025-07-27,5019,0,46,0,92,0,2,0
+Sierra Leone,SLE,2025-07-20,4927,0,44,0,136,0,5,0
+Sierra Leone,SLE,2025-07-13,4791,0,39,0,161,0,7,0
+Sierra Leone,SLE,2025-07-06,4630,0,32,0,149,0,3,0
+Sierra Leone,SLE,2025-06-29,4481,0,29,0,187,0,1,0
+Sierra Leone,SLE,2025-06-22,4294,0,28,0,209,0,3,0
+Sierra Leone,SLE,2025-06-15,4085,0,25,0,270,0,5,0
+Sierra Leone,SLE,2025-06-08,3815,0,20,0,292,0,3,0
+Sierra Leone,SLE,2025-06-01,3523,0,17,0,383,0,2,0
+Sierra Leone,SLE,2025-05-25,3140,0,15,0,492,0,1,0
+Sierra Leone,SLE,2025-05-18,2648,0,14,0,603,0,3,0
+Sierra Leone,SLE,2025-05-11,2045,0,11,0,658,0,1,0
+Sierra Leone,SLE,2025-05-04,1387,0,10,0,526,0,3,0
+Sierra Leone,SLE,2025-04-27,861,0,7,0,384,0,3,0
+Sierra Leone,SLE,2025-04-20,477,0,4,0,235,0,2,0
+Sierra Leone,SLE,2025-04-13,242,0,2,0,105,0,0,0
+Sierra Leone,SLE,2025-04-06,137,0,2,0,12,0,0,0
+Sierra Leone,SLE,2025-03-30,125,0,2,0,13,0,0,0
+Sierra Leone,SLE,2025-03-23,112,0,2,0,5,0,0,0
+Sierra Leone,SLE,2025-03-16,107,0,2,0,35,0,1,0
+Sierra Leone,SLE,2025-03-09,72,0,1,0,34,0,1,0
+Sierra Leone,SLE,2025-03-02,38,0,0,0,13,0,0,0
+Sierra Leone,SLE,2025-02-23,25,0,0,0,3,0,0,0
+Sierra Leone,SLE,2025-02-16,22,0,0,0,2,0,0,0
+Sierra Leone,SLE,2025-02-09,20,0,0,0,3,0,0,0
+Sierra Leone,SLE,2025-02-02,17,0,0,0,1,0,0,0
+Sierra Leone,SLE,2025-01-26,16,0,0,0,6,0,0,0
+Sierra Leone,SLE,2025-01-19,10,0,0,0,8,0,0,0
+Sierra Leone,SLE,2025-01-12,2,0,0,0,2,0,0,0
+Sierra Leone,SLE,2025-01-05,0,0,0,0,0,0,0,0
+South Africa,ZAF,2026-01-25,46,0,3,0,1,0,0,0
+South Africa,ZAF,2026-01-18,45,0,3,0,0,0,0,0
+South Africa,ZAF,2026-01-11,45,0,3,0,1,0,0,0
+South Africa,ZAF,2026-01-04,44,0,3,0,0,0,0,0
+South Africa,ZAF,2025-12-28,44,0,3,0,0,0,0,0
+South Africa,ZAF,2025-12-21,44,0,3,0,1,0,0,0
+South Africa,ZAF,2025-12-14,43,0,3,0,1,0,0,0
+South Africa,ZAF,2025-12-07,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-11-30,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-11-23,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-11-16,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-11-09,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-11-02,42,0,3,0,0,0,0,0
+South Africa,ZAF,2025-10-26,42,0,3,0,1,0,0,0
+South Africa,ZAF,2025-10-19,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-10-12,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-10-05,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-09-28,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-09-21,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-09-14,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-09-07,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-08-31,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-08-24,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-08-17,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-08-10,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-08-03,41,0,3,0,0,0,0,0
+South Africa,ZAF,2025-07-27,41,0,3,0,1,0,0,0
+South Africa,ZAF,2025-07-20,40,0,3,0,0,0,0,0
+South Africa,ZAF,2025-07-13,40,0,3,0,0,0,0,0
+South Africa,ZAF,2025-07-06,40,0,3,0,0,0,0,0
+South Africa,ZAF,2025-06-29,40,0,3,0,0,0,0,0
+South Africa,ZAF,2025-06-22,40,0,3,0,2,0,0,0
+South Africa,ZAF,2025-06-15,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-06-08,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-06-01,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-05-25,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-05-18,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-05-11,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-05-04,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-04-27,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-04-20,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-04-13,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-04-06,38,0,3,0,0,0,0,0
+South Africa,ZAF,2025-03-30,38,0,3,0,1,0,0,0
+South Africa,ZAF,2025-03-23,37,0,3,0,1,0,0,0
+South Africa,ZAF,2025-03-16,36,0,3,0,1,0,0,0
+South Africa,ZAF,2025-03-09,35,0,3,0,0,0,0,0
+South Africa,ZAF,2025-03-02,35,0,3,0,1,0,0,0
+South Africa,ZAF,2025-02-23,34,0,3,0,2,0,0,0
+South Africa,ZAF,2025-02-16,32,0,3,0,1,0,0,0
+South Africa,ZAF,2025-02-09,31,0,3,0,0,0,0,0
+South Africa,ZAF,2025-02-02,31,0,3,0,0,0,0,0
+South Africa,ZAF,2025-01-26,31,0,3,0,1,0,0,0
+South Africa,ZAF,2025-01-19,30,0,3,0,0,0,0,0
+South Africa,ZAF,2025-01-12,30,0,3,0,0,0,0,0
+South Africa,ZAF,2025-01-05,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-12-29,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-12-22,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-12-15,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-12-08,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-12-01,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-11-24,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-11-17,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-11-10,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-11-03,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-10-27,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-10-20,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-10-13,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-10-06,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-09-29,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-09-22,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-09-15,30,0,3,0,0,0,0,0
+South Africa,ZAF,2024-09-08,30,0,3,0,1,0,0,0
+South Africa,ZAF,2024-09-01,29,0,3,0,0,0,0,0
+South Africa,ZAF,2024-08-25,29,0,3,0,0,0,0,0
+South Africa,ZAF,2024-08-18,29,0,3,0,0,0,0,0
+South Africa,ZAF,2024-08-11,29,0,3,0,0,0,0,0
+South Africa,ZAF,2024-08-04,29,0,3,0,2,0,0,0
+South Africa,ZAF,2024-07-28,27,0,3,0,0,0,0,0
+South Africa,ZAF,2024-07-21,27,0,3,0,0,0,0,0
+South Africa,ZAF,2024-07-14,27,0,3,0,2,0,0,0
+South Africa,ZAF,2024-07-07,25,0,3,0,4,0,0,0
+South Africa,ZAF,2024-06-30,21,0,3,0,0,0,0,0
+South Africa,ZAF,2024-06-23,21,0,3,0,4,0,1,0
+South Africa,ZAF,2024-06-16,17,0,2,0,7,0,0,0
+South Africa,ZAF,2024-06-09,10,0,2,0,2,0,1,0
+South Africa,ZAF,2024-06-02,8,0,1,0,1,0,0,0
+South Africa,ZAF,2024-05-26,7,0,1,0,1,0,1,0
+South Africa,ZAF,2024-05-19,6,0,0,0,0,0,0,0
+South Africa,ZAF,2024-05-12,6,0,0,0,1,0,0,0
+South Africa,ZAF,2024-05-05,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-04-28,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-04-21,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-04-14,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-04-07,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-03-31,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-03-24,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-03-17,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-03-10,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-03-03,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-02-25,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-02-18,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-02-11,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-02-04,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-01-28,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-01-21,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-01-14,5,0,0,0,0,0,0,0
+South Africa,ZAF,2024-01-07,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-12-31,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-12-24,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-12-17,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-12-10,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-12-03,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-11-26,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-11-19,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-11-12,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-11-05,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-10-29,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-10-22,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-10-15,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-10-08,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-10-01,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-09-24,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-09-17,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-09-10,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-09-03,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-08-27,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-08-20,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-08-13,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-08-06,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-07-30,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-07-23,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-07-16,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-07-09,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-07-02,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-06-25,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-06-18,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-06-11,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-06-04,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-05-28,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-05-21,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-05-14,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-05-07,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-04-30,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-04-23,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-04-16,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-04-09,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-04-02,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-03-26,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-03-19,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-03-12,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-03-05,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-02-26,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-02-19,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-02-12,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-02-05,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-01-29,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-01-22,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-01-15,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-01-08,5,0,0,0,0,0,0,0
+South Africa,ZAF,2023-01-01,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-12-25,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-12-18,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-12-11,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-12-04,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-11-27,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-11-20,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-11-13,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-11-06,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-10-30,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-10-23,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-10-16,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-10-09,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-10-02,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-09-25,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-09-18,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-09-11,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-09-04,5,0,0,0,0,0,0,0
+South Africa,ZAF,2022-08-28,5,0,0,0,1,0,0,0
+South Africa,ZAF,2022-08-21,4,0,0,0,1,0,0,0
+South Africa,ZAF,2022-08-14,3,0,0,0,0,0,0,0
+South Africa,ZAF,2022-08-07,3,0,0,0,0,0,0,0
+South Africa,ZAF,2022-07-31,3,0,0,0,1,0,0,0
+South Africa,ZAF,2022-07-24,2,0,0,0,0,0,0,0
+South Africa,ZAF,2022-07-17,2,0,0,0,1,0,0,0
+South Africa,ZAF,2022-07-10,1,0,0,0,0,0,0,0
+South Africa,ZAF,2022-07-03,1,0,0,0,1,0,0,0
+South Africa,ZAF,2022-06-26,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-06-19,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-06-12,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-06-05,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-05-29,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-05-22,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-05-15,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-05-08,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-05-01,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-04-24,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-04-17,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-04-10,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-04-03,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-03-27,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-03-20,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-03-13,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-03-06,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-02-27,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-02-20,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-02-13,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-02-06,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-01-30,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-01-23,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-01-16,0,0,0,0,0,0,0,0
+South Africa,ZAF,2022-01-09,0,0,0,0,0,0,0,0
+South Sudan,SSD,2026-02-08,46,0,1,0,2,0,0,0
+South Sudan,SSD,2026-02-01,44,0,1,0,2,0,0,0
+South Sudan,SSD,2026-01-25,42,0,1,0,1,0,0,0
+South Sudan,SSD,2026-01-18,41,0,1,0,3,0,1,0
+South Sudan,SSD,2026-01-11,38,0,0,0,0,0,0,0
+South Sudan,SSD,2026-01-04,38,0,0,0,0,0,0,0
+South Sudan,SSD,2025-12-28,38,0,0,0,0,0,0,0
+South Sudan,SSD,2025-12-21,38,0,0,0,0,0,0,0
+South Sudan,SSD,2025-12-14,38,0,0,0,0,0,0,0
+South Sudan,SSD,2025-12-07,38,0,0,0,1,0,0,0
+South Sudan,SSD,2025-11-30,37,0,0,0,1,0,0,0
+South Sudan,SSD,2025-11-23,36,0,0,0,3,0,0,0
+South Sudan,SSD,2025-11-16,33,0,0,0,7,0,0,0
+South Sudan,SSD,2025-11-09,26,0,0,0,5,0,0,0
+South Sudan,SSD,2025-11-02,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-10-26,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-10-19,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-10-12,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-10-05,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-09-28,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-09-21,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-09-14,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-09-07,21,0,0,0,0,0,0,0
+South Sudan,SSD,2025-08-31,21,0,0,0,1,0,0,0
+South Sudan,SSD,2025-08-24,20,0,0,0,0,0,0,0
+South Sudan,SSD,2025-08-17,20,0,0,0,0,0,0,0
+South Sudan,SSD,2025-08-10,20,0,0,0,0,0,0,0
+South Sudan,SSD,2025-08-03,20,0,0,0,0,0,0,0
+South Sudan,SSD,2025-07-27,20,0,0,0,3,0,0,0
+South Sudan,SSD,2025-07-20,17,0,0,0,0,0,0,0
+South Sudan,SSD,2025-07-13,17,0,0,0,0,0,0,0
+South Sudan,SSD,2025-07-06,17,0,0,0,0,0,0,0
+South Sudan,SSD,2025-06-29,17,0,0,0,0,0,0,0
+South Sudan,SSD,2025-06-22,17,0,0,0,1,0,0,0
+South Sudan,SSD,2025-06-15,16,0,0,0,0,0,0,0
+South Sudan,SSD,2025-06-08,16,0,0,0,1,0,0,0
+South Sudan,SSD,2025-06-01,15,0,0,0,0,0,0,0
+South Sudan,SSD,2025-05-25,15,0,0,0,0,0,0,0
+South Sudan,SSD,2025-05-18,15,0,0,0,1,0,0,0
+South Sudan,SSD,2025-05-11,14,0,0,0,0,0,0,0
+South Sudan,SSD,2025-05-04,14,0,0,0,3,0,0,0
+South Sudan,SSD,2025-04-27,11,0,0,0,3,0,0,0
+South Sudan,SSD,2025-04-20,8,0,0,0,0,0,0,0
+South Sudan,SSD,2025-04-13,8,0,0,0,0,0,0,0
+South Sudan,SSD,2025-04-06,8,0,0,0,0,0,0,0
+South Sudan,SSD,2025-03-30,8,0,0,0,1,0,0,0
+South Sudan,SSD,2025-03-23,7,0,0,0,0,0,0,0
+South Sudan,SSD,2025-03-16,7,0,0,0,0,0,0,0
+South Sudan,SSD,2025-03-09,7,0,0,0,1,0,0,0
+South Sudan,SSD,2025-03-02,6,0,0,0,3,0,0,0
+South Sudan,SSD,2025-02-23,3,0,0,0,0,0,0,0
+South Sudan,SSD,2025-02-16,3,0,0,0,2,0,0,0
+South Sudan,SSD,2025-02-09,1,0,0,0,1,0,0,0
+South Sudan,SSD,2025-02-02,0,0,0,0,0,0,0,0
+Sudan,SDN,2023-04-09,19,0,1,0,1,0,0,0
+Sudan,SDN,2022-10-23,18,0,1,0,1,0,0,0
+Sudan,SDN,2022-10-02,17,0,1,0,10,0,0,0
+Sudan,SDN,2022-09-25,7,0,1,0,1,0,0,0
+Sudan,SDN,2022-09-18,6,0,1,0,2,0,1,0
+Sudan,SDN,2022-09-11,4,0,0,0,2,0,0,0
+Sudan,SDN,2022-08-14,2,0,0,0,1,0,0,0
+Sudan,SDN,2022-08-07,1,0,0,0,1,0,0,0
+Togo,TGO,2026-01-11,88,0,0,0,0,0,0,0
+Togo,TGO,2026-01-04,88,0,0,0,0,0,0,0
+Togo,TGO,2025-12-28,88,0,0,0,0,0,0,0
+Togo,TGO,2025-12-21,88,0,0,0,0,0,0,0
+Togo,TGO,2025-12-14,88,0,0,0,0,0,0,0
+Togo,TGO,2025-12-07,88,0,0,0,0,0,0,0
+Togo,TGO,2025-11-30,88,0,0,0,0,0,0,0
+Togo,TGO,2025-11-23,88,0,0,0,0,0,0,0
+Togo,TGO,2025-11-16,88,0,0,0,0,0,0,0
+Togo,TGO,2025-11-09,88,0,0,0,1,0,0,0
+Togo,TGO,2025-11-02,87,0,0,0,1,0,0,0
+Togo,TGO,2025-10-26,86,0,0,0,0,0,0,0
+Togo,TGO,2025-10-19,86,0,0,0,4,0,0,0
+Togo,TGO,2025-10-12,82,0,0,0,1,0,0,0
+Togo,TGO,2025-10-05,81,0,0,0,1,0,0,0
+Togo,TGO,2025-09-28,80,0,0,0,2,0,0,0
+Togo,TGO,2025-09-21,78,0,0,0,1,0,0,0
+Togo,TGO,2025-09-14,77,0,0,0,3,0,0,0
+Togo,TGO,2025-09-07,74,0,0,0,1,0,0,0
+Togo,TGO,2025-08-31,73,0,0,0,4,0,0,0
+Togo,TGO,2025-08-24,69,0,0,0,8,0,0,0
+Togo,TGO,2025-08-17,61,0,0,0,3,0,0,0
+Togo,TGO,2025-08-10,58,0,0,0,1,0,0,0
+Togo,TGO,2025-08-03,57,0,0,0,3,0,0,0
+Togo,TGO,2025-07-27,54,0,0,0,5,0,0,0
+Togo,TGO,2025-07-20,49,0,0,0,2,0,0,0
+Togo,TGO,2025-07-13,47,0,0,0,7,0,0,0
+Togo,TGO,2025-07-06,40,0,0,0,4,0,0,0
+Togo,TGO,2025-06-29,36,0,0,0,5,0,0,0
+Togo,TGO,2025-06-22,31,0,0,0,4,0,0,0
+Togo,TGO,2025-06-15,27,0,0,0,12,0,0,0
+Togo,TGO,2025-06-08,15,0,0,0,5,0,0,0
+Togo,TGO,2025-06-01,10,0,0,0,2,0,0,0
+Togo,TGO,2025-05-25,8,0,0,0,5,0,0,0
+Togo,TGO,2025-05-18,3,0,0,0,3,0,0,0
+Togo,TGO,2025-05-11,0,0,0,0,0,0,0,0
+Uganda,UGA,2026-01-25,8482,0,51,0,5,0,0,0
+Uganda,UGA,2026-01-18,8477,0,51,0,4,0,0,0
+Uganda,UGA,2026-01-11,8473,0,51,0,25,0,0,0
+Uganda,UGA,2026-01-04,8448,0,51,0,3,0,0,0
+Uganda,UGA,2025-12-28,8445,0,51,0,3,0,0,0
+Uganda,UGA,2025-12-21,8442,0,51,0,3,0,0,0
+Uganda,UGA,2025-12-14,8439,0,51,0,12,0,0,0
+Uganda,UGA,2025-12-07,8427,0,51,0,8,0,0,0
+Uganda,UGA,2025-11-30,8419,0,51,0,13,0,0,0
+Uganda,UGA,2025-11-23,8406,0,51,0,9,0,0,0
+Uganda,UGA,2025-11-16,8397,0,51,0,23,0,0,0
+Uganda,UGA,2025-11-09,8374,0,51,0,15,0,1,0
+Uganda,UGA,2025-11-02,8359,0,50,0,35,0,0,0
+Uganda,UGA,2025-10-26,8324,0,50,0,25,0,0,0
+Uganda,UGA,2025-10-19,8299,0,50,0,33,0,0,0
+Uganda,UGA,2025-10-12,8266,0,50,0,19,0,0,0
+Uganda,UGA,2025-10-05,8247,0,50,0,36,0,0,0
+Uganda,UGA,2025-09-28,8211,0,50,0,74,0,0,0
+Uganda,UGA,2025-09-21,8137,0,50,0,50,0,0,0
+Uganda,UGA,2025-09-14,8087,0,50,0,47,0,0,0
+Uganda,UGA,2025-09-07,8040,0,50,0,26,0,0,0
+Uganda,UGA,2025-08-31,8014,0,50,0,85,0,2,0
+Uganda,UGA,2025-08-24,7929,0,48,0,32,0,0,0
+Uganda,UGA,2025-08-17,7897,0,48,0,15,0,0,0
+Uganda,UGA,2025-08-10,7882,0,48,0,72,0,0,0
+Uganda,UGA,2025-08-03,7810,0,48,0,83,0,0,0
+Uganda,UGA,2025-07-27,7727,0,48,0,124,0,0,0
+Uganda,UGA,2025-07-20,7603,0,48,0,74,0,1,0
+Uganda,UGA,2025-07-13,7529,0,47,0,108,0,1,0
+Uganda,UGA,2025-07-06,7421,0,46,0,191,0,2,0
+Uganda,UGA,2025-06-29,7230,0,44,0,232,0,0,0
+Uganda,UGA,2025-06-22,6998,0,44,0,141,0,0,0
+Uganda,UGA,2025-06-15,6857,0,44,0,118,0,0,0
+Uganda,UGA,2025-06-08,6739,0,44,0,104,0,0,0
+Uganda,UGA,2025-06-01,6635,0,44,0,167,0,1,0
+Uganda,UGA,2025-05-25,6468,0,43,0,145,0,1,0
+Uganda,UGA,2025-05-18,6323,0,42,0,149,0,1,0
+Uganda,UGA,2025-05-11,6174,0,41,0,233,0,0,0
+Uganda,UGA,2025-05-04,5941,0,41,0,217,0,1,0
+Uganda,UGA,2025-04-27,5724,0,40,0,160,0,0,0
+Uganda,UGA,2025-04-20,5564,0,40,0,178,0,0,0
+Uganda,UGA,2025-04-13,5386,0,40,0,234,0,0,0
+Uganda,UGA,2025-04-06,5152,0,40,0,272,0,3,0
+Uganda,UGA,2025-03-30,4880,0,37,0,247,0,0,0
+Uganda,UGA,2025-03-23,4633,0,37,0,188,0,1,0
+Uganda,UGA,2025-03-16,4445,0,36,0,402,0,2,0
+Uganda,UGA,2025-03-09,4043,0,34,0,273,0,3,0
+Uganda,UGA,2025-03-02,3770,0,31,0,283,0,1,0
+Uganda,UGA,2025-02-23,3487,0,30,0,352,0,2,0
+Uganda,UGA,2025-02-16,3135,0,28,0,266,0,3,0
+Uganda,UGA,2025-02-09,2869,0,25,0,210,0,3,0
+Uganda,UGA,2025-02-02,2659,0,22,0,197,0,2,0
+Uganda,UGA,2025-01-26,2462,0,20,0,335,0,2,0
+Uganda,UGA,2025-01-19,2127,0,18,0,291,0,2,0
+Uganda,UGA,2025-01-12,1836,0,16,0,278,0,2,0
+Uganda,UGA,2025-01-05,1558,0,14,0,206,0,1,0
+Uganda,UGA,2024-12-29,1352,0,13,0,99,0,4,0
+Uganda,UGA,2024-12-22,1253,0,9,0,168,0,1,0
+Uganda,UGA,2024-12-15,1085,0,8,0,125,0,0,0
+Uganda,UGA,2024-12-08,960,0,8,0,134,0,1,0
+Uganda,UGA,2024-12-01,826,0,7,0,133,0,1,0
+Uganda,UGA,2024-11-24,693,0,6,0,124,0,1,0
+Uganda,UGA,2024-11-17,569,0,5,0,107,0,0,0
+Uganda,UGA,2024-11-10,462,0,5,0,85,0,1,0
+Uganda,UGA,2024-11-03,377,0,4,0,105,0,1,0
+Uganda,UGA,2024-10-27,272,0,3,0,108,0,1,0
+Uganda,UGA,2024-10-20,164,0,2,0,53,0,1,0
+Uganda,UGA,2024-10-13,111,0,1,0,41,0,0,0
+Uganda,UGA,2024-10-06,70,0,1,0,32,0,0,0
+Uganda,UGA,2024-09-29,38,0,1,0,16,0,0,0
+Uganda,UGA,2024-09-22,22,0,1,0,11,0,1,0
+Uganda,UGA,2024-09-15,11,0,0,0,1,0,0,0
+Uganda,UGA,2024-09-08,10,0,0,0,2,0,0,0
+Uganda,UGA,2024-09-01,8,0,0,0,1,0,0,0
+Uganda,UGA,2024-08-25,7,0,0,0,1,0,0,0
+Uganda,UGA,2024-08-18,6,0,0,0,1,0,0,0
+Uganda,UGA,2024-08-11,5,0,0,0,2,0,0,0
+Uganda,UGA,2024-08-04,3,0,0,0,0,0,0,0
+Uganda,UGA,2024-07-28,3,0,0,0,0,0,0,0
+Uganda,UGA,2024-07-21,3,0,0,0,0,0,0,0
+Uganda,UGA,2024-07-14,3,0,0,0,3,0,0,0
+Uganda,UGA,2024-07-07,0,0,0,0,0,0,0,0
+United Republic of Tanzania,TZA,2026-01-25,283,4,0,0,4,0,0,0
+United Republic of Tanzania,TZA,2026-01-18,279,4,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2026-01-11,276,4,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2026-01-04,273,4,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-12-28,268,4,0,0,4,0,0,0
+United Republic of Tanzania,TZA,2025-12-21,264,4,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2025-12-14,261,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-12-07,255,4,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-11-30,250,4,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-11-23,245,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-11-16,239,4,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-11-09,234,4,0,0,7,0,0,0
+United Republic of Tanzania,TZA,2025-11-02,227,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-10-26,221,4,0,0,13,0,0,0
+United Republic of Tanzania,TZA,2025-10-19,208,4,0,0,10,0,0,0
+United Republic of Tanzania,TZA,2025-10-12,198,4,0,0,7,0,0,0
+United Republic of Tanzania,TZA,2025-10-05,191,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-09-28,185,4,0,0,9,0,0,0
+United Republic of Tanzania,TZA,2025-09-21,176,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-09-14,170,4,0,0,11,0,0,0
+United Republic of Tanzania,TZA,2025-09-07,159,4,0,0,9,0,0,0
+United Republic of Tanzania,TZA,2025-08-31,150,4,0,0,9,0,0,0
+United Republic of Tanzania,TZA,2025-08-24,141,4,0,0,8,0,0,0
+United Republic of Tanzania,TZA,2025-08-17,133,4,0,0,8,0,0,0
+United Republic of Tanzania,TZA,2025-08-10,125,4,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-08-03,119,4,0,0,8,0,0,0
+United Republic of Tanzania,TZA,2025-07-27,111,4,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2025-07-20,108,4,0,0,8,0,0,0
+United Republic of Tanzania,TZA,2025-07-13,100,4,0,0,7,0,0,0
+United Republic of Tanzania,TZA,2025-07-06,93,4,0,0,10,0,0,0
+United Republic of Tanzania,TZA,2025-06-29,83,4,0,0,8,0,0,0
+United Republic of Tanzania,TZA,2025-06-22,75,4,0,0,7,0,0,0
+United Republic of Tanzania,TZA,2025-06-15,68,4,0,0,8,4,0,0
+United Republic of Tanzania,TZA,2025-06-08,60,0,0,0,6,0,0,0
+United Republic of Tanzania,TZA,2025-06-01,54,0,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-05-25,49,0,0,0,1,0,0,0
+United Republic of Tanzania,TZA,2025-05-18,48,0,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-05-11,43,0,0,0,2,0,0,0
+United Republic of Tanzania,TZA,2025-05-04,41,0,0,0,1,0,0,0
+United Republic of Tanzania,TZA,2025-04-27,40,0,0,0,1,0,0,0
+United Republic of Tanzania,TZA,2025-04-20,39,0,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2025-04-13,36,0,0,0,2,0,0,0
+United Republic of Tanzania,TZA,2025-04-06,34,0,0,0,3,0,0,0
+United Republic of Tanzania,TZA,2025-03-30,31,0,0,0,4,0,0,0
+United Republic of Tanzania,TZA,2025-03-23,27,0,0,0,5,0,0,0
+United Republic of Tanzania,TZA,2025-03-16,22,0,0,0,20,0,0,0
+United Republic of Tanzania,TZA,2025-03-09,2,0,0,0,2,0,0,0
+United Republic of Tanzania,TZA,2025-03-02,0,0,0,0,0,0,0,0
+United Republic of Tanzania,TZA,2025-02-23,0,0,0,0,0,0,0,0
+Zambia,ZMB,2026-02-01,398,12,3,0,11,0,0,0
+Zambia,ZMB,2026-01-25,387,12,3,0,3,0,0,0
+Zambia,ZMB,2026-01-18,384,12,3,0,4,0,0,0
+Zambia,ZMB,2026-01-11,380,12,3,0,2,0,0,0
+Zambia,ZMB,2026-01-04,378,12,3,0,1,0,0,0
+Zambia,ZMB,2025-12-28,377,12,3,0,2,0,0,0
+Zambia,ZMB,2025-12-21,375,12,3,0,3,0,0,0
+Zambia,ZMB,2025-12-14,372,12,3,0,4,0,0,0
+Zambia,ZMB,2025-12-07,368,12,3,0,6,0,0,0
+Zambia,ZMB,2025-11-30,362,12,3,0,7,0,0,0
+Zambia,ZMB,2025-11-23,355,12,3,0,6,0,0,0
+Zambia,ZMB,2025-11-16,349,12,3,0,22,0,0,0
+Zambia,ZMB,2025-11-09,327,12,3,0,5,0,0,0
+Zambia,ZMB,2025-11-02,322,12,3,0,4,0,0,0
+Zambia,ZMB,2025-10-26,318,12,3,0,17,0,0,0
+Zambia,ZMB,2025-10-19,301,12,3,0,5,0,0,0
+Zambia,ZMB,2025-10-12,296,12,3,0,11,0,0,0
+Zambia,ZMB,2025-10-05,285,12,3,0,6,0,0,0
+Zambia,ZMB,2025-09-28,279,12,3,0,5,0,0,0
+Zambia,ZMB,2025-09-21,274,12,3,0,25,0,0,0
+Zambia,ZMB,2025-09-14,249,12,3,0,18,0,0,0
+Zambia,ZMB,2025-09-07,231,12,3,0,7,0,0,0
+Zambia,ZMB,2025-08-31,224,12,3,0,6,0,0,0
+Zambia,ZMB,2025-08-24,218,12,3,0,7,0,0,0
+Zambia,ZMB,2025-08-17,211,12,3,0,15,0,0,0
+Zambia,ZMB,2025-08-10,196,12,3,0,11,0,0,0
+Zambia,ZMB,2025-08-03,185,12,3,0,6,0,0,0
+Zambia,ZMB,2025-07-27,179,12,3,0,7,0,0,0
+Zambia,ZMB,2025-07-20,172,12,3,0,17,0,0,0
+Zambia,ZMB,2025-07-13,155,12,3,0,7,0,0,0
+Zambia,ZMB,2025-07-06,148,12,3,0,10,0,0,0
+Zambia,ZMB,2025-06-29,138,12,3,0,23,0,0,0
+Zambia,ZMB,2025-06-22,115,12,3,0,25,0,0,0
+Zambia,ZMB,2025-06-15,90,12,3,0,2,0,0,0
+Zambia,ZMB,2025-06-08,88,12,3,0,6,0,0,0
+Zambia,ZMB,2025-06-01,82,12,3,0,0,0,0,0
+Zambia,ZMB,2025-05-25,82,12,3,0,4,0,0,0
+Zambia,ZMB,2025-05-18,78,12,3,0,3,0,1,0
+Zambia,ZMB,2025-05-11,75,12,2,0,10,0,0,0
+Zambia,ZMB,2025-05-04,65,12,2,0,1,0,0,0
+Zambia,ZMB,2025-04-27,64,12,2,0,16,0,0,0
+Zambia,ZMB,2025-04-20,48,12,2,0,0,0,0,0
+Zambia,ZMB,2025-04-13,48,12,2,0,12,0,0,0
+Zambia,ZMB,2025-04-06,36,12,2,0,6,0,1,0
+Zambia,ZMB,2025-03-30,30,12,1,0,3,0,0,0
+Zambia,ZMB,2025-03-23,27,12,1,0,1,0,0,0
+Zambia,ZMB,2025-03-16,26,12,1,0,4,0,1,0
+Zambia,ZMB,2025-03-09,22,12,0,0,1,0,0,0
+Zambia,ZMB,2025-03-02,21,12,0,0,1,9,0,0
+Zambia,ZMB,2025-02-23,20,3,0,0,0,0,0,0
+Zambia,ZMB,2025-02-16,20,3,0,0,2,0,0,0
+Zambia,ZMB,2025-02-09,18,3,0,0,3,0,0,0
+Zambia,ZMB,2025-02-02,15,3,0,0,3,0,0,0
+Zambia,ZMB,2025-01-26,12,3,0,0,4,0,0,0
+Zambia,ZMB,2025-01-19,8,3,0,0,3,0,0,0
+Zambia,ZMB,2025-01-12,5,3,0,0,2,0,0,0
+Zambia,ZMB,2025-01-05,3,3,0,0,1,3,0,0
+Zambia,ZMB,2024-12-29,2,0,0,0,1,0,0,0
+Zambia,ZMB,2024-12-22,1,0,0,0,1,0,0,0
+Zambia,ZMB,2024-12-15,0,0,0,0,0,0,0,0
+Zambia,ZMB,2024-12-08,0,0,0,0,0,0,0,0
+Zambia,ZMB,2024-12-01,0,0,0,0,0,0,0,0
+Zambia,ZMB,2024-11-24,0,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-12-29,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-12-22,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-12-15,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-12-08,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-12-01,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-11-24,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-11-17,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-11-10,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-11-03,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-10-27,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-10-20,2,0,0,0,0,0,0,0
+Zimbabwe,ZWE,2024-10-13,2,0,0,0,2,0,0,0
+Zimbabwe,ZWE,2024-10-06,0,0,0,0,0,0,0,0
