@@ -75,7 +75,7 @@ mantis/ # Core library
 ├── utils.py # Preprocessing & normalization
 ├── __init__.py
 
-mantis_forecasting_demo.ipynb # ✅ Main Colab demo
+mantis_forecasting_demo.ipynb # Main Colab demo
 data/ # Example input data (CSV)
 models/ # Model weights (downloaded from Releases)
 setup.py
