@@ -3,7 +3,7 @@ Carson Dudley -- University of Michigan
 
 ---
 
-# 🦠 Mantis: A Foundation Model for Infectious Disease Forecasting
+# Mantis: A Foundation Model for Infectious Disease Forecasting
 
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm--Noncommercial%201.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -15,20 +15,20 @@ It forecasts infectious disease trajectories **without needing any real-world tr
 
 ---
 
-## 🚀 Try It
+## Try It
 
-👉 [Run the Colab Tutorial](https://colab.research.google.com/drive/1Epuq-6ZGUM67FOfWHnLGkld4-cb8EDW0?usp=sharing)  
+[Run the Colab Tutorial](https://colab.research.google.com/drive/1Epuq-6ZGUM67FOfWHnLGkld4-cb8EDW0?usp=sharing)  
 _No installation or coding required._
 
 ---
 
-## 📚 Paper
+## Paper
 
 - **Mantis Paper:** [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260) <br>
   *Carson Dudley et al., arXiv:2508.12260 [cs.AI]*
 ---
 
-## 📦 Installation
+## Installation
 
 To install the latest version directly from GitHub:
 
@@ -36,7 +36,7 @@ To install the latest version directly from GitHub:
 pip install git+https://github.com/carsondudley1/Mantis.git
 ```
 
-## 💾 Model Weights
+## Model Weights
 
 Model weights are available on the [Releases page](https://github.com/carsondudley1/Mantis/releases).  
 Each `.pt` file corresponds to a specific configuration (4-week / 8-week, with / without covariates).  
@@ -48,7 +48,7 @@ mkdir -p models
 wget -O models/mantis_4w_cov.pt https://github.com/carsondudley1/Mantis/releases/download/mantis-v1.0/mantis_4w_cov.pt
 ```
 
-## 🧪 Quick Example
+## Quick Example
 
 ```
 from mantis import Mantis
@@ -64,9 +64,9 @@ forecast = model.predict(
     covariate_type=1
 )
 ```
-📘 See full usage in mantis_forecasting_demo.ipynb
+See full usage in mantis_forecasting_demo.ipynb
 
-## 📁 Project Structure
+## Project Structure
 
 ``` text
 mantis/ # Core library
@@ -83,7 +83,7 @@ LICENSE.txt
 NOTICE.txt
 ```
 
-## 📄 Citation
+## Citation
 
 If you use Mantis in academic work, please cite the Mantis paper:
 
