@@ -24,8 +24,8 @@ _No installation or coding required._
 
 ## Paper
 
-- **Mantis Paper:** [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260) <br>
-  *Carson Dudley et al., arXiv:2508.12260 [cs.AI]*
+- **Mantis Paper:** [Mantis: A Foundation Model for Mechanistic Disease Forecasting](https://www.pnas.org/doi/10.1073/pnas.2602542123) <br>
+  *Carson Dudley et al., PNAS*
 ---
 
 ## Installation
@@ -89,11 +89,16 @@ If you use Mantis in academic work, please cite the Mantis paper:
 
 ```bibtex
 @article{mantis,
-  title={Mantis: A Foundation Model for Mechanistic Disease Forecasting},
-  author={Carson Dudley and Reiden Magdaleno and Christopher Harding and Ananya Sharma and Emily Martin and Marisa Eisenberg},
-  journal={arXiv preprint arXiv:2508.12260},
-  year={2025},
-  url={https://arxiv.org/abs/2508.12260}
+  title     = {Mantis: A foundation model for mechanistic disease forecasting},
+  author    = {Dudley, Carson and Magdaleno, Reiden and Harding, Christopher and Eisenberg, Marisa},
+  journal   = {Proceedings of the National Academy of Sciences},
+  volume    = {123},
+  number    = {40},
+  pages     = {e2602542123},
+  year      = {2026},
+  publisher = {National Academy of Sciences},
+  doi       = {10.1073/pnas.2602542123},
+  url       = {https://doi.org/10.1073/pnas.2602542123}
 }
 ```
 
