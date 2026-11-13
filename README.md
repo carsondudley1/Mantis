@@ -1,17 +1,19 @@
-© 2025 The Regents of the University of Michigan  
+© 2026 The Regents of the University of Michigan
+
 Carson Dudley -- University of Michigan
 
 ---
 
-# Mantis: A Foundation Model for Infectious Disease Forecasting
+# Mantis 2: A Foundation Model for Infectious Disease Forecasting
 
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm--Noncommercial%201.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Downloads](https://img.shields.io/github/downloads/carsondudley1/Mantis/total)
 
 
-**Mantis** is a foundation model trained entirely on mechanistic outbreak simulations.  
-It forecasts infectious disease trajectories **without needing any real-world training data**, and generalizes across diseases, regions, and outbreak settings.
+Mantis 2 is a probabilistic forecasting model trained on simulated outbreaks and
+real-world disease surveillance data. It forecasts up to six weekly time series
+jointly, returning 21 quantiles for each of the next 16 weeks.
 
 ---
 
@@ -30,40 +32,52 @@ _No installation or coding required._
 
 ## Installation
 
-To install the latest version directly from GitHub:
+Mantis 2 requires Python 3.10 or later.
 
 ```bash
-pip install git+https://github.com/carsondudley1/Mantis.git
+python -m pip install \
+  "mantis[v2] @ git+https://github.com/carsondudley1/Mantis.git@mantis-v2.0.0"
 ```
 
-## Model Weights
+## Model checkpoint
 
-Model weights are available on the [Releases page](https://github.com/carsondudley1/Mantis/releases).  
-Each `.pt` file corresponds to a specific configuration (4-week / 8-week, with / without covariates).  
-
-After installation, download your desired model like this:
+Download `config.json` and `model.safetensors` from the
+[Mantis 2 release](https://github.com/carsondudley1/Mantis/releases/tag/mantis-v2.0.0)
+and place both files in `models/mantis2/`. You can also download them from a terminal.
 
 ```bash
-mkdir -p models
-wget -O models/mantis_4w_cov.pt https://github.com/carsondudley1/Mantis/releases/download/mantis-v1.0/mantis_4w_cov.pt
+mkdir -p models/mantis2
+release_url="https://github.com/carsondudley1/Mantis/releases/download/mantis-v2.0.0"
+
+curl -fL "$release_url/config.json" -o models/mantis2/config.json
+curl -fL "$release_url/model.safetensors" -o models/mantis2/model.safetensors
 ```
 
 ## Quick Example
 
 ```
-from mantis import Mantis
+from mantis.v2 import Mantis2
 
-# Load a 4-week horizon model with covariates
-model = Mantis(forecast_horizon=4, use_covariate=True)
+# Load the model
+model = Mantis2()
 
 # Predict on example data
-forecast = model.predict(
-    time_series=deaths_ts,         # e.g. past deaths
-    covariate=hosp_ts,         # e.g. past hospitalizations
-    target_type=2,                # 0 = cases, 1 = hosp, 2 = deaths
-    covariate_type=1
-)
+forecast = model.predict(time_series=deaths_ts)
+
+# Mantis 2 will forecast the time series (dimension = 1) with 21 quantiles and for 16 weeks
+print(forecast.shape)  # (1, 21, 16)
 ```
+
+`deaths_ts` is a sequence of at least eight weekly observations in the original
+units, ordered oldest to newest. Use `NaN` for missing weeks. Mantis 2 generates
+seasonal features internally using a fixed starting phase.
+
+To forecast several aligned series together, pass one row per series:
+
+```python
+forecast = model.predict(time_series=[deaths_ts, hospitalizations_ts])
+```
+
 See full usage in mantis_forecasting_demo.ipynb
 
 ## Project Structure
