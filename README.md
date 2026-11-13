@@ -99,9 +99,8 @@ LICENSE.txt
 NOTICE.txt
 ```
 
-## Citation
+## Citations
 
-If you use Mantis in academic work, please cite the Mantis paper:
 
 ```bibtex
 @article{mantis,
@@ -118,3 +117,14 @@ If you use Mantis in academic work, please cite the Mantis paper:
 }
 ```
 
+```bibtex
+@misc{Mantis2,
+      title={Universal Infectious Disease Forecasting with Mantis 2}, 
+      author={Carson Dudley and Reiden Magdaleno and Yutong Bi and Anthony Valencia and Xiaofeng Liu and Marisa Eisenberg},
+      year={2026},
+      eprint={2611.16935},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2611.16935}, 
+}
+```
