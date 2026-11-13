@@ -28,6 +28,8 @@ _No installation or coding required._
 
 - **Mantis Paper:** [Mantis: A Foundation Model for Mechanistic Disease Forecasting](https://www.pnas.org/doi/10.1073/pnas.2602542123) <br>
   *Carson Dudley et al., PNAS*
+- **Mantis 2 Paper:** [Universal Infectious Disease Forecasting with Mantis 2](https://arxiv.org/abs/2611.16935) <br>
+  *Carson Dudley et al., Under review*
 ---
 
 ## Installation
