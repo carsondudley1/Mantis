@@ -7,7 +7,7 @@ Carson Dudley -- University of Michigan
 # Mantis 2: A Foundation Model for Infectious Disease Forecasting
 
 ![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm--Noncommercial%201.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Downloads](https://img.shields.io/github/downloads/carsondudley1/Mantis/total)
 
 
