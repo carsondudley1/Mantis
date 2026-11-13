@@ -118,7 +118,7 @@ NOTICE.txt
 ```
 
 ```bibtex
-@misc{Mantis2,
+@misc{mantis2,
       title={Universal Infectious Disease Forecasting with Mantis 2}, 
       author={Carson Dudley and Reiden Magdaleno and Yutong Bi and Anthony Valencia and Xiaofeng Liu and Marisa Eisenberg},
       year={2026},
